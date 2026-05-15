@@ -122,6 +122,3 @@ Logic import nằm ở `backend/courses/course_json_import.py` (`validate_course
   - `npm install`
   - `npm run dev`
 
-## Gợi ý khi mở chat mới
-
-Nói: `Hãy đọc TIEN_DO_DU_AN.md và tiếp tục từ mục Next`.
