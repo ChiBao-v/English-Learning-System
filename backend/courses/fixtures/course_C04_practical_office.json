@@ -1,0 +1,2274 @@
+{
+  "course_id": "C04",
+  "course_name": "Practical Office Communication (Intermediate B1)",
+  "course_description": "Giao tiếp công sở: small talk, email chuyên nghiệp, điện thoại, họp & ý kiến, modals & xin lỗi, cơ cấu công ty, báo cáo tiến độ (present perfect), lịch hẹn, thuyết trình, văn hóa làm việc từ xa.",
+  "course_level": "intermediate",
+  "content_mode": "text_only",
+  "expected_cohort_behavior": {
+    "typical_response_time_sec_per_item": [
+      10,
+      35
+    ],
+    "typical_accuracy_band": [
+      0.62,
+      0.86
+    ],
+    "hint_usage_rate": [
+      0.06,
+      0.25
+    ]
+  },
+  "lessons": [
+    {
+      "lesson_id": "L04_01",
+      "lesson_name": "Office Small Talk & Greetings (Vocabulary)",
+      "order": 1,
+      "estimated_minutes": 32,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "small_talk",
+        "time_est_minutes": 20,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Formal vs informal",
+            "body": "### Formal vs informal greetings\n\n**Formal** (sếp, khách, đối tác lần đầu):\n\n- *Good morning / Good afternoon.*  \n- *How do you do?* (rất trang trọng, lần đầu gặp)  \n- *It's a pleasure to meet you.*\n\n**Informal** (đồng nghiệp thân):\n\n- *Morning!* / *How's it going?* / *What's up?*\n\n> Trong môi trường chuyên nghiệp, chào **quá thân mật** với lãnh đạo/đối tác có thể được đánh giá là **không phù hợp** (fail ngữ cảnh)."
+          },
+          {
+            "title": "Trang 2 — Safe small talk",
+            "body": "### Safe small talk (văn phòng)\n\n- **Thời tiết:** *Terrible weather today, isn't it?*  \n- **Cuối tuần:** *How was your weekend?* / *Did you do anything fun?*  \n- **Công việc (nhẹ):** *Are you busy today?* / *How is the new project going?*\n\nTránh: lương, chính trị, chủ đề nhạy cảm cá nhân (trừ khi đã rất thân)."
+          },
+          {
+            "title": "Trang 3 — Kết thúc hội thoại",
+            "body": "### Ending a chat politely\n\nKhông **im lặng bỏ đi**. Dùng:\n\n- *Well, I should get back to work.*  \n- *It was great talking to you, but I have a meeting in 5 minutes.*\n\n### Thực hành\n\nViết **2 lời thoại ngắn**: một formal (chào đối tác), một informal (chào bạn cùng phòng)."
+          }
+        ],
+        "reading_passage": "Good morning, Mr. Lee. It's a pleasure to meet you. — Good morning. Terrible weather today, isn't it? Well, I should get back to work. Nice talking to you.",
+        "reading_word_count": 29,
+        "vocabulary": [
+          {
+            "word": "How do you do? / pleasure to meet you",
+            "vi": "chào trang trọng lần đầu"
+          },
+          {
+            "word": "get back to work",
+            "vi": "quay lại làm việc"
+          }
+        ],
+        "examples": [
+          {
+            "english": "How was your weekend?",
+            "vietnamese": "Cuối tuần của bạn thế nào?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_01_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Câu nào phù hợp nhất để chào đối tác lần đầu gặp mặt?",
+          "options": {
+            "A": "What's up?",
+            "B": "It's a pleasure to meet you.",
+            "C": "How's it going?",
+            "D": "See ya."
+          },
+          "correct_answer": "B",
+          "hint_text": "Formal + first meeting.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Chủ đề small talk tương đối an toàn ở văn phòng:",
+          "options": {
+            "A": "The weather",
+            "B": "Salary",
+            "C": "Politics",
+            "D": "Gossip about colleagues"
+          },
+          "correct_answer": "A",
+          "hint_text": "Weather is a classic safe topic.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Well, I should get back to _____.",
+          "options": {
+            "A": "work",
+            "B": "weekend",
+            "C": "politics",
+            "D": "salary"
+          },
+          "correct_answer": "A",
+          "hint_text": "Get back to work.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “How was your weekends?”",
+          "options": {
+            "A": "How",
+            "B": "was",
+            "C": "weekends",
+            "D": "your"
+          },
+          "correct_answer": "C",
+          "hint_text": "Your weekend (singular).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Formal — 2. Informal",
+          "options": {
+            "A": "1→Good morning, sir. — 2→Morning!",
+            "B": "1→Morning! — 2→Good morning, sir.",
+            "C": "1→What's up? — 2→How do you do?",
+            "D": "1→Salary — 2→Weather"
+          },
+          "correct_answer": "A",
+          "hint_text": "Formal vs informal pairing.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cách kết thúc cuộc trò chuyện lịch sự:",
+          "options": {
+            "A": "I want to go.",
+            "B": "I have a meeting in 5 minutes.",
+            "C": "Stop talking.",
+            "D": "Bye. (only)"
+          },
+          "correct_answer": "B",
+          "hint_text": "Polite + reason.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You should greet your boss with “What's up?” in most offices.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Too informal for many contexts.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Cuối tuần của bạn thế nào?”",
+          "options": {
+            "A": "How was your weekend?",
+            "B": "How is your weekend?",
+            "C": "What was weekend?",
+            "D": "How your weekend was?"
+          },
+          "correct_answer": "A",
+          "hint_text": "How was your weekend?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "If someone asks “How's it going?”, a natural reply is:",
+          "options": {
+            "A": "I am going to work.",
+            "B": "Great, thanks. And you?",
+            "C": "It is going.",
+            "D": "By train."
+          },
+          "correct_answer": "B",
+          "hint_text": "Short positive + return question.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_01_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Terrible weather today, _____ it?",
+          "options": {
+            "A": "isn't",
+            "B": "doesn't",
+            "C": "wasn't",
+            "D": "aren't"
+          },
+          "correct_answer": "A",
+          "hint_text": "Question tag with *is*.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_02",
+      "lesson_name": "Writing Professional Emails (Writing/Vocab)",
+      "order": 2,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "writing",
+        "topic": "email_basics",
+        "time_est_minutes": 30,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Openings & closings",
+            "body": "### Openings & closings\n\n**Mở:** *Dear Mr. Smith,* (formal) / *Hi Team,* (nội bộ).\n\n**Đóng:** *Sincerely,* (rất formal) / *Best regards,* / *Kind regards,* (rất phổ biến).\n\nLuôn **viết hoa** chữ cái đầu: *Dear*, *Best regards* — không viết *hi boss*."
+          },
+          {
+            "title": "Trang 2 — Purpose",
+            "body": "### Stating the purpose\n\nĐi **thẳng vào việc** — không vòng vo.\n\n**I am writing to + verb…**\n\n- *I am writing to inform you about the meeting.*"
+          },
+          {
+            "title": "Trang 3 — Attachments & CTA",
+            "body": "### Attachments & calls to action\n\n- *Please find attached the report.* / *I have attached the document.*  \n- *Please let me know if you have any questions.*  \n- *I look forward to hearing from you.*"
+          }
+        ],
+        "reading_passage": "Dear Sales team,\n\nI am writing to inform you about the new schedule. Please find attached the report.\n\nPlease let me know if you have any questions.\n\nBest regards,\nAnna",
+        "reading_word_count": 30,
+        "vocabulary": [
+          {
+            "word": "Best regards / Kind regards",
+            "vi": "kết thư trang trọng thân mật vừa phải"
+          },
+          {
+            "word": "Please find attached",
+            "vi": "xin xem file đính kèm"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I look forward to hearing from you.",
+            "vietnamese": "Tôi mong nhận được phản hồi từ bạn."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_02_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cách kết email phổ biến và an toàn trong kinh doanh:",
+          "options": {
+            "A": "Love,",
+            "B": "Bye,",
+            "C": "Best regards,",
+            "D": "Cheers mate,"
+          },
+          "correct_answer": "C",
+          "hint_text": "Best regards / Kind regards.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am _____ to inform you about the new schedule.",
+          "options": {
+            "A": "writing",
+            "B": "write",
+            "C": "written",
+            "D": "wrote"
+          },
+          "correct_answer": "A",
+          "hint_text": "I am writing to…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_03",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “Please find attach the file.”",
+          "options": {
+            "A": "Please",
+            "B": "find",
+            "C": "attach",
+            "D": "file"
+          },
+          "correct_answer": "C",
+          "hint_text": "Attached (adjective/participle).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Khi đính kèm báo cáo, cách viết tốt nhất:",
+          "options": {
+            "A": "Please find attached the report.",
+            "B": "The report is in the email body only wrong",
+            "C": "Attached I am report",
+            "D": "Report attached please find maybe"
+          },
+          "correct_answer": "A",
+          "hint_text": "Please find attached…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Opening — 2. Closing",
+          "options": {
+            "A": "1→Dear Mr. John, — 2→Sincerely,",
+            "B": "1→Sincerely, — 2→Dear Mr. John,",
+            "C": "1→Bye — 2→Hi",
+            "D": "1→Love — 2→Boss"
+          },
+          "correct_answer": "A",
+          "hint_text": "Dear… at start; Sincerely at end.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You should write “HI BOSS” at the start of a professional email.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Use Dear… / Hi + name (proper case).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi mong nhận được phản hồi từ bạn.”",
+          "options": {
+            "A": "I look forward to hearing from you.",
+            "B": "I look forward to hear you.",
+            "C": "I forward look to hearing you.",
+            "D": "I am forward to hear you."
+          },
+          "correct_answer": "A",
+          "hint_text": "to + V-ing after look forward to.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "After sending a complex document, a polite follow-up line is:",
+          "options": {
+            "A": "Please let me know if you have any questions.",
+            "B": "Don't ask me questions.",
+            "C": "No questions allowed.",
+            "D": "I hate questions."
+          },
+          "correct_answer": "A",
+          "hint_text": "Professional CTA.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Dear _____ team, (Kính gửi nhóm Bán hàng)",
+          "options": {
+            "A": "Sales",
+            "B": "sales",
+            "C": "sale's",
+            "D": "Sells"
+          },
+          "correct_answer": "A",
+          "hint_text": "Dear Sales team,",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_02_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Viết hoa đúng chuẩn:",
+          "options": {
+            "A": "Best Regards,",
+            "B": "Best regards,",
+            "C": "best regards,",
+            "D": "BEST REGARDS,"
+          },
+          "correct_answer": "B",
+          "hint_text": "Best regards, (only B capitalized in closing line).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_03",
+      "lesson_name": "Phone Calls & Taking Messages (Listening/Vocab)",
+      "order": 3,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "telephone",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Answering & asking",
+            "body": "### Answering & asking for someone\n\n**Người nhận:** *Hello, [Company name], [Your name] speaking. How can I help you?*\n\n**Người gọi:** *Hi, this is [name] from [company]. Could I speak to Mr. Davis, please?*"
+          },
+          {
+            "title": "Trang 2 — Unavailable",
+            "body": "### When someone is unavailable\n\n- *I'm afraid he is in a meeting.*  \n- *She is not at her desk right now.*\n\n**Đề xuất:** *Can I take a message?* / *Would you like to leave a message?*"
+          },
+          {
+            "title": "Trang 3 — Messages",
+            "body": "### Leaving a message\n\n- *Yes, please tell him that Anna called.*  \n- *Could you ask him to call me back at [number]?*"
+          }
+        ],
+        "reading_passage": "Hello, Bright Tech, Linh speaking. How can I help you? — Hi, this is Tom from Delta Ltd. Could I speak to Ms. Park, please? — I'm afraid she is in a meeting. Can I take a message?",
+        "reading_word_count": 38,
+        "vocabulary": [
+          {
+            "word": "speaking (on the phone)",
+            "vi": "đang nghe máy (đầu dây bên này là…)"
+          },
+          {
+            "word": "take a message",
+            "vi": "nhận lời nhắn"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Can I take a message?",
+            "vietnamese": "Tôi có thể nhận lời nhắn không?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_03_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Bốc máy công ty, bạn nói:",
+          "options": {
+            "A": "Who are you?",
+            "B": "ABC Company, John speaking.",
+            "C": "What do you want?",
+            "D": "Speak now."
+          },
+          "correct_answer": "B",
+          "hint_text": "Company + name + speaking.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Could I _____ to Ms. Sarah, please?",
+          "options": {
+            "A": "speak",
+            "B": "speaking",
+            "C": "spoke",
+            "D": "talking"
+          },
+          "correct_answer": "A",
+          "hint_text": "Could I speak to…?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cách lịch sự khi sếp đang bận:",
+          "options": {
+            "A": "He is busy. Bye.",
+            "B": "I'm afraid he is in a meeting.",
+            "C": "Hang up.",
+            "D": "Not here. Whatever."
+          },
+          "correct_answer": "B",
+          "hint_text": "I'm afraid… + reason.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “Can I leave a messages?”",
+          "options": {
+            "A": "Can",
+            "B": "leave",
+            "C": "messages",
+            "D": "a"
+          },
+          "correct_answer": "C",
+          "hint_text": "A message.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_05",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "On the phone, “This is Anna” often replaces “I am Anna.”",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Standard phone introduction.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_06",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Caller — 2. Receiver",
+          "options": {
+            "A": "1→Could you ask him to call me back? — 2→Can I take a message?",
+            "B": "1→Can I take a message? — 2→Could you ask him to call me back?",
+            "C": "1→Speaking — 2→Speaking",
+            "D": "1→Bye — 2→Hello"
+          },
+          "correct_answer": "A",
+          "hint_text": "Caller asks callback; receiver offers message.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi có thể nhận lời nhắn không?”",
+          "options": {
+            "A": "Can I take a message?",
+            "B": "Can I make a message?",
+            "C": "Can I leave a message to you wrong",
+            "D": "I take message?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Can I take a message?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Please _____ her that David called.",
+          "options": {
+            "A": "tell",
+            "B": "say",
+            "C": "speak",
+            "D": "talk"
+          },
+          "correct_answer": "A",
+          "hint_text": "Tell her that…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A client reads a phone number very fast. You say:",
+          "options": {
+            "A": "What?",
+            "B": "Could you repeat that, please?",
+            "C": "Wrong number.",
+            "D": "Stop."
+          },
+          "correct_answer": "B",
+          "hint_text": "Polite clarification.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_03_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Unavailable” on the phone usually means:",
+          "options": {
+            "A": "Free and waiting",
+            "B": "Not free / not able to take the call",
+            "C": "Happy",
+            "D": "Speaking"
+          },
+          "correct_answer": "B",
+          "hint_text": "Not available.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_04",
+      "lesson_name": "Meetings - Giving Opinions (Speaking/Grammar)",
+      "order": 4,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "meetings_opinions",
+        "time_est_minutes": 30,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Opinions",
+            "body": "### Giving opinions\n\nĐừng chỉ lặp *I think…* — đa dạng hóa:\n\n- *In my opinion, …*  \n- *From my point of view, …*  \n- *I strongly believe that …*"
+          },
+          {
+            "title": "Trang 2 — Agreeing",
+            "body": "### Agreeing\n\n- *I completely agree.*  \n- *That's a valid point.*  \n- *I feel exactly the same way.*"
+          },
+          {
+            "title": "Trang 3 — Disagreeing politely",
+            "body": "### Disagreeing politely\n\nTránh *You are wrong* trong họp.\n\n**Khen trước, phản biện sau:** *I see your point, but …*\n\n- *I'm afraid I have to disagree.*  \n- *That's a good idea, but how about …?*"
+          }
+        ],
+        "reading_passage": "In my opinion, we should delay the launch. That's a valid point about the budget. I see your point, but the risks are high. I'm afraid I have to disagree with the timeline.",
+        "reading_word_count": 33,
+        "vocabulary": [
+          {
+            "word": "valid point / disagree politely",
+            "vi": "ý hợp lý / phản đối lịch sự"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I'm afraid I have to disagree.",
+            "vietnamese": "Tôi e là tôi phải không đồng ý."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_04_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mở đầu để đưa ý kiến cá nhân:",
+          "options": {
+            "A": "In my opinion,",
+            "B": "I am opinion,",
+            "C": "In my opinions,",
+            "D": "My opinion is are"
+          },
+          "correct_answer": "A",
+          "hint_text": "In my opinion, …",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I completely _____. (đồng ý)",
+          "options": {
+            "A": "agree",
+            "B": "agrees",
+            "C": "agreeing",
+            "D": "to agree"
+          },
+          "correct_answer": "A",
+          "hint_text": "I completely agree.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cách phản biện lịch sự:",
+          "options": {
+            "A": "You are wrong.",
+            "B": "I see your point, but…",
+            "C": "That's stupid.",
+            "D": "Shut up."
+          },
+          "correct_answer": "B",
+          "hint_text": "Acknowledge + but…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “From my point of views…”",
+          "options": {
+            "A": "From",
+            "B": "my",
+            "C": "views",
+            "D": "point"
+          },
+          "correct_answer": "C",
+          "hint_text": "Point of view (singular).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Agree — 2. Disagree",
+          "options": {
+            "A": "1→That's a valid point — 2→I'm afraid I have to disagree",
+            "B": "1→I'm afraid I have to disagree — 2→That's a valid point",
+            "C": "1→You are wrong — 2→I agree",
+            "D": "1→Stupid — 2→Valid"
+          },
+          "correct_answer": "A",
+          "hint_text": "Valid point = agree tone; disagree phrase for opposition.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I strongly _____ that we should launch the product now.",
+          "options": {
+            "A": "believe",
+            "B": "believes",
+            "C": "believing",
+            "D": "belief"
+          },
+          "correct_answer": "A",
+          "hint_text": "I strongly believe that…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Using only “I think…” repeatedly is the best style in every meeting.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Vary your language.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi e là tôi phải không đồng ý.”",
+          "options": {
+            "A": "I'm afraid I have to disagree.",
+            "B": "I'm afraid to disagree have.",
+            "C": "I afraid disagree.",
+            "D": "I'm disagree afraid."
+          },
+          "correct_answer": "A",
+          "hint_text": "Fixed phrase.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Your boss suggests a risky idea. You respond professionally:",
+          "options": {
+            "A": "It's stupid.",
+            "B": "That's an interesting idea, but what about the risks?",
+            "C": "No.",
+            "D": "Wrong."
+          },
+          "correct_answer": "B",
+          "hint_text": "Polite + constructive.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_04_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Valid point” means:",
+          "options": {
+            "A": "A reasonable / good argument",
+            "B": "A useless idea",
+            "C": "Invalid",
+            "D": "Off topic"
+          },
+          "correct_answer": "A",
+          "hint_text": "Valid = well-reasoned.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_05",
+      "lesson_name": "Making Requests & Apologizing (Modals)",
+      "order": 5,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "modals_requests",
+        "time_est_minutes": 35,
+        "difficulty": 0.6
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Polite requests",
+            "body": "### Polite requests (modals)\n\nTránh mệnh lệnh: *Send me the file!*\n\n- *Could you + verb… please?* — *Could you send me the report, please?*  \n- *Would you mind + V-ing?* — *Would you mind sending me the report?*"
+          },
+          {
+            "title": "Trang 2 — Permission",
+            "body": "### Asking permission\n\n- *Do you mind if I leave early today?*\n\n**Đồng ý:** *No, not at all.* / *Go ahead.*"
+          },
+          {
+            "title": "Trang 3 — Apologies",
+            "body": "### Professional apologies\n\n- *I apologize for the delay.*  \n- *I'm sorry for the inconvenience — I will fix it right away.*"
+          }
+        ],
+        "reading_passage": "Could you review this draft, please? Would you mind checking the numbers? Do you mind if I leave at 4 PM? I apologize for the late reply.",
+        "reading_word_count": 27,
+        "vocabulary": [
+          {
+            "word": "Would you mind + -ing",
+            "vi": "phiền bạn làm…"
+          },
+          {
+            "word": "apologize for",
+            "vi": "xin lỗi về…"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I apologize for the delay.",
+            "vietnamese": "Tôi xin lỗi vì sự chậm trễ."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_05_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cách yêu cầu gửi file lịch sự nhất:",
+          "options": {
+            "A": "Send me the file.",
+            "B": "Could you send me the file, please?",
+            "C": "File now.",
+            "D": "Give file."
+          },
+          "correct_answer": "B",
+          "hint_text": "Could you… please?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Would you mind _____ (help) me with this project?",
+          "options": {
+            "A": "helping",
+            "B": "help",
+            "C": "to help",
+            "D": "helped"
+          },
+          "correct_answer": "A",
+          "hint_text": "Would you mind + V-ing.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_03",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “I apologize of the mistake.”",
+          "options": {
+            "A": "I",
+            "B": "apologize",
+            "C": "of",
+            "D": "mistake"
+          },
+          "correct_answer": "C",
+          "hint_text": "Apologize for.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Do you mind if I open the window?” — To agree, you say:",
+          "options": {
+            "A": "Yes, I mind.",
+            "B": "No, not at all.",
+            "C": "Yes, please mind.",
+            "D": "I mind yes."
+          },
+          "correct_answer": "B",
+          "hint_text": "No, not at all = not bothered.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi xin lỗi vì sự chậm trễ.”",
+          "options": {
+            "A": "I apologize for the delay.",
+            "B": "I apologize the delay.",
+            "C": "I apologize of the delay.",
+            "D": "I sorry for delay."
+          },
+          "correct_answer": "A",
+          "hint_text": "Apologize for the delay.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "After “Would you mind”, the verb is usually in -ing form.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Would you mind closing…?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am sorry for the _____ (inconvenience).",
+          "options": {
+            "A": "inconvenience",
+            "B": "inconvenient",
+            "C": "convenient",
+            "D": "convenience"
+          },
+          "correct_answer": "A",
+          "hint_text": "Noun after *the*.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A customer complains about a system error. You should say:",
+          "options": {
+            "A": "It's not my fault.",
+            "B": "I apologize for the inconvenience. We are fixing it.",
+            "C": "Not my problem.",
+            "D": "So what?"
+          },
+          "correct_answer": "B",
+          "hint_text": "Professional apology + action.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Apologize” is closest to:",
+          "options": {
+            "A": "Request",
+            "B": "Say sorry formally",
+            "C": "Order",
+            "D": "Cancel"
+          },
+          "correct_answer": "B",
+          "hint_text": "Apologize ≈ say sorry (formal register).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_05_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "Would you mind closing the door?",
+            "B": "Would you mind close the door?",
+            "C": "Would you mind to closing the door?",
+            "D": "You mind would closing door?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Would you mind + V-ing + object.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_06",
+      "lesson_name": "Departments & Responsibilities (Vocabulary)",
+      "order": 6,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "company_structure",
+        "time_est_minutes": 25,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Departments",
+            "body": "### Core departments\n\n- **HR** — Human Resources (nhân sự)  \n- **IT** — Information Technology  \n- **Sales & Marketing**  \n- **Accounting / Finance**  \n- **R&D** — Research and Development"
+          },
+          {
+            "title": "Trang 2 — Titles",
+            "body": "### Titles & roles\n\n*CEO*, *manager*, *supervisor*, *employee / staff*, *colleague / coworker*"
+          },
+          {
+            "title": "Trang 3 — Responsibilities",
+            "body": "### Responsibilities\n\n- *I am responsible for + V-ing / noun* — *I am responsible for training new staff.*  \n- *I am in charge of …* — *I am in charge of the marketing budget.*"
+          }
+        ],
+        "reading_passage": "Our HR department hires new employees. IT fixes computers. I am responsible for monthly reports. My manager is in charge of the whole team.",
+        "reading_word_count": 24,
+        "vocabulary": [
+          {
+            "word": "HR / IT / R&D",
+            "vi": "các phòng ban phổ biến"
+          },
+          {
+            "word": "responsible for / in charge of",
+            "vi": "chịu trách nhiệm / phụ trách"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I am in charge of the IT department.",
+            "vietnamese": "Tôi phụ trách phòng IT."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_06_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Phòng lo tuyển dụng nhân sự:",
+          "options": {
+            "A": "HR",
+            "B": "R&D",
+            "C": "IT",
+            "D": "Sales"
+          },
+          "correct_answer": "A",
+          "hint_text": "Human Resources.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am responsible _____ creating monthly reports.",
+          "options": {
+            "A": "for",
+            "B": "of",
+            "C": "to",
+            "D": "in"
+          },
+          "correct_answer": "A",
+          "hint_text": "Responsible for.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_03",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “I am in charge for the project.”",
+          "options": {
+            "A": "in charge",
+            "B": "for",
+            "C": "the",
+            "D": "project"
+          },
+          "correct_answer": "B",
+          "hint_text": "In charge of.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Người quản lý trực tiếp thường gọi là:",
+          "options": {
+            "A": "Colleague only",
+            "B": "Supervisor / Manager",
+            "C": "CEO always",
+            "D": "HR only"
+          },
+          "correct_answer": "B",
+          "hint_text": "Supervisor / manager.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Accounting — 2. R&D",
+          "options": {
+            "A": "1→money & taxes — 2→new product ideas",
+            "B": "1→new product ideas — 2→money & taxes",
+            "C": "1→IT support — 2→HR",
+            "D": "1→marketing — 2→sales only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Accounting ~ money; R&D ~ research.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "A person you work with is your _____.",
+          "options": {
+            "A": "colleague",
+            "B": "CEO",
+            "C": "passport",
+            "D": "browser"
+          },
+          "correct_answer": "A",
+          "hint_text": "Colleague / coworker.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "CEO stands for Chief Employee Officer.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Chief Executive Officer.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi phụ trách phòng IT.”",
+          "options": {
+            "A": "I am in charge of the IT department.",
+            "B": "I am in charge for the IT department.",
+            "C": "I am charge of IT.",
+            "D": "I in charge the IT."
+          },
+          "correct_answer": "A",
+          "hint_text": "In charge of.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "If your computer breaks, you usually contact:",
+          "options": {
+            "A": "HR",
+            "B": "IT",
+            "C": "Accounting",
+            "D": "Sales"
+          },
+          "correct_answer": "B",
+          "hint_text": "IT support.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_06_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "After “responsible for”, we often use:",
+          "options": {
+            "A": "to + verb",
+            "B": "V-ing or a noun",
+            "C": "bare infinitive only",
+            "D": "past tense"
+          },
+          "correct_answer": "B",
+          "hint_text": "Responsible for + -ing / noun.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_07",
+      "lesson_name": "Reporting Progress (Present Perfect vs Past Simple)",
+      "order": 7,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "perfect_tense_reporting",
+        "time_est_minutes": 35,
+        "difficulty": 0.65
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Present perfect",
+            "body": "### Present perfect (reporting)\n\n*Have/has + past participle* — kết quả / kinh nghiệm liên quan **hiện tại**, báo cáo tiến độ.\n\n*I have finished the report.*"
+          },
+          {
+            "title": "Trang 2 — Just, already, yet",
+            "body": "### Just / already / yet\n\n- *I have just sent the email.*  \n- *We have already booked the flight.*  \n- *I haven't received the data yet.* (yet ở cuối câu phủ định/câu hỏi)"
+          },
+          {
+            "title": "Trang 3 — vs Past simple",
+            "body": "### vs Past simple\n\nCó **mốc thời gian cụ thể** trong quá khứ (*yesterday*, *last week*) → **past simple**.\n\n✓ *I sent the report yesterday.*  \n✗ *I have sent the report yesterday.*"
+          }
+        ],
+        "reading_passage": "I have finished the slides. I have just emailed the client. We met the client last week. I haven't received their feedback yet.",
+        "reading_word_count": 23,
+        "vocabulary": [
+          {
+            "word": "already / yet / just",
+            "vi": "đã / chưa / vừa mới (với present perfect)"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I have just called the client.",
+            "vietnamese": "Tôi vừa mới gọi cho khách hàng."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_07_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Boss: “Have you finished the task?” You answer:",
+          "options": {
+            "A": "Yes, I finish.",
+            "B": "Yes, I have already finished it.",
+            "C": "Yes, I finished already have.",
+            "D": "Yes, I finishing."
+          },
+          "correct_answer": "B",
+          "hint_text": "Yes, I have (already)…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I haven't completed the presentation _____.",
+          "options": {
+            "A": "yet",
+            "B": "already",
+            "C": "just",
+            "D": "ever"
+          },
+          "correct_answer": "A",
+          "hint_text": "Yet in negative.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_03",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Which part is wrong: “We have met the client last week.”",
+          "options": {
+            "A": "We",
+            "B": "have met",
+            "C": "the client",
+            "D": "last week"
+          },
+          "correct_answer": "B",
+          "hint_text": "We met the client last week (past simple).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I _____ just updated the software.",
+          "options": {
+            "A": "has",
+            "B": "have",
+            "C": "did",
+            "D": "was"
+          },
+          "correct_answer": "B",
+          "hint_text": "I have just…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi vừa mới gọi cho khách hàng.”",
+          "options": {
+            "A": "I have just called the client.",
+            "B": "I just have called the client.",
+            "C": "I have called just the client.",
+            "D": "I called just have the client."
+          },
+          "correct_answer": "A",
+          "hint_text": "Have just + past participle.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "We often use “yet” at the end of a negative sentence to mean “not until now”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Haven't… yet.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You submitted the report at 8 AM; now it is 10 AM. You say:",
+          "options": {
+            "A": "I sent it at 8 AM.",
+            "B": "I have sent it at 8 AM.",
+            "C": "I have sent it since 8 AM wrong",
+            "D": "I send it at 8 AM."
+          },
+          "correct_answer": "A",
+          "hint_text": "Specific past time → past simple.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_08",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Already — 2. Yet",
+          "options": {
+            "A": "1→emphasizes completed before now — 2→negative/question “still not”",
+            "B": "1→negative — 2→positive",
+            "C": "1→past simple only — 2→future",
+            "D": "same meaning"
+          },
+          "correct_answer": "A",
+          "hint_text": "Already / yet usage.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "I have already sent the email.",
+            "B": "I already have sent the email.",
+            "C": "I sent have already the email.",
+            "D": "I have sent already the email."
+          },
+          "correct_answer": "A",
+          "hint_text": "Standard word order.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_07_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The IT team _____ (fix) the bug. It is working now.",
+          "options": {
+            "A": "has fixed",
+            "B": "fixed",
+            "C": "fixes",
+            "D": "fixing"
+          },
+          "correct_answer": "A",
+          "hint_text": "Result matters now → has fixed.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_08",
+      "lesson_name": "Scheduling & Appointments (Vocabulary)",
+      "order": 8,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "scheduling",
+        "time_est_minutes": 25,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Proposing time",
+            "body": "### Proposing a time\n\n- *Are you available on Tuesday at 3 PM?*  \n- *Can we set up a meeting for next week?*"
+          },
+          {
+            "title": "Trang 2 — Postpone & cancel",
+            "body": "### Postpone / cancel / move\n\n- *Can we postpone the meeting to Friday?* / *push it back*  \n- *Can we bring it forward to Monday?* (sớm hơn)  \n- *I'm afraid I have to cancel our appointment.*"
+          },
+          {
+            "title": "Trang 3 — Confirming",
+            "body": "### Confirming\n\n- *Tuesday at 3 PM works for me.*  \n- *I will send you a calendar invite.*"
+          }
+        ],
+        "reading_passage": "Are you available on Monday at 10? Can we set up a call? If not, we can push the meeting back to Wednesday. Tuesday works for me.",
+        "reading_word_count": 27,
+        "vocabulary": [
+          {
+            "word": "available / postpone / cancel",
+            "vi": "rảnh / hoãn / hủy"
+          },
+          {
+            "word": "works for me",
+            "vi": "thời gian đó phù hợp với tôi"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Can we postpone the meeting to Friday?",
+            "vietnamese": "Chúng ta có thể hoãn họp sang thứ Sáu không?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_08_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "To ask if someone is free, you often use:",
+          "options": {
+            "A": "empty",
+            "B": "available",
+            "C": "busy only",
+            "D": "full"
+          },
+          "correct_answer": "B",
+          "hint_text": "Are you available…?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Can we set _____ a meeting for tomorrow?",
+          "options": {
+            "A": "up",
+            "B": "on",
+            "C": "in",
+            "D": "at"
+          },
+          "correct_answer": "A",
+          "hint_text": "Set up a meeting.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_03",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “Tuesday works to me.”",
+          "options": {
+            "A": "Tuesday",
+            "B": "works",
+            "C": "to",
+            "D": "me"
+          },
+          "correct_answer": "C",
+          "hint_text": "Works for me.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A synonym for “postpone” in scheduling:",
+          "options": {
+            "A": "Bring forward",
+            "B": "Push back",
+            "C": "Confirm",
+            "D": "Attend"
+          },
+          "correct_answer": "B",
+          "hint_text": "Push back ≈ postpone.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Chúng ta có thể dời buổi họp sang thứ Sáu không?”",
+          "options": {
+            "A": "Can we postpone the meeting to Friday?",
+            "B": "Can we forward the meeting to Friday?",
+            "C": "Can we the meeting postpone Friday?",
+            "D": "Postpone we can Friday?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Postpone to Friday.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Bring forward” means to schedule earlier.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Earlier than planned.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I will send you a calendar _____. (common in Outlook/Google)",
+          "options": {
+            "A": "invite",
+            "B": "invitation",
+            "C": "inviting",
+            "D": "invited"
+          },
+          "correct_answer": "A",
+          "hint_text": "Often “calendar invite” in workplace English.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Reply to “Are you available on Monday?”",
+          "options": {
+            "A": "I am unavailable on Tuesday.",
+            "B": "Yes, Monday works for me.",
+            "C": "Monday is bad always",
+            "D": "No Monday."
+          },
+          "correct_answer": "B",
+          "hint_text": "Direct confirmation.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Cancel — 2. Propose a slot",
+          "options": {
+            "A": "1→I have to cancel — 2→Are you available?",
+            "B": "1→Are you available? — 2→I have to cancel",
+            "C": "1→Works for me — 2→Cancel",
+            "D": "1→Postpone — 2→Postpone"
+          },
+          "correct_answer": "A",
+          "hint_text": "Cancel vs proposing time.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_08_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“That time works for me” means:",
+          "options": {
+            "A": "That time suits me / is OK",
+            "B": "I must work overtime",
+            "C": "I cancel",
+            "D": "I am busy"
+          },
+          "correct_answer": "A",
+          "hint_text": "Works for me = OK.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_09",
+      "lesson_name": "Presentations - Signposting (Speaking)",
+      "order": 9,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "presentations",
+        "time_est_minutes": 30,
+        "difficulty": 0.6
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Introduction",
+            "body": "### Opening a presentation\n\n- *Good morning everyone. Thank you for coming.*  \n- *Today, I am going to talk about …*  \n- *My presentation is divided into three parts. First, … Second, … Finally, …*"
+          },
+          {
+            "title": "Trang 2 — Signposting",
+            "body": "### Signposting (moving between points)\n\n- *Let's move on to the next point.*  \n- *Turning our attention to the budget …*  \n- *As you can see on this slide …*"
+          },
+          {
+            "title": "Trang 3 — Q&A",
+            "body": "### Q&A\n\n- *That brings me to the end of my presentation.*  \n- *I would be happy to answer any questions.*  \n- *That's a good question. Let me check and get back to you later.*"
+          }
+        ],
+        "reading_passage": "Good morning everyone. Today I am going to talk about sales. First, I will outline the goals. Let's move on to the next point. As you can see on this slide, revenue grew. That brings me to the end of my presentation. I would be happy to answer any questions.",
+        "reading_word_count": 50,
+        "vocabulary": [
+          {
+            "word": "signposting / move on",
+            "vi": "chỉ dẫn người nghe / chuyển sang ý tiếp"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Let's move on to the budget.",
+            "vietnamese": "Hãy chuyển sang phần ngân sách."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_09_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "To start a presentation professionally:",
+          "options": {
+            "A": "Listen to me.",
+            "B": "Today, I am going to talk about…",
+            "C": "Be quiet.",
+            "D": "Look."
+          },
+          "correct_answer": "B",
+          "hint_text": "Standard opening.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "My presentation is divided _____ three parts.",
+          "options": {
+            "A": "into",
+            "B": "in",
+            "C": "to",
+            "D": "on"
+          },
+          "correct_answer": "A",
+          "hint_text": "Divided into.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_03",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “Let's move in to the next slide.”",
+          "options": {
+            "A": "Let's",
+            "B": "move",
+            "C": "in",
+            "D": "slide"
+          },
+          "correct_answer": "C",
+          "hint_text": "Move on to.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "To direct attention to the slide:",
+          "options": {
+            "A": "Look at me.",
+            "B": "As you can see on this slide…",
+            "C": "Don't read.",
+            "D": "Ignore the slide."
+          },
+          "correct_answer": "B",
+          "hint_text": "Professional signposting.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Hãy chuyển sang phần ngân sách.”",
+          "options": {
+            "A": "Let's move on to the budget.",
+            "B": "Let's move in to the budget.",
+            "C": "Move budget let's.",
+            "D": "We budget move."
+          },
+          "correct_answer": "A",
+          "hint_text": "Move on to.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "In Q&A, saying only “I don't know” is the most professional option.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Offer to follow up.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "That brings me to the _____ of my presentation.",
+          "options": {
+            "A": "end",
+            "B": "start",
+            "C": "middle",
+            "D": "slide"
+          },
+          "correct_answer": "A",
+          "hint_text": "End of presentation.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "I would be happy to answer any questions.",
+            "B": "I would happy be to answer any questions.",
+            "C": "I happy would answer any questions.",
+            "D": "Would I be happy answer any questions."
+          },
+          "correct_answer": "A",
+          "hint_text": "Would be happy to + verb.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Signposting helps the audience:",
+          "options": {
+            "A": "Follow the structure of your talk",
+            "B": "Sleep better",
+            "C": "Skip slides",
+            "D": "Ignore you"
+          },
+          "correct_answer": "A",
+          "hint_text": "Clear structure.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_09_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Signposting” in presentations means:",
+          "options": {
+            "A": "Using language to guide listeners through sections",
+            "B": "Only making pretty slides",
+            "C": "Speaking very fast",
+            "D": "Reading every word"
+          },
+          "correct_answer": "A",
+          "hint_text": "Discourse markers / signposts.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L04_10",
+      "lesson_name": "Remote Work Culture (Reading)",
+      "order": 10,
+      "estimated_minutes": 48,
+      "metadata": {
+        "skill": "reading",
+        "topic": "modern_workplace",
+        "time_est_minutes": 35,
+        "difficulty": 0.65
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Vocabulary",
+            "body": "### Pre-reading\n\n*Remote work / telecommuting*, *hybrid model*, *flexible hours*, *work-life balance*."
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading\n\nĐọc về **hybrid & remote** — lợi ích và **thách thức giao tiếp**."
+          },
+          {
+            "title": "Trang 3 — Phân tích",
+            "body": "### Post-reading — link to this course\n\nLợi ích: linh hoạt, cân bằng. Thách thức: không gặp trực tiếp → cần **email, tin nhắn, họp video** rõ ràng — ôn lại các bài trước (email, small talk, lịch hẹn)."
+          }
+        ],
+        "reading_passage": "In recent years, the traditional office has changed. Many companies now use a hybrid model. Employees work from home for three days and go to the office for two days a week. This model gives staff flexible hours and improves their work-life balance. However, remote work has challenges. Communication can be difficult. Colleagues can't just walk to another desk to ask a quick question. Instead, they have to schedule video calls on Zoom or send messages on Slack. To succeed in a remote team, clear and professional written communication is essential.",
+        "reading_word_count": 91,
+        "vocabulary": [
+          {
+            "word": "hybrid model / remote work",
+            "vi": "làm việc kết hợp / từ xa"
+          },
+          {
+            "word": "work-life balance",
+            "vi": "cân bằng công việc và cuộc sống"
+          }
+        ],
+        "examples": []
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L04_10_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What is a “hybrid model” in the text?",
+          "options": {
+            "A": "100% at home",
+            "B": "Working both at home and in the office",
+            "C": "Only in the office",
+            "D": "No work"
+          },
+          "correct_answer": "B",
+          "hint_text": "Home + office mix.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Remote work has no challenges.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "However, remote work has challenges.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The hybrid model improves an employee's work-life _____.",
+          "options": {
+            "A": "balance",
+            "B": "busy",
+            "C": "budget",
+            "D": "browser"
+          },
+          "correct_answer": "A",
+          "hint_text": "Work-life balance.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why is communication difficult in remote work (according to the text)?",
+          "options": {
+            "A": "You can't just walk to someone's desk.",
+            "B": "The internet is always bad.",
+            "C": "There is no email.",
+            "D": "Everyone is offline."
+          },
+          "correct_answer": "A",
+          "hint_text": "Can't walk to another desk.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Tools mentioned for communication include Zoom and _____.",
+          "options": {
+            "A": "Slack",
+            "B": "Facebook only",
+            "C": "paper",
+            "D": "fax"
+          },
+          "correct_answer": "A",
+          "hint_text": "Zoom or Slack.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is “essential” for remote teams?",
+          "options": {
+            "A": "Speaking loud",
+            "B": "Clear written communication",
+            "C": "Ignoring messages",
+            "D": "No meetings"
+          },
+          "correct_answer": "B",
+          "hint_text": "Clear and professional written communication.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A synonym for “staff” in the passage:",
+          "options": {
+            "A": "Managers only",
+            "B": "Employees",
+            "C": "Customers",
+            "D": "IT tools"
+          },
+          "correct_answer": "B",
+          "hint_text": "Staff ≈ employees.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Flexible hours mean you must work exactly 9–5 with no variation.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Flexible implies variation.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Làm việc từ xa có những thử thách.”",
+          "options": {
+            "A": "Remote work has challenges.",
+            "B": "Remote work has no challenge.",
+            "C": "Remote work is challenge.",
+            "D": "Challenges has remote work."
+          },
+          "correct_answer": "A",
+          "hint_text": "Has challenges.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L04_10_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text discusses pros and cons of the modern _____.",
+          "options": {
+            "A": "workplace",
+            "B": "airport",
+            "C": "guitar",
+            "D": "hospital"
+          },
+          "correct_answer": "A",
+          "hint_text": "Modern workplace / remote patterns.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    }
+  ]
+}

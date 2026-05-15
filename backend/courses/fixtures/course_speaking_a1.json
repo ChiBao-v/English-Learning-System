@@ -1,0 +1,994 @@
+{
+  "course_id": "speaking_a1",
+  "course_name": "Speaking — A1",
+  "course_description": "Bốn bài nói A1 (British Council): kiểm tra hiểu biết, đề xuất, gặp gỡ người mới, nói về người khác.",
+  "course_level": "beginner",
+  "course_skill": "speaking",
+  "course_cefr_level": "A1",
+  "lessons": [
+    {
+      "lesson_id": "S_a1_checking_understanding",
+      "lesson_name": "Checking Understanding",
+      "order": 1,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "speaking",
+        "source_html": "course/speaking/Checking understanding _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Các cụm từ kiểm tra hiểu biết (Checking Understanding Phrases)\n\nDùng những cụm từ này khi bạn không nghe rõ hoặc không hiểu người khác nói gì:\n\n- **I'm sorry?** — Xin lỗi? (yêu cầu nhắc lại)\n- **I can't hear you very well.** — Tôi không nghe rõ lắm.\n- **Could you say that again, please?** — Bạn có thể nói lại được không?\n- **I don't understand.** — Tôi không hiểu.\n- **Can you repeat that more slowly, please?** — Bạn có thể nhắc lại chậm hơn không?\n- **Do you mean ...?** — Ý bạn là ...?\n- **Is this it?** — Đây có phải cái đó không?\n- **Yes, that's right!** — Đúng vậy!\n\n> **Mẹo học:** Những cụm từ này rất hữu ích trong các tình huống nghe không rõ hoặc cần xác nhận thông tin."
+          }
+        ],
+        "reading_passage": "## Đoạn hội thoại mẫu: Checking Understanding\n\n**Bối cảnh:** Paul và Bob đang làm việc. Bob muốn Paul đưa cho mình một dụng cụ, nhưng Paul không nghe rõ.\n\n---\n\n**Bob:** This isn't right. Hey! Excuse me, Paul, could you pass me the hammer?\n\n**Paul:** Sorry, Bob, my ears are blocked. I can't hear you very well. Could you say that again, please?\n\n**Bob:** The hammer. Please could you pass it to me?\n\n**Paul:** The spanner?\n\n**Bob:** No. The hammer!\n\n**Paul:** Sorry, Bob, I don't understand. This is the spanner!\n\n**Bob:** No, Paul, I need the hammer. It's in the toolbox, on the left, under the scissors.\n\n**Paul:** Sorry, Bob. Could you repeat that more slowly, please?\n\n**Bob:** The hammer — in the toolbox — on the left — under the scissors.\n\n**Paul:** On the left — under the scissors — Oh! Do you mean the hammer? Is this it?\n\n**Bob:** Yes, that's right!\n\n**Paul:** Ah! Why didn't you say so?\n\n**Bob:** I did!\n\n---\n\n### Các cụm từ nổi bật trong hội thoại:\n\n| Cụm từ | Nghĩa |\n|--------|-------|\n| I can't hear you very well. | Tôi không nghe rõ lắm. |\n| Could you say that again, please? | Bạn có thể nói lại không? |\n| I don't understand. | Tôi không hiểu. |\n| Could you repeat that more slowly? | Bạn có thể nhắc lại chậm hơn không? |\n| Do you mean the hammer? | Ý bạn là cái búa? |\n| Is this it? | Đây có phải không? |\n| Yes, that's right! | Đúng rồi! |"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_S_checking_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Paul says 'I can't hear you very well.' What does this mean?",
+          "options": {
+            "A": "Paul does not want to listen.",
+            "B": "Paul cannot understand the words.",
+            "C": "Paul is having difficulty hearing Bob.",
+            "D": "Paul is asking Bob to speak louder only."
+          },
+          "correct_answer": "C",
+          "hint_text": "Paul's ears are blocked, so he is having trouble hearing."
+        },
+        {
+          "quiz_id": "Q_S_checking_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase do you use to ask someone to say something again?",
+          "options": {
+            "A": "I don't understand.",
+            "B": "Could you say that again, please?",
+            "C": "Is this it?",
+            "D": "Yes, that's right!"
+          },
+          "correct_answer": "B",
+          "hint_text": "This phrase directly asks the person to repeat what they said."
+        },
+        {
+          "quiz_id": "Q_S_checking_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Bob wants Paul to pass him the ___.",
+          "options": {
+            "A": "spanner",
+            "B": "scissors",
+            "C": "hammer",
+            "D": "toolbox"
+          },
+          "correct_answer": "C",
+          "hint_text": "Bob clearly says the name of the tool he needs several times."
+        },
+        {
+          "quiz_id": "Q_S_checking_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Paul says 'Could you repeat that more slowly, please?' When should you use this phrase?",
+          "options": {
+            "A": "When you want someone to speak louder.",
+            "B": "When someone is speaking too fast for you to understand.",
+            "C": "When you want to end a conversation.",
+            "D": "When you already understand but want confirmation."
+          },
+          "correct_answer": "B",
+          "hint_text": "The key word is 'slowly' — it is used when speech is too fast."
+        },
+        {
+          "quiz_id": "Q_S_checking_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase checks if you understood correctly by guessing?",
+          "options": {
+            "A": "I don't understand.",
+            "B": "Could you say that again?",
+            "C": "Do you mean the hammer?",
+            "D": "I can't hear you very well."
+          },
+          "correct_answer": "C",
+          "hint_text": "'Do you mean...?' is used to confirm your understanding by repeating what you think was said."
+        },
+        {
+          "quiz_id": "Q_S_checking_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where is the hammer according to Bob?",
+          "options": {
+            "A": "In the toolbox, on the right, under the scissors.",
+            "B": "In the toolbox, on the left, under the scissors.",
+            "C": "In the toolbox, on the left, above the scissors.",
+            "D": "Next to the toolbox, on the left."
+          },
+          "correct_answer": "B",
+          "hint_text": "Bob describes the location step by step."
+        },
+        {
+          "quiz_id": "Q_S_checking_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Paul picks up the wrong tool first. What does he pick up?",
+          "options": {
+            "A": "Hammer",
+            "B": "Scissors",
+            "C": "Spanner",
+            "D": "Toolbox"
+          },
+          "correct_answer": "C",
+          "hint_text": "Paul says 'This is the spanner!' when Bob asks for the hammer."
+        },
+        {
+          "quiz_id": "Q_S_checking_08",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'I'm sorry?' mean in a conversation?",
+          "options": {
+            "A": "I apologise for my mistake.",
+            "B": "Please repeat what you said.",
+            "C": "I feel bad about this situation.",
+            "D": "I am not available right now."
+          },
+          "correct_answer": "B",
+          "hint_text": "In conversation, 'I'm sorry?' (with rising intonation) is used to ask someone to repeat themselves."
+        },
+        {
+          "quiz_id": "Q_S_checking_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which is the most polite way to ask someone to repeat something more slowly?",
+          "options": {
+            "A": "Say it again!",
+            "B": "Repeat slowly.",
+            "C": "Could you repeat that more slowly, please?",
+            "D": "Slower, please!"
+          },
+          "correct_answer": "C",
+          "hint_text": "Using 'Could you...please?' makes the request polite."
+        },
+        {
+          "quiz_id": "Q_S_checking_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "After Bob explains the location again slowly, what does Paul say to confirm?",
+          "options": {
+            "A": "I still don't understand.",
+            "B": "On the left — under the scissors — Oh! Do you mean the hammer? Is this it?",
+            "C": "The hammer is in the toolbox.",
+            "D": "Yes, that's right!"
+          },
+          "correct_answer": "B",
+          "hint_text": "Paul repeats the location and then checks 'Do you mean...? Is this it?'"
+        },
+        {
+          "quiz_id": "Q_S_checking_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase is used to CONFIRM that someone has the right item?",
+          "options": {
+            "A": "Could you say that again, please?",
+            "B": "I don't understand.",
+            "C": "Yes, that's right!",
+            "D": "Do you mean the hammer?"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Yes, that's right!' confirms that the other person has understood or found the correct thing."
+        },
+        {
+          "quiz_id": "Q_S_checking_12",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Your colleague gives you directions very quickly. Which TWO phrases could you use? Choose the BEST option.",
+          "options": {
+            "A": "I don't understand. / Yes, that's right!",
+            "B": "Could you say that again? / Could you repeat that more slowly, please?",
+            "C": "Is this it? / Do you mean...?",
+            "D": "I can't hear you. / Yes, that's right!"
+          },
+          "correct_answer": "B",
+          "hint_text": "When someone speaks too fast, you ask them to repeat and to slow down."
+        },
+        {
+          "quiz_id": "Q_S_checking_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Ana says: 'Try and use some of these phrases the next time you want to ___ your understanding in English.'",
+          "options": {
+            "A": "improve",
+            "B": "check",
+            "C": "test",
+            "D": "share"
+          },
+          "correct_answer": "B",
+          "hint_text": "The lesson is about 'checking understanding'."
+        },
+        {
+          "quiz_id": "Q_S_checking_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence is INCORRECT for checking understanding?",
+          "options": {
+            "A": "Could you say that again, please?",
+            "B": "Do you mean the hammer?",
+            "C": "I am understand you.",
+            "D": "I can't hear you very well."
+          },
+          "correct_answer": "C",
+          "hint_text": "Check the grammar — 'I am understand' is not correct English."
+        },
+        {
+          "quiz_id": "Q_S_checking_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Why does Paul have difficulty hearing Bob at the start of the conversation?",
+          "options": {
+            "A": "Bob is speaking too quietly.",
+            "B": "There is too much noise.",
+            "C": "Paul's ears are blocked.",
+            "D": "Paul is not paying attention."
+          },
+          "correct_answer": "C",
+          "hint_text": "Paul says 'my ears are blocked' at the beginning."
+        },
+        {
+          "quiz_id": "Q_S_checking_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which response is most appropriate when someone says 'Is this it?' and they have the correct item?",
+          "options": {
+            "A": "I don't understand.",
+            "B": "Yes, that's right!",
+            "C": "Could you say that again?",
+            "D": "Do you mean the hammer?"
+          },
+          "correct_answer": "B",
+          "hint_text": "To confirm someone has the correct item, you say 'Yes, that's right!'"
+        }
+      ]
+    },
+    {
+      "lesson_id": "S_a1_making_suggestions",
+      "lesson_name": "Making Suggestions",
+      "order": 2,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "speaking",
+        "source_html": "course/speaking/Making suggestions _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Các cụm từ đề xuất (Making Suggestions Phrases)\n\nDùng những cụm từ này khi bạn muốn gợi ý hoặc đề xuất điều gì đó:\n\n- **Let's ...** — Hãy cùng nhau ...\n- **How about ...?** — Thế còn ... thì sao? / Chúng ta ... nhé?\n- **Why don't you/we ...?** — Tại sao chúng ta không ...?\n- **Shall we ...?** — Chúng ta có ... không?\n- **Sure.** — Được thôi.\n- **Agreed. Good idea.** — Đồng ý. Ý hay đấy.\n- **OK, no problem.** — OK, không sao.\n- **Good plan.** — Kế hoạch hay đấy.\n- **Yeah, sure.** — Ừ, được thôi.\n- **We'll need some extra help.** — Chúng ta sẽ cần thêm sự hỗ trợ.\n\n> **Mẹo học:** 'Let's', 'How about', 'Why don't we', và 'Shall we' là những cách phổ biến nhất để đề xuất trong tiếng Anh hàng ngày."
+          }
+        ],
+        "reading_passage": "## Đoạn hội thoại mẫu: Making Suggestions\n\n**Bối cảnh:** Noelia và Yuna đang họp. Họ tắt điện thoại để tập trung và đề xuất các kế hoạch công việc.\n\n---\n\n**Yuna:** OK, this time let's focus. Phones off.\n\n**Noelia:** Yes, and in my bag!\n\n**Yuna:** Ready?\n\n**Noelia:** I'm ready.\n\n**Yuna:** We have half an hour.\n\n**Noelia:** OK, let's go!\n\n**Yuna:** How about starting with social media?\n\n**Noelia:** Sure. Engagement is up 15 per cent this month.\n\n**Yuna:** Good. So let's go for 20 per cent for next month.\n\n**Noelia:** Yeah, sure. I'll tell the team. We'll need some extra help to make it work.\n\n**Yuna:** Agreed. Good idea.\n\n**Yuna:** Why don't you ask Vanya to help you create a new social media plan?\n\n**Noelia:** OK, no problem. Shall we present it at the next team meeting together?\n\n**Yuna:** Good plan. Can you let Paul see it first?\n\n**Noelia:** Sure, I'll do that.\n\n**Yuna:** Anything else?\n\n**Noelia:** No, that's it.\n\n**Yuna:** And that's half an hour! We did it!\n\n**Noelia:** We're really good at this!\n\n---\n\n### Các cụm từ đề xuất trong hội thoại:\n\n| Cụm từ | Loại | Nghĩa |\n|--------|------|-------|\n| Let's focus. | Đề xuất (chúng ta) | Hãy tập trung. |\n| How about starting with social media? | Đề xuất ý tưởng | Bắt đầu với mạng xã hội nhé? |\n| Let's go for 20 per cent. | Đề xuất mục tiêu | Hướng đến 20 phần trăm nhé. |\n| Why don't you ask Vanya? | Đề xuất cho người khác | Tại sao bạn không hỏi Vanya? |\n| Shall we present it together? | Đề xuất cùng làm | Chúng ta cùng trình bày nhé? |\n| Agreed. Good idea. | Đồng ý đề xuất | Đồng ý. Ý hay. |\n| Good plan. | Đồng ý đề xuất | Kế hoạch hay. |"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_S_suggestions_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase is used to make a suggestion to a group?",
+          "options": {
+            "A": "Why don't you go?",
+            "B": "Let's focus.",
+            "C": "I suggest you try.",
+            "D": "You should go."
+          },
+          "correct_answer": "B",
+          "hint_text": "'Let's...' is used to suggest something for a group (including the speaker)."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna says 'How about starting with social media?' What is she doing?",
+          "options": {
+            "A": "Asking a question about the past.",
+            "B": "Making a suggestion.",
+            "C": "Giving an order.",
+            "D": "Refusing a plan."
+          },
+          "correct_answer": "B",
+          "hint_text": "'How about...?' is a common way to make a suggestion."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Which word shows that Noelia AGREES with Yuna's suggestion?",
+          "options": {
+            "A": "Sorry",
+            "B": "Sure",
+            "C": "Maybe",
+            "D": "Never"
+          },
+          "correct_answer": "B",
+          "hint_text": "'Sure' means yes, I agree."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Complete: '___ we present it at the next team meeting together?'",
+          "options": {
+            "A": "Will",
+            "B": "How about",
+            "C": "Shall",
+            "D": "Let's"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Shall we...?' is used to suggest doing something together."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "'Agreed. Good idea.' — What does this response mean?",
+          "options": {
+            "A": "I disagree with the suggestion.",
+            "B": "I need more time to think.",
+            "C": "I accept and support the suggestion.",
+            "D": "I do not understand the suggestion."
+          },
+          "correct_answer": "C",
+          "hint_text": "'Agreed' means you agree; 'Good idea' shows support."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna says 'Why don't you ask Vanya to help?' This is a suggestion for ___.",
+          "options": {
+            "A": "Yuna herself",
+            "B": "the whole team",
+            "C": "Noelia specifically",
+            "D": "Vanya"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Why don't you...' is directed at the other person (Noelia)."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the DIFFERENCE between 'Let's go' and 'Why don't you go'?",
+          "options": {
+            "A": "They have the same meaning.",
+            "B": "'Let's go' includes the speaker; 'Why don't you go' is for the other person only.",
+            "C": "'Let's go' is more formal.",
+            "D": "'Why don't you go' is more polite."
+          },
+          "correct_answer": "B",
+          "hint_text": "'Let's' = let us (includes everyone); 'Why don't you' = only for the listener."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_08",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does Noelia say to agree to letting Paul see the plan first?",
+          "options": {
+            "A": "Good plan.",
+            "B": "Why don't you?",
+            "C": "Sure, I'll do that.",
+            "D": "Let's go!"
+          },
+          "correct_answer": "C",
+          "hint_text": "Noelia accepts the suggestion with 'Sure, I'll do that.'"
+        },
+        {
+          "quiz_id": "Q_S_suggestions_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "How about ___ with the report? (Complete the suggestion correctly.)",
+          "options": {
+            "A": "start",
+            "B": "to start",
+            "C": "starting",
+            "D": "started"
+          },
+          "correct_answer": "C",
+          "hint_text": "'How about' is followed by the -ing (gerund) form of the verb."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna says 'Good plan.' This is a response to ___.",
+          "options": {
+            "A": "Noelia's suggestion to present at the team meeting.",
+            "B": "Yuna's own idea about social media.",
+            "C": "The team's performance report.",
+            "D": "Paul's request to review the plan."
+          },
+          "correct_answer": "A",
+          "hint_text": "Yuna says 'Good plan' after Noelia asks 'Shall we present it at the next team meeting together?'"
+        },
+        {
+          "quiz_id": "Q_S_suggestions_11",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase is NOT used in the dialogue?",
+          "options": {
+            "A": "Let's focus.",
+            "B": "How about starting with social media?",
+            "C": "I think we should try harder.",
+            "D": "Shall we present it at the next team meeting?"
+          },
+          "correct_answer": "C",
+          "hint_text": "'I think we should...' does not appear in the dialogue."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Noelia says 'We'll need some extra help to make it work.' What is she doing?",
+          "options": {
+            "A": "Refusing Yuna's suggestion.",
+            "B": "Explaining a requirement for the plan to succeed.",
+            "C": "Asking Yuna to work overtime.",
+            "D": "Suggesting they hire new staff immediately."
+          },
+          "correct_answer": "B",
+          "hint_text": "She is noting what is needed for the 20% goal to be achieved."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which set of phrases are ALL used to agree with a suggestion?",
+          "options": {
+            "A": "Sure / Agreed / Good plan",
+            "B": "Let's / How about / Shall we",
+            "C": "Why don't you / Let's / How about",
+            "D": "Good plan / Why don't you / Let's"
+          },
+          "correct_answer": "A",
+          "hint_text": "'Sure', 'Agreed', and 'Good plan' are all used to accept a suggestion."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the social media engagement target for next month?",
+          "options": {
+            "A": "10 per cent",
+            "B": "15 per cent",
+            "C": "20 per cent",
+            "D": "25 per cent"
+          },
+          "correct_answer": "C",
+          "hint_text": "Yuna suggests: 'let's go for 20 per cent for next month.'"
+        },
+        {
+          "quiz_id": "Q_S_suggestions_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "You want to suggest that your friend tries a new restaurant. Which is MOST natural?",
+          "options": {
+            "A": "You must go to the new restaurant.",
+            "B": "How about trying the new restaurant?",
+            "C": "I am suggesting the new restaurant.",
+            "D": "New restaurant, yes?"
+          },
+          "correct_answer": "B",
+          "hint_text": "'How about + -ing' is the most natural and polite way to make this suggestion."
+        },
+        {
+          "quiz_id": "Q_S_suggestions_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna says 'Why don't you ask Vanya to help you create a new social media plan?' What is Vanya's role here?",
+          "options": {
+            "A": "Vanya will present the plan at the meeting.",
+            "B": "Vanya will help create the social media plan.",
+            "C": "Vanya will review Paul's work.",
+            "D": "Vanya will manage the whole team."
+          },
+          "correct_answer": "B",
+          "hint_text": "Yuna suggests Vanya helps with creating the social media plan."
+        }
+      ]
+    },
+    {
+      "lesson_id": "S_a1_meeting_new_people",
+      "lesson_name": "Meeting New People",
+      "order": 3,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "speaking",
+        "source_html": "course/speaking/Meeting new people _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Các cụm từ gặp gỡ người mới (Meeting New People Phrases)\n\nDùng những cụm từ này khi bạn gặp và giới thiệu bản thân với người mới:\n\n- **Hi, I'm [name].** — Xin chào, tôi là [tên].\n- **You must be [name].** — Chắc bạn là [tên]. (khi đã biết tên trước)\n- **Nice to meet you.** — Rất vui được gặp bạn.\n- **You too.** — Tôi cũng vậy. (Rất vui được gặp bạn cũng vậy.)\n- **This is [name].** — Đây là [tên]. (giới thiệu người khác)\n- **So how was your journey?** — Chuyến đi của bạn thế nào?\n- **It's great to be here!** — Tuyệt khi được ở đây!\n- **It's great to have you here.** — Tuyệt khi có bạn ở đây.\n- **Welcome to the team!** — Chào mừng đến với nhóm!\n\n> **Mẹo học:** 'Nice to meet you' và 'You too' là cặp câu thường đi với nhau khi hai người gặp lần đầu."
+          }
+        ],
+        "reading_passage": "## Đoạn hội thoại mẫu: Meeting New People\n\n**Bối cảnh:** Vanya đến văn phòng mới. Emir được Paul nhờ đón Vanya. Sau đó Vanya gặp Yuna.\n\n---\n\n**Vanya:** Hi.\n\n**Emir:** Hello.\n\n**Vanya:** Are you Paul?\n\n**Emir:** No, I'm not. But he asked me to meet you. I'm Emir. You must be Vanya.\n\n**Vanya:** Yes, I am. Nice to meet you.\n\n**Emir:** You too. Can I show you the office?\n\n**Vanya:** Perfect. Thanks.\n\n**Emir:** So how was your journey?\n\n**Vanya:** It was fine and it's great to be here!\n\n**Emir:** Well, it's great to have you here. Can I get you a coffee?\n\n**Vanya:** Oh, yes, please.\n\n*(Later...)*\n\n**Emir:** Ah, Yuna, this is Vanya.\n\n**Yuna:** Oh, hi, I'm Yuna. Nice to meet you. Welcome to the team!\n\n---\n\n### Các cụm từ nổi bật:\n\n| Cụm từ | Cách dùng |\n|--------|----------|\n| Hi, I'm Yuna. | Giới thiệu bản thân |\n| You must be Vanya. | Xác nhận tên người khác khi đã biết trước |\n| Nice to meet you. | Nói khi gặp ai lần đầu |\n| You too. | Phản hồi khi ai đó nói 'Nice to meet you' |\n| This is Vanya. | Giới thiệu người thứ ba |\n| How was your journey? | Hỏi thăm sau chuyến đi |\n| It's great to be here! | Bày tỏ sự vui mừng khi đến nơi mới |\n| Welcome to the team! | Chào đón thành viên mới |"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_S_meeting_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "When you meet someone for the first time, you say:",
+          "options": {
+            "A": "How are you doing?",
+            "B": "Nice to meet you.",
+            "C": "See you later.",
+            "D": "How was your journey?"
+          },
+          "correct_answer": "B",
+          "hint_text": "'Nice to meet you' is the standard phrase for first meetings."
+        },
+        {
+          "quiz_id": "Q_S_meeting_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Emir says 'You must be Vanya.' He uses this phrase because:",
+          "options": {
+            "A": "He is guessing her name.",
+            "B": "Paul told him her name before she arrived.",
+            "C": "He has met Vanya before.",
+            "D": "He saw her name on a badge."
+          },
+          "correct_answer": "B",
+          "hint_text": "Emir says Paul 'asked me to meet you,' so Paul told him her name."
+        },
+        {
+          "quiz_id": "Q_S_meeting_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'You too.' mean after 'Nice to meet you'?",
+          "options": {
+            "A": "Me too — it is also nice to meet you.",
+            "B": "You are also new here.",
+            "C": "I agree with you.",
+            "D": "You are welcome."
+          },
+          "correct_answer": "A",
+          "hint_text": "'You too' is a short way of saying 'Nice to meet you too.'"
+        },
+        {
+          "quiz_id": "Q_S_meeting_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Emir says 'Ah, Yuna, this is Vanya.' What is he doing?",
+          "options": {
+            "A": "Asking Yuna to help Vanya.",
+            "B": "Introducing Vanya to Yuna.",
+            "C": "Saying goodbye to both.",
+            "D": "Asking for Yuna's name."
+          },
+          "correct_answer": "B",
+          "hint_text": "'This is [name]' is used to introduce one person to another."
+        },
+        {
+          "quiz_id": "Q_S_meeting_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "How does Vanya respond to 'So how was your journey?'",
+          "options": {
+            "A": "It's great to have you here.",
+            "B": "It was fine and it's great to be here!",
+            "C": "Nice to meet you.",
+            "D": "You must be Vanya."
+          },
+          "correct_answer": "B",
+          "hint_text": "Vanya answers the question about her journey positively."
+        },
+        {
+          "quiz_id": "Q_S_meeting_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "'Welcome to the team!' — Who says this?",
+          "options": {
+            "A": "Emir",
+            "B": "Paul",
+            "C": "Ana",
+            "D": "Yuna"
+          },
+          "correct_answer": "D",
+          "hint_text": "Yuna says 'Nice to meet you. Welcome to the team!' when she meets Vanya."
+        },
+        {
+          "quiz_id": "Q_S_meeting_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Vanya asks 'Are you Paul?' — Why does she ask this?",
+          "options": {
+            "A": "She wants to know if Paul works there.",
+            "B": "She was expecting to meet Paul.",
+            "C": "She has met Paul before.",
+            "D": "She needs to speak with Paul urgently."
+          },
+          "correct_answer": "B",
+          "hint_text": "Emir says 'Paul asked me to meet you,' suggesting Paul was supposed to be there."
+        },
+        {
+          "quiz_id": "Q_S_meeting_08",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase welcomes someone to a new workplace?",
+          "options": {
+            "A": "How was your journey?",
+            "B": "You must be Vanya.",
+            "C": "Welcome to the team!",
+            "D": "It's great to be here."
+          },
+          "correct_answer": "C",
+          "hint_text": "'Welcome to the team!' is specifically used to greet a new team member."
+        },
+        {
+          "quiz_id": "Q_S_meeting_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "After showing Vanya the office, Emir offers her a ___.",
+          "options": {
+            "A": "tour of the building",
+            "B": "coffee",
+            "C": "seat",
+            "D": "meeting with Paul"
+          },
+          "correct_answer": "B",
+          "hint_text": "Emir asks 'Can I get you a coffee?'"
+        },
+        {
+          "quiz_id": "Q_S_meeting_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase is used to express happiness about arriving somewhere new?",
+          "options": {
+            "A": "Nice to meet you.",
+            "B": "It's great to be here!",
+            "C": "You must be Vanya.",
+            "D": "How was your journey?"
+          },
+          "correct_answer": "B",
+          "hint_text": "'It's great to be here!' expresses joy about being in a new place."
+        },
+        {
+          "quiz_id": "Q_S_meeting_11",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Your new colleague arrives at the office for the first time. What is the BEST thing to say?",
+          "options": {
+            "A": "Do you know how to do this job?",
+            "B": "Hi, I'm [your name]. Nice to meet you. Welcome to the team!",
+            "C": "What is your name please?",
+            "D": "Are you the new person?"
+          },
+          "correct_answer": "B",
+          "hint_text": "Introduce yourself, greet them, and welcome them to the team."
+        },
+        {
+          "quiz_id": "Q_S_meeting_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Emir says 'It's great to have you here.' This phrase is said by ___.",
+          "options": {
+            "A": "the new person arriving",
+            "B": "the person who is already there welcoming the newcomer",
+            "C": "someone leaving the company",
+            "D": "the manager in a meeting"
+          },
+          "correct_answer": "B",
+          "hint_text": "Emir says this to Vanya — he is the host welcoming her."
+        },
+        {
+          "quiz_id": "Q_S_meeting_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which of these phrases is used to INTRODUCE a third person (someone else)?",
+          "options": {
+            "A": "You must be Vanya.",
+            "B": "Hi, I'm Emir.",
+            "C": "This is Vanya.",
+            "D": "Nice to meet you."
+          },
+          "correct_answer": "C",
+          "hint_text": "'This is [name]' introduces another person to someone."
+        },
+        {
+          "quiz_id": "Q_S_meeting_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Put the conversation in the correct order:\n1. Nice to meet you.\n2. Hi, I'm Ana.\n3. You too.\n4. You must be Yuna.",
+          "options": {
+            "A": "2 → 4 → 1 → 3",
+            "B": "4 → 2 → 1 → 3",
+            "C": "1 → 2 → 3 → 4",
+            "D": "2 → 1 → 4 → 3"
+          },
+          "correct_answer": "A",
+          "hint_text": "Introduce yourself → guess the other person's name → say nice to meet you → respond."
+        },
+        {
+          "quiz_id": "Q_S_meeting_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does Ana (the presenter) ask at the end of the lesson?",
+          "options": {
+            "A": "Did you enjoy the video?",
+            "B": "Do you like meeting new people?",
+            "C": "Can you introduce yourself?",
+            "D": "What are the useful phrases?"
+          },
+          "correct_answer": "B",
+          "hint_text": "The discussion question is 'Do you like meeting new people?'"
+        },
+        {
+          "quiz_id": "Q_S_meeting_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence is GRAMMATICALLY CORRECT for introducing yourself?",
+          "options": {
+            "A": "I am Ana is.",
+            "B": "My name is calling Ana.",
+            "C": "Hi, I'm Ana.",
+            "D": "I am be Ana."
+          },
+          "correct_answer": "C",
+          "hint_text": "'Hi, I'm [name]' is the natural and grammatically correct way to introduce yourself."
+        }
+      ]
+    },
+    {
+      "lesson_id": "S_a1_talking_about_other_people",
+      "lesson_name": "Talking About Other People",
+      "order": 4,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "speaking",
+        "source_html": "course/speaking/Talking about other people _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Các cụm từ nói về người khác (Talking About Other People Phrases)\n\nDùng những cụm từ này khi bạn muốn nói về người khác:\n\n- **Do you know [name]?** — Bạn có biết [tên] không?\n- **Yes, I do.** — Có, tôi biết.\n- **She's lovely, isn't she?** — Cô ấy dễ thương lắm, phải không?\n- **I like her a lot.** — Tôi rất thích cô ấy.\n- **She's very good at her job.** — Cô ấy rất giỏi công việc.\n- **She's an excellent businessperson.** — Cô ấy là một người kinh doanh xuất sắc.\n- **She always gets what she wants.** — Cô ấy luôn đạt được điều mình muốn.\n- **Do you work with the digital team?** — Bạn có làm việc với nhóm kỹ thuật số không?\n\n> **Mẹo học:** Khi mô tả người khác, hãy dùng tính từ tích cực như 'lovely', 'excellent', 'very good at' để nói lịch sự và chuyên nghiệp."
+          }
+        ],
+        "reading_passage": "## Đoạn hội thoại mẫu: Talking About Other People\n\n**Bối cảnh:** Yuna hỏi thăm Noelia về dự án mới. Họ cùng nói về Anya Patel — người mà cả hai đều biết.\n\n---\n\n**Yuna:** How's your new project going?\n\n**Noelia:** It's going really well.\n\n**Yuna:** Great. Do you work with the digital team?\n\n**Noelia:** Yes, I'm helping them with a new website.\n\n**Yuna:** So, do you know Anya Patel?\n\n**Noelia:** Yes, I do. I just emailed her.\n\n**Yuna:** She's lovely, isn't she? I worked with her in my last job.\n\n**Noelia:** Yeah, I like her a lot.\n\n**Yuna:** She's very good at her job. She's an excellent businessperson.\n\n**Noelia:** Really?\n\n**Yuna:** Yeah, she always gets what she wants.\n\n**Noelia:** Oh — I still need to discuss the contract with her.\n\n**Yuna:** I see. OK —\n\n**Noelia:** That's her!\n\n**Yuna:** Good luck!\n\n**Noelia:** Thanks.\n\n**Noelia:** Hello, Anya. Noelia speaking!\n\n---\n\n### Cách mô tả người khác:\n\n| Cụm từ | Nghĩa | Loại mô tả |\n|--------|-------|------------|\n| She's lovely. | Cô ấy dễ thương. | Tính cách chung |\n| I like her a lot. | Tôi rất thích cô ấy. | Cảm xúc cá nhân |\n| She's very good at her job. | Cô ấy rất giỏi việc. | Năng lực nghề nghiệp |\n| She's an excellent businessperson. | Cô ấy là doanh nhân xuất sắc. | Đánh giá cao |\n| She always gets what she wants. | Cô ấy luôn đạt được điều muốn. | Đặc điểm cá nhân |"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_S_other_people_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna says 'She's lovely, isn't she?' What is Yuna doing?",
+          "options": {
+            "A": "Asking if Noelia knows Anya.",
+            "B": "Saying something nice about Anya and asking for agreement.",
+            "C": "Telling Noelia to work with Anya.",
+            "D": "Asking how Anya is doing."
+          },
+          "correct_answer": "B",
+          "hint_text": "The tag question 'isn't she?' asks Noelia to agree with the description."
+        },
+        {
+          "quiz_id": "Q_S_other_people_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "How does Noelia respond to 'Do you know Anya Patel?'",
+          "options": {
+            "A": "No, I don't.",
+            "B": "Yes, I do.",
+            "C": "Maybe.",
+            "D": "I'm not sure."
+          },
+          "correct_answer": "B",
+          "hint_text": "Noelia confirms she knows Anya by saying 'Yes, I do.'"
+        },
+        {
+          "quiz_id": "Q_S_other_people_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "'She's very good at her job.' This phrase describes Anya's ___.",
+          "options": {
+            "A": "personality",
+            "B": "appearance",
+            "C": "professional ability",
+            "D": "family"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Good at her job' refers to her skills and professional competence."
+        },
+        {
+          "quiz_id": "Q_S_other_people_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna says 'She's an excellent businessperson.' Which word means very, very good?",
+          "options": {
+            "A": "lovely",
+            "B": "nice",
+            "C": "excellent",
+            "D": "fine"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Excellent' is a strong adjective meaning extremely good."
+        },
+        {
+          "quiz_id": "Q_S_other_people_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why does Noelia say 'Oh — I still need to discuss the contract with her'?",
+          "options": {
+            "A": "She is worried because Anya is difficult to work with.",
+            "B": "She remembers she has unfinished business with Anya.",
+            "C": "She wants Yuna to introduce her to Anya.",
+            "D": "She has already finished the contract."
+          },
+          "correct_answer": "B",
+          "hint_text": "After hearing 'she always gets what she wants,' Noelia remembers the contract discussion."
+        },
+        {
+          "quiz_id": "Q_S_other_people_06",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'I like her a lot' mean?",
+          "options": {
+            "A": "I know her very well.",
+            "B": "I have a strong positive feeling toward her.",
+            "C": "I work with her often.",
+            "D": "I admire her job skills."
+          },
+          "correct_answer": "B",
+          "hint_text": "'I like her a lot' expresses a strong positive personal feeling."
+        },
+        {
+          "quiz_id": "Q_S_other_people_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is Noelia doing for the digital team?",
+          "options": {
+            "A": "Creating a social media plan.",
+            "B": "Helping them with a new website.",
+            "C": "Writing a business report.",
+            "D": "Organizing a team meeting."
+          },
+          "correct_answer": "B",
+          "hint_text": "Noelia says 'Yes, I'm helping them with a new website.'"
+        },
+        {
+          "quiz_id": "Q_S_other_people_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where did Yuna work with Anya before?",
+          "options": {
+            "A": "In their current company.",
+            "B": "At university.",
+            "C": "In her last job.",
+            "D": "At a conference."
+          },
+          "correct_answer": "C",
+          "hint_text": "Yuna says 'I worked with her in my last job.'"
+        },
+        {
+          "quiz_id": "Q_S_other_people_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna says 'She always gets what she wants.' This suggests Anya is ___.",
+          "options": {
+            "A": "selfish and unfriendly",
+            "B": "very determined and effective",
+            "C": "lucky but not skilled",
+            "D": "aggressive in negotiations"
+          },
+          "correct_answer": "B",
+          "hint_text": "In context, this means Anya is very effective at achieving her goals — a compliment."
+        },
+        {
+          "quiz_id": "Q_S_other_people_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "'She's lovely, isn't she?' — The tag question 'isn't she?' is added to ___.",
+          "options": {
+            "A": "ask if Noelia has met Anya.",
+            "B": "invite Noelia to agree with the statement.",
+            "C": "express surprise.",
+            "D": "ask for more information about Anya."
+          },
+          "correct_answer": "B",
+          "hint_text": "Tag questions like 'isn't she?' or 'don't you?' invite the listener to agree."
+        },
+        {
+          "quiz_id": "Q_S_other_people_11",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase is NOT used to describe Anya in the dialogue?",
+          "options": {
+            "A": "She's lovely.",
+            "B": "She's very good at her job.",
+            "C": "She's a very friendly person.",
+            "D": "She's an excellent businessperson."
+          },
+          "correct_answer": "C",
+          "hint_text": "'She's a very friendly person' does not appear in the dialogue."
+        },
+        {
+          "quiz_id": "Q_S_other_people_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "At the end, Noelia says 'Hello, Anya. Noelia speaking!' What is she doing?",
+          "options": {
+            "A": "Sending an email to Anya.",
+            "B": "Calling Anya on the phone.",
+            "C": "Introducing herself to Anya in person.",
+            "D": "Leaving a voice message."
+          },
+          "correct_answer": "B",
+          "hint_text": "'[Name] speaking' is a standard phrase used when answering or making a phone call."
+        },
+        {
+          "quiz_id": "Q_S_other_people_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "You want to ask a colleague if they know someone at your company. Which is MOST natural?",
+          "options": {
+            "A": "Are you knowing Tom from accounts?",
+            "B": "Do you know Tom from accounts?",
+            "C": "Do you knowing Tom?",
+            "D": "You know Tom, accounts?"
+          },
+          "correct_answer": "B",
+          "hint_text": "'Do you know...?' is the correct form. 'Know' is not used in the continuous form."
+        },
+        {
+          "quiz_id": "Q_S_other_people_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Yuna asks 'How's your new project going?' This means she wants to know ___.",
+          "options": {
+            "A": "when the project started.",
+            "B": "the current progress or status of the project.",
+            "C": "who is working on the project.",
+            "D": "what the project is about."
+          },
+          "correct_answer": "B",
+          "hint_text": "'How's it going?' is a question about progress or current status."
+        },
+        {
+          "quiz_id": "Q_S_other_people_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which set of phrases are all used to describe someone positively?",
+          "options": {
+            "A": "She's lovely / She's very good at her job / She's an excellent businessperson",
+            "B": "Do you know her? / Yes, I do / I just emailed her",
+            "C": "She always gets what she wants / I still need to discuss the contract / Good luck!",
+            "D": "How's your project? / It's going well / Do you work with the digital team?"
+          },
+          "correct_answer": "A",
+          "hint_text": "All three phrases in option A are positive descriptions of a person."
+        },
+        {
+          "quiz_id": "Q_S_other_people_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "How does Noelia know Anya Patel?",
+          "options": {
+            "A": "They were at university together.",
+            "B": "Yuna introduced them at a meeting.",
+            "C": "Noelia is helping the digital team and has been in contact with Anya.",
+            "D": "They worked together in a previous job."
+          },
+          "correct_answer": "C",
+          "hint_text": "Noelia says 'Yes, I'm helping them with a new website' and 'I just emailed her.'"
+        }
+      ]
+    }
+  ]
+}

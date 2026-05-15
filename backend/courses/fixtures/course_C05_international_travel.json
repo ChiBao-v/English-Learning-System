@@ -1,0 +1,2248 @@
+{
+  "course_id": "C05",
+  "course_name": "English for International Travel (Intermediate B1)",
+  "course_description": "Sân bay & an ninh, nhập cảnh & hải quan, khách sạn, giao thông, nhà hàng, tham quan & chụp ảnh, mua sắm, khẩn cấp, kết bạn trên đường, đọc/viết review du lịch.",
+  "course_level": "intermediate",
+  "content_mode": "text_only",
+  "expected_cohort_behavior": {
+    "typical_response_time_sec_per_item": [
+      8,
+      32
+    ],
+    "typical_accuracy_band": [
+      0.6,
+      0.85
+    ],
+    "hint_usage_rate": [
+      0.05,
+      0.26
+    ]
+  },
+  "lessons": [
+    {
+      "lesson_id": "L05_01",
+      "lesson_name": "At the Airport - Check-in & Security (Vocabulary)",
+      "order": 1,
+      "estimated_minutes": 38,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "airport_procedures",
+        "time_est_minutes": 25,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Check-in terminology",
+            "body": "### Check-in terminology\n\n| Từ | Nghĩa |\n|----|--------|\n| **Terminal** | nhà ga (quốc tế / nội địa) |\n| **Boarding pass** | thẻ lên máy bay |\n| **Checked baggage** | hành lý ký gửi |\n| **Carry-on luggage** | hành lý xách tay |\n| **Overweight** | quá cân (hành lý) |\n| **Gate** | cửa khởi hành |\n\n**Ngữ cảnh:** *Your flight departs from Gate 12, Terminal 2.*"
+          },
+          {
+            "title": "Trang 2 — Dialogue & seats",
+            "body": "### Checking in & seats\n\n**Nhân viên:** *May I have your passport and booking reference, please?*\n\n**Khách:** *I'd like a window seat / an aisle seat, please.*\n\n**Hành lý:** *Is my luggage checked through to the final destination?*"
+          },
+          {
+            "title": "Trang 3 — Security & batteries",
+            "body": "### Security & special gear\n\nTrình tự: *empty your pockets* → *remove your belt* → *electronics in the bin*.\n\n*Nguồn:* *I have sensitive photography equipment. Can I have a manual inspection?*\n\n**Pin:** *Lithium batteries must be in carry-on luggage.*"
+          }
+        ],
+        "reading_passage": "Your flight departs from Gate 12, Terminal 2. Please empty your pockets before security. Put laptops in the bin. Carry-on only for lithium batteries.",
+        "reading_word_count": 24,
+        "vocabulary": [
+          {
+            "word": "boarding pass / gate / aisle seat",
+            "vi": "thẻ lên máy / cửa / ghế lối đi"
+          },
+          {
+            "word": "carry-on / checked baggage",
+            "vi": "xách tay / ký gửi"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I'd like an aisle seat, please.",
+            "vietnamese": "Tôi muốn ghế lối đi."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_01_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Thẻ dùng để lên máy bay gọi là:",
+          "options": {
+            "A": "Ticket",
+            "B": "Boarding pass",
+            "C": "Passport",
+            "D": "Visa"
+          },
+          "correct_answer": "B",
+          "hint_text": "Boarding pass.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Bạn muốn ngồi gần lối đi (dễ đứng dậy), bạn chọn:",
+          "options": {
+            "A": "Window seat",
+            "B": "Aisle seat",
+            "C": "Middle seat",
+            "D": "Exit row only"
+          },
+          "correct_answer": "B",
+          "hint_text": "Aisle seat.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "My suitcase is 25 kg. The limit is 20 kg. It is _____.",
+          "options": {
+            "A": "overweight",
+            "B": "underweight",
+            "C": "free",
+            "D": "gate"
+          },
+          "correct_answer": "A",
+          "hint_text": "Overweight.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Find the problem: “I have a luggage.”",
+          "options": {
+            "A": "I",
+            "B": "have",
+            "C": "a",
+            "D": "luggage"
+          },
+          "correct_answer": "C",
+          "hint_text": "Luggage — không dùng *a* (uncountable).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép hợp lý: 1. Carry-on — 2. Checked",
+          "options": {
+            "A": "1→small backpack — 2→big suitcase",
+            "B": "1→big suitcase — 2→small backpack",
+            "C": "1→gate — 2→terminal",
+            "D": "1→passport — 2→visa"
+          },
+          "correct_answer": "A",
+          "hint_text": "Xách tay nhỏ; ký gửi lớn.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "At security, laptops and cameras usually go:",
+          "options": {
+            "A": "In a separate bin",
+            "B": "Inside checked baggage only",
+            "C": "Left at home",
+            "D": "Under the seat only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Electronics in the bin.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Lithium batteries are allowed in checked baggage.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Usually in carry-on.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Cửa khởi hành số mấy?” — Choose the best English:",
+          "options": {
+            "A": "Which gate is it? / What is the gate number?",
+            "B": "Where is the terminal food?",
+            "C": "What is overweight?",
+            "D": "When is boarding pass?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Gate number questions.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You carry a mirrorless camera and lenses on the plane. They should go in:",
+          "options": {
+            "A": "Checked baggage only",
+            "B": "Carry-on luggage",
+            "C": "The trash",
+            "D": "Hold luggage of stranger"
+          },
+          "correct_answer": "B",
+          "hint_text": "Valuables/electronics — carry-on.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_01_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Please _____ your pockets and remove your shoes.",
+          "options": {
+            "A": "empty",
+            "B": "fill",
+            "C": "gate",
+            "D": "board"
+          },
+          "correct_answer": "A",
+          "hint_text": "Empty your pockets.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_02",
+      "lesson_name": "Immigration & Customs (Speaking/Grammar)",
+      "order": 2,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "immigration_customs",
+        "time_est_minutes": 30,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Immigration",
+            "body": "### Immigration — short, honest answers\n\n- *Purpose of visit:* *I'm here for vacation / business.*  \n- *Duration:* *I'm staying for 10 days.* / *I'm going to stay for two weeks.*  \n- *Accommodation:* *I'm staying at the Grand Hotel.*"
+          },
+          {
+            "title": "Trang 2 — Customs",
+            "body": "### Customs\n\n- *declare*, *prohibited items*, *duty-free*  \n- *Do you have anything to declare?* — *Nothing to declare.*  \n- **Green channel** — nothing to declare; **red channel** — goods to declare."
+          },
+          {
+            "title": "Trang 3 — Be going to",
+            "body": "### Grammar: **be going to** (travel plans)\n\n*I am going to visit Kyoto.*  \n*We are going to stay in a traditional house.*"
+          }
+        ],
+        "reading_passage": "Officer: What's the purpose of your visit? — Traveler: I'm here for vacation. I'm going to stay for 10 days at a hotel. Do you have anything to declare? — Nothing to declare.",
+        "reading_word_count": 33,
+        "vocabulary": [
+          {
+            "word": "declare / duty-free / prohibited",
+            "vi": "khai báo / miễn thuế / cấm"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I am going to stay at this hotel for 5 days.",
+            "vietnamese": "Tôi định ở lại khách sạn này 5 ngày."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_02_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Officer: “What's the purpose of your visit?”",
+          "options": {
+            "A": "I'm here for sightseeing.",
+            "B": "I'm from Vietnam.",
+            "C": "I like coffee.",
+            "D": "My bag is blue."
+          },
+          "correct_answer": "A",
+          "hint_text": "Purpose = why you came.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "How long are you _____ to stay? (plan)",
+          "options": {
+            "A": "going",
+            "B": "go",
+            "C": "went",
+            "D": "gone"
+          },
+          "correct_answer": "A",
+          "hint_text": "Be going to stay.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You have nothing to pay tax on. You use:",
+          "options": {
+            "A": "Red channel",
+            "B": "Green channel (nothing to declare)",
+            "C": "Parking lot",
+            "D": "Gate 99"
+          },
+          "correct_answer": "B",
+          "hint_text": "Green channel when nothing to declare.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Better for a **planned** stay length: “I ___ for two weeks.”",
+          "options": {
+            "A": "stay",
+            "B": "am going to stay",
+            "C": "staying",
+            "D": "stayed"
+          },
+          "correct_answer": "B",
+          "hint_text": "Going to for a plan.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_05",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Duty-free” means you don't pay tax on those goods (in that shop/zone).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Duty-free.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_06",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Vacation — 2. Business",
+          "options": {
+            "A": "1→visiting museums — 2→meeting clients",
+            "B": "1→meeting clients — 2→visiting museums",
+            "C": "1→customs — 2→gate",
+            "D": "1→luggage — 2→passport"
+          },
+          "correct_answer": "A",
+          "hint_text": "Typical activities.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi định ở lại khách sạn này trong 5 ngày.”",
+          "options": {
+            "A": "I am going to stay at this hotel for 5 days.",
+            "B": "I going to stay at this hotel.",
+            "C": "I am stay at this hotel for 5 days.",
+            "D": "I stay going to hotel."
+          },
+          "correct_answer": "A",
+          "hint_text": "Be going to + stay.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Do you have a _____ ticket? (khứ hồi)",
+          "options": {
+            "A": "return",
+            "B": "one-way",
+            "C": "single",
+            "D": "fare"
+          },
+          "correct_answer": "A",
+          "hint_text": "Return ticket.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "If they say “Show me your documents”, you typically show:",
+          "options": {
+            "A": "Only a coffee receipt",
+            "B": "Passport and hotel/flight booking (as required)",
+            "C": "A map only",
+            "D": "Nothing"
+          },
+          "correct_answer": "B",
+          "hint_text": "Travel documents.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_02_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Prohibited” means:",
+          "options": {
+            "A": "Allowed",
+            "B": "Forbidden / not allowed",
+            "C": "Free",
+            "D": "Cheap"
+          },
+          "correct_answer": "B",
+          "hint_text": "Prohibited = banned.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_03",
+      "lesson_name": "Hotel & Accommodations (Vocabulary)",
+      "order": 3,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "hotel_stay",
+        "time_est_minutes": 25,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Rooms & issues",
+            "body": "### Check-in & room types\n\n*Reservation*, *single / double / twin room*, *amenities* (WiFi, gym, pool)\n\n**Vấn đề:** *The air conditioning is not working.*"
+          },
+          {
+            "title": "Trang 2 — Services",
+            "body": "### Services\n\n*Wake-up call*, *room service*, *housekeeping*\n\n*Could I have some extra towels, please?*"
+          },
+          {
+            "title": "Trang 3 — Check-out",
+            "body": "### Check-out & storage\n\n*Check-out time*, *deposit*\n\n*Can I leave my luggage here until 5 PM?*"
+          }
+        ],
+        "reading_passage": "I have a reservation under the name Smith. Twin room, please. Could I have extra towels? What is the WiFi password?",
+        "reading_word_count": 21,
+        "vocabulary": [
+          {
+            "word": "twin room / wake-up call / housekeeping",
+            "vi": "phòng hai giường / báo thức / dọn phòng"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Can I leave my luggage here?",
+            "vietnamese": "Tôi có thể gửi hành lý ở đây không?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_03_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Two people want **two separate beds:**",
+          "options": {
+            "A": "Double room",
+            "B": "Twin room",
+            "C": "Single room",
+            "D": "Suite only"
+          },
+          "correct_answer": "B",
+          "hint_text": "Twin = two beds.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I have a _____ under the name “Phat”.",
+          "options": {
+            "A": "reservation",
+            "B": "revolution",
+            "C": "reservoir",
+            "D": "resistant"
+          },
+          "correct_answer": "A",
+          "hint_text": "Reservation / booking.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The AC is broken. You tell reception:",
+          "options": {
+            "A": "The AC is not working.",
+            "B": "The AC is working perfectly.",
+            "C": "I love cold.",
+            "D": "No English."
+          },
+          "correct_answer": "A",
+          "hint_text": "Report the problem clearly.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “I want a wake-up calling at 7 AM.”",
+          "options": {
+            "A": "want",
+            "B": "wake-up",
+            "C": "calling",
+            "D": "AM"
+          },
+          "correct_answer": "C",
+          "hint_text": "Wake-up call.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Room service — 2. Housekeeping",
+          "options": {
+            "A": "1→bring food — 2→clean the room",
+            "B": "1→clean — 2→food",
+            "C": "1→check-in — 2→check-out",
+            "D": "1→pool — 2→gym"
+          },
+          "correct_answer": "A",
+          "hint_text": "Room service vs cleaning.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You usually pay the full “deposit” when you check out only.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Often paid earlier (check-in).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi có thể gửi hành lý ở đây không?”",
+          "options": {
+            "A": "Can I leave my luggage here?",
+            "B": "Can I live my luggage here?",
+            "C": "Can I leaving luggage?",
+            "D": "Luggage can here?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Leave luggage (store).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "What is the _____ password?",
+          "options": {
+            "A": "WiFi",
+            "B": "Gate",
+            "C": "Boarding",
+            "D": "Customs"
+          },
+          "correct_answer": "A",
+          "hint_text": "WiFi password.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Breakfast in your room? Call:",
+          "options": {
+            "A": "Housekeeping only",
+            "B": "Room service",
+            "C": "Police",
+            "D": "Gate 12"
+          },
+          "correct_answer": "B",
+          "hint_text": "Room service.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_03_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Complimentary breakfast” means:",
+          "options": {
+            "A": "Free breakfast (included)",
+            "B": "Very expensive breakfast",
+            "C": "No breakfast",
+            "D": "Breakfast only for staff"
+          },
+          "correct_answer": "A",
+          "hint_text": "Complimentary = free/included.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_04",
+      "lesson_name": "Getting Around - Transport (Vocabulary)",
+      "order": 4,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "transportation",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Public transport",
+            "body": "### Public transport\n\n*Subway / metro / underground*, *fare*, *one-way / round-trip (return) ticket*, *line*, *platform*"
+          },
+          {
+            "title": "Trang 2 — Navigation",
+            "body": "### Navigation\n\n*GPS*, *compass*, *directions* (*turn left/right*, *go straight*)\n\n*Which line goes to the city center?*"
+          },
+          {
+            "title": "Trang 3 — Apps & tech",
+            "body": "### Apps & tickets\n\n*Ride-sharing* (Uber, Grab), *e-ticket*, *QR code*, *charging station*"
+          }
+        ],
+        "reading_passage": "Take Line 4 to Central Station. Buy a round-trip ticket. Scan your QR code at the gate. My phone died — I need a charging station.",
+        "reading_word_count": 26,
+        "vocabulary": [
+          {
+            "word": "fare / platform / round-trip",
+            "vi": "giá vé / sân ga / khứ hồi"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Which line goes to the museum?",
+            "vietnamese": "Tuyến nào đi đến bảo tàng?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_04_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The price you pay for a train ride is often called the:",
+          "options": {
+            "A": "Price (only)",
+            "B": "Fare",
+            "C": "Bill (only food)",
+            "D": "Salary"
+          },
+          "correct_answer": "B",
+          "hint_text": "Fare.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Take _____ 4 to the Central Station.",
+          "options": {
+            "A": "Line",
+            "B": "Lane",
+            "C": "Gate",
+            "D": "Fare"
+          },
+          "correct_answer": "A",
+          "hint_text": "Line 4.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You go and come back on one purchase:",
+          "options": {
+            "A": "One-way",
+            "B": "Round-trip / return",
+            "C": "Farewell",
+            "D": "Platform"
+          },
+          "correct_answer": "B",
+          "hint_text": "Round-trip / return ticket.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "More natural when you are lost in a city:",
+          "options": {
+            "A": "Where is the subway station?",
+            "B": "Where is the nearest subway station?",
+            "C": "Subway where?",
+            "D": "Station?"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nearest sounds natural.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Turn left — 2. Go straight",
+          "options": {
+            "A": "1→rẽ trái — 2→đi thẳng",
+            "B": "1→đi thẳng — 2→rẽ trái",
+            "C": "1→turn right — 2→U-turn",
+            "D": "1→fare — 2→platform"
+          },
+          "correct_answer": "A",
+          "hint_text": "Directions vocabulary.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "A platform is where passengers wait for the train.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Platform.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tuyến nào đi đến bảo tàng?”",
+          "options": {
+            "A": "Which line goes to the museum?",
+            "B": "Where museum is line?",
+            "C": "Museum which line goes?",
+            "D": "Line museum which?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Which line…?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I need to scan my _____ code to enter.",
+          "options": {
+            "A": "QR",
+            "B": "AC",
+            "C": "VIP",
+            "D": "GPS"
+          },
+          "correct_answer": "A",
+          "hint_text": "QR code.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Phone out of battery while using maps — find a:",
+          "options": {
+            "A": "Platform",
+            "B": "Charging station",
+            "C": "Gate only",
+            "D": "Embassy"
+          },
+          "correct_answer": "B",
+          "hint_text": "Charge the phone.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_04_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Miss the train” means:",
+          "options": {
+            "A": "Arrive too late / lose the train",
+            "B": "Remember the train fondly",
+            "C": "Love trains",
+            "D": "Buy a ticket"
+          },
+          "correct_answer": "A",
+          "hint_text": "Miss = don't catch it in time.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_05",
+      "lesson_name": "Dining Out & Local Food (Vocabulary)",
+      "order": 5,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "restaurant_dining",
+        "time_est_minutes": 30,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Booking & allergies",
+            "body": "### Booking & ordering\n\n*A table for [number]*, *menu*, *specialty*, *allergy* — *I'm allergic to peanuts.*"
+          },
+          {
+            "title": "Trang 2 — Etiquette",
+            "body": "### At the table\n\n*Napkin*, *cutlery* (fork, knife, spoon, chopsticks), *still / sparkling water*\n\n*Could we have the menu, please?*"
+          },
+          {
+            "title": "Trang 3 — Payment",
+            "body": "### Paying\n\n*Bill / check*, *service charge*, *split the bill*\n\n*Do you accept credit cards?*"
+          }
+        ],
+        "reading_passage": "A table for four, please. I'm allergic to shellfish. Could I have the bill? Do you accept cards? Can we split the bill?",
+        "reading_word_count": 23,
+        "vocabulary": [
+          {
+            "word": "allergy / specialty / split the bill",
+            "vi": "dị ứng / món đặc sản / chia hóa đơn"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Could I have the bill, please?",
+            "vietnamese": "Cho tôi xin hóa đơn."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_05_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You enter with four people:",
+          "options": {
+            "A": "A table for four, please.",
+            "B": "I want four tables.",
+            "C": "Four foods.",
+            "D": "Table four is angry."
+          },
+          "correct_answer": "A",
+          "hint_text": "A table for four.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am _____ to seafood.",
+          "options": {
+            "A": "allergic",
+            "B": "allergy",
+            "C": "allergies",
+            "D": "allow"
+          },
+          "correct_answer": "A",
+          "hint_text": "Allergic to.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You want sparkling water:",
+          "options": {
+            "A": "Still water",
+            "B": "Sparkling water",
+            "C": "Tap only",
+            "D": "Soup"
+          },
+          "correct_answer": "B",
+          "hint_text": "Sparkling = có gas.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Politer than “Give me the bill.”:",
+          "options": {
+            "A": "Give me the bill.",
+            "B": "Could I have the bill, please?",
+            "C": "Bill now or else.",
+            "D": "Money paper."
+          },
+          "correct_answer": "B",
+          "hint_text": "Could I have… please?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Fork — 2. Chopsticks",
+          "options": {
+            "A": "1→nĩa — 2→đũa",
+            "B": "1→đũa — 2→nĩa",
+            "C": "1→spoon — 2→knife",
+            "D": "1→napkin — 2→menu"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fork vs chopsticks.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Specialty” is always a dish you find everywhere with no local link.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Usually a signature/local dish.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Bạn có nhận thẻ tín dụng không?”",
+          "options": {
+            "A": "Do you accept credit cards?",
+            "B": "Do you credit accept cards?",
+            "C": "You take money card?",
+            "D": "Cards are illegal."
+          },
+          "correct_answer": "A",
+          "hint_text": "Accept credit cards.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Can we _____ the bill?",
+          "options": {
+            "A": "split",
+            "B": "spit",
+            "C": "spill",
+            "D": "splash"
+          },
+          "correct_answer": "A",
+          "hint_text": "Split the bill.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You want the best dish here. You ask:",
+          "options": {
+            "A": "What is trash?",
+            "B": "What is the specialty / What do you recommend?",
+            "C": "Give worst food.",
+            "D": "No menu."
+          },
+          "correct_answer": "B",
+          "hint_text": "Recommendation / specialty.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_05_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Keep the change” usually means:",
+          "options": {
+            "A": "The server keeps extra money as a tip",
+            "B": "You want all coins back",
+            "C": "You dislike money",
+            "D": "You cancel the bill"
+          },
+          "correct_answer": "A",
+          "hint_text": "Tip / keep surplus.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_06",
+      "lesson_name": "Sightseeing & Photography (Reading)",
+      "order": 6,
+      "estimated_minutes": 42,
+      "metadata": {
+        "skill": "reading",
+        "topic": "travel_photography",
+        "time_est_minutes": 30,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Signs & rules",
+            "body": "### Pre-reading — rules\n\n*No flash photography*, *no tripods*, *admission fee*, *guided tour*\n\nĐọc biển báo trước khi chụp — đặc biệt trong bảo tàng."
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading — The Golden Hour in Prague\n\nThe text links **golden hour** light, **museum rules**, and **tripod permits**."
+          },
+          {
+            "title": "Trang 3 — Mô tả ảnh",
+            "body": "### Describing photos\n\n*vibrant colors*, *breathtaking view*, *hidden gem*"
+          }
+        ],
+        "reading_passage": "Prague is a paradise for photographers. To capture the best images of the Charles Bridge, you should arrive at 'the golden hour' — just before sunset. The light is soft and orange. However, remember that some museums in the city center have strict rules. You can take photos, but 'No Flash' is a common rule to protect the old paintings. If you want to use a professional tripod, you might need a special permit. Always check the signs at the entrance before you take your Sony a6400 out of the bag.",
+        "reading_word_count": 91,
+        "vocabulary": [
+          {
+            "word": "golden hour / no flash",
+            "vi": "giờ vàng chụp ảnh / cấm đèn flash"
+          }
+        ],
+        "examples": []
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_06_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“The golden hour” is best for:",
+          "options": {
+            "A": "Soft light for photos",
+            "B": "Sleeping",
+            "C": "Lunch only",
+            "D": "Buying tickets"
+          },
+          "correct_answer": "A",
+          "hint_text": "Just before sunset — soft light.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You can always use a tripod in every Prague museum without rules.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "May need a permit.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "“No Flash” rules often protect old _____.",
+          "options": {
+            "A": "paintings",
+            "B": "bridges",
+            "C": "tickets",
+            "D": "fares"
+          },
+          "correct_answer": "A",
+          "hint_text": "Protect old paintings.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where should you check rules first?",
+          "options": {
+            "A": "At the entrance (signs)",
+            "B": "Only on social media",
+            "C": "Never",
+            "D": "In the restaurant"
+          },
+          "correct_answer": "A",
+          "hint_text": "Check signs at the entrance.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The camera model mentioned is Sony _____.",
+          "options": {
+            "A": "a6400",
+            "B": "iPhone",
+            "C": "Gate",
+            "D": "MRT"
+          },
+          "correct_answer": "A",
+          "hint_text": "Sony a6400.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A “hidden gem” is usually:",
+          "options": {
+            "A": "A place many tourists never find / underrated spot",
+            "B": "Always crowded",
+            "C": "A fake place",
+            "D": "A gate number"
+          },
+          "correct_answer": "A",
+          "hint_text": "Hidden gem.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The light at the golden hour is described as:",
+          "options": {
+            "A": "Soft and orange",
+            "B": "Hard and blue",
+            "C": "Dark and purple",
+            "D": "Loud"
+          },
+          "correct_answer": "A",
+          "hint_text": "Soft and orange light.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You might need a special permit to use a professional tripod in some places.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Text says you might need a permit.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Cảnh tượng thật tuyệt vời.” — natural English:",
+          "options": {
+            "A": "The view is breathtaking / amazing.",
+            "B": "The view is boring.",
+            "C": "View is terrible amazing.",
+            "D": "I boring view."
+          },
+          "correct_answer": "A",
+          "hint_text": "Breathtaking / amazing.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_06_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text gives advice for _____ in Prague.",
+          "options": {
+            "A": "photographers",
+            "B": "pilots",
+            "C": "chefs",
+            "D": "bankers"
+          },
+          "correct_answer": "A",
+          "hint_text": "Paradise for photographers.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_07",
+      "lesson_name": "Shopping & Souvenirs (Vocabulary)",
+      "order": 7,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "shopping_bargaining",
+        "time_est_minutes": 25,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Prices & sizes",
+            "body": "### Prices & sizes\n\n*How much is this?* / *How much does it cost?*\n\n*Fitting room*, *S / M / L / XL*\n\n*Do you have this in a larger size?*"
+          },
+          {
+            "title": "Trang 2 — Bargaining",
+            "body": "### Bargaining\n\n*bargain*, *pricey / expensive*, *a bit out of my budget*\n\n*Could you give me a discount?* / *Is that your best price?*"
+          },
+          {
+            "title": "Trang 3 — Refund",
+            "body": "### Refund & exchange\n\n*receipt*, *refund*, *exchange*\n\n*Can I exchange this if it doesn't fit?*"
+          }
+        ],
+        "reading_passage": "How much is this shirt? It's a bit out of my budget. Do you have a receipt? I need a refund.",
+        "reading_word_count": 21,
+        "vocabulary": [
+          {
+            "word": "fitting room / receipt / exchange",
+            "vi": "phòng thử / hóa đơn / đổi hàng"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Is that your best price?",
+            "vietnamese": "Đây có phải giá tốt nhất chưa?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_07_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where you try on clothes:",
+          "options": {
+            "A": "Living room",
+            "B": "Fitting room",
+            "C": "Kitchen",
+            "D": "Gate"
+          },
+          "correct_answer": "B",
+          "hint_text": "Fitting room.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Do you have this shirt in _____ (size vừa)?",
+          "options": {
+            "A": "Medium",
+            "B": "Metal",
+            "C": "Middle",
+            "D": "Museum"
+          },
+          "correct_answer": "A",
+          "hint_text": "Medium / M.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Polite when something is too expensive:",
+          "options": {
+            "A": "It's too expensive! (shouting)",
+            "B": "It's a bit out of my budget.",
+            "C": "You are thieves.",
+            "D": "No words."
+          },
+          "correct_answer": "B",
+          "hint_text": "Softener phrase.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “I want a refunding.”",
+          "options": {
+            "A": "I",
+            "B": "want",
+            "C": "refunding",
+            "D": "a"
+          },
+          "correct_answer": "C",
+          "hint_text": "A refund (noun).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Receipt — 2. Discount",
+          "options": {
+            "A": "1→proof of purchase — 2→lower price",
+            "B": "1→lower price — 2→proof",
+            "C": "1→fitting — 2→refund",
+            "D": "1→fare — 2→gate"
+          },
+          "correct_answer": "A",
+          "hint_text": "Receipt vs discount.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Heavy bargaining is usual in most big supermarkets.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "More common in markets.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Đây có phải là giá tốt nhất của bạn chưa?”",
+          "options": {
+            "A": "Is that your best price?",
+            "B": "Is your best that price?",
+            "C": "Best price is what?",
+            "D": "Price best your?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Is that your best price?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I would like to _____ this for a smaller one.",
+          "options": {
+            "A": "exchange",
+            "B": "excuse",
+            "C": "excited",
+            "D": "exhaust"
+          },
+          "correct_answer": "A",
+          "hint_text": "Exchange for another size.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You want souvenirs for friends. You look for a:",
+          "options": {
+            "A": "Souvenir shop",
+            "B": "Pharmacy",
+            "C": "Emergency room",
+            "D": "Embassy"
+          },
+          "correct_answer": "A",
+          "hint_text": "Souvenir shop.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_07_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Buy one get one free” means:",
+          "options": {
+            "A": "Buy one item, get another free",
+            "B": "Buy one, pay double",
+            "C": "No shopping",
+            "D": "Only online"
+          },
+          "correct_answer": "A",
+          "hint_text": "BOGO promotion.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_08",
+      "lesson_name": "Emergency Situations (Vocabulary)",
+      "order": 8,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "emergencies",
+        "time_est_minutes": 25,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Lost & theft",
+            "body": "### Lost items\n\n*Lost and found*, *stolen*, *pickpocket*\n\n*My wallet has been stolen!*"
+          },
+          {
+            "title": "Trang 2 — Medical",
+            "body": "### Medical\n\n*pharmacy*, *prescription*, *emergency room*\n\n*I need to see a doctor immediately.*"
+          },
+          {
+            "title": "Trang 3 — Police & embassy",
+            "body": "### Police & embassy\n\n*police station*, *report*, *embassy*\n\n*I lost my passport. Where is the Vietnamese Embassy?*"
+          }
+        ],
+        "reading_passage": "I left my bag on the train. Go to Lost and Found. My wallet was stolen — report at the police station.",
+        "reading_word_count": 22,
+        "vocabulary": [
+          {
+            "word": "stolen / pickpocket / embassy",
+            "vi": "bị trộm / móc túi / đại sứ quán"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I'm lost. Can you help me?",
+            "vietnamese": "Tôi bị lạc. Bạn giúp tôi được không?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_08_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You forgot your bag on the train. First try:",
+          "options": {
+            "A": "Pharmacy",
+            "B": "Lost and Found",
+            "C": "Restaurant menu",
+            "D": "Duty-free"
+          },
+          "correct_answer": "B",
+          "hint_text": "Lost and Found desk.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Help! My bag has been _____.",
+          "options": {
+            "A": "stolen",
+            "B": "stole",
+            "C": "steal",
+            "D": "stealing"
+          },
+          "correct_answer": "A",
+          "hint_text": "Has been stolen.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Pickpockets are more common in:",
+          "options": {
+            "A": "Crowded places",
+            "B": "Empty libraries only",
+            "C": "Underwater",
+            "D": "Private homes only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Crowds.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "More natural: “Where is the pharmacy store?”",
+          "options": {
+            "A": "Where",
+            "B": "is",
+            "C": "pharmacy store",
+            "D": "the"
+          },
+          "correct_answer": "C",
+          "hint_text": "Where is the pharmacy? (drop *store*)",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Wallet — 2. Passport",
+          "options": {
+            "A": "1→money & cards — 2→ID / travel ID",
+            "B": "1→ID — 2→money only",
+            "C": "1→ticket — 2→meal",
+            "D": "1→souvenir — 2→receipt"
+          },
+          "correct_answer": "A",
+          "hint_text": "Typical contents/role.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You usually go to the embassy only because you lost your phone game.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Embassy for passport/legal help.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi bị lạc đường. Bạn giúp tôi được không?”",
+          "options": {
+            "A": "I'm lost. Can you help me?",
+            "B": "I lost. Can you help I?",
+            "C": "I am lose. Help?",
+            "D": "Lost I am help?"
+          },
+          "correct_answer": "A",
+          "hint_text": "I'm lost.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I have a severe headache. I need some _____.",
+          "options": {
+            "A": "medicine",
+            "B": "luggage",
+            "C": "gate",
+            "D": "fare"
+          },
+          "correct_answer": "A",
+          "hint_text": "Medicine / painkillers.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Common emergency numbers in many countries (examples):",
+          "options": {
+            "A": "911 / 112 (region-dependent)",
+            "B": "12345 only for pizza",
+            "C": "000 only for weather",
+            "D": "No emergency numbers"
+          },
+          "correct_answer": "A",
+          "hint_text": "Know local emergency number.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_08_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Immediately” means:",
+          "options": {
+            "A": "Right away",
+            "B": "Later",
+            "C": "Never",
+            "D": "Tomorrow only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Immediately = at once.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_09",
+      "lesson_name": "Making Friends & Socializing (Speaking)",
+      "order": 9,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "socializing_travel",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Breaking the ice",
+            "body": "### Breaking the ice\n\n*Is anyone sitting here?*\n\n*Where are you from?* / *How long have you been here?*\n\n*Do you travel alone or with friends?*"
+          },
+          {
+            "title": "Trang 2 — Sharing",
+            "body": "### Sharing experiences\n\n*What's your favorite place so far?*\n\n*You should try the local coffee — it's amazing!*\n\n*I'm a photographer — I love the architecture here.*"
+          },
+          {
+            "title": "Trang 3 — Contacts",
+            "body": "### Staying in touch\n\n*Are you on Instagram?*\n\n*Let's exchange contacts.*\n\n*Have a safe trip!*"
+          }
+        ],
+        "reading_passage": "Hi, is anyone sitting here? Where are you from? I'm from Vietnam. Let's exchange Instagram. Have a safe trip!",
+        "reading_word_count": 19,
+        "vocabulary": [
+          {
+            "word": "so far / exchange contacts",
+            "vi": "cho đến nay / trao đổi liên lạc"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Have a safe trip!",
+            "vietnamese": "Chúc bạn chuyến đi an toàn!"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_09_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "At a hostel, a friendly opener:",
+          "options": {
+            "A": "Hi, where are you from?",
+            "B": "Give me your password.",
+            "C": "Money now.",
+            "D": "Go away."
+          },
+          "correct_answer": "A",
+          "hint_text": "Small talk.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Is anyone _____ here?",
+          "options": {
+            "A": "sitting",
+            "B": "sit",
+            "C": "sat",
+            "D": "seats"
+          },
+          "correct_answer": "A",
+          "hint_text": "Is anyone sitting here?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Recommend a restaurant:",
+          "options": {
+            "A": "Go there. (rude tone)",
+            "B": "You should try that restaurant — the food is great.",
+            "C": "Food bad.",
+            "D": "Don't eat."
+          },
+          "correct_answer": "B",
+          "hint_text": "You should try…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Better question about time since arrival:",
+          "options": {
+            "A": "How long are you here?",
+            "B": "How long have you been here?",
+            "C": "How you long?",
+            "D": "Long how?"
+          },
+          "correct_answer": "B",
+          "hint_text": "Present perfect + been.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Solo traveler — 2. Group traveler",
+          "options": {
+            "A": "1→alone — 2→with friends",
+            "B": "1→with friends — 2→alone",
+            "C": "1→twin room — 2→single",
+            "D": "1→fare — 2→gate"
+          },
+          "correct_answer": "A",
+          "hint_text": "Solo vs group.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Break the ice” means starting a conversation.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Idiom.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Bạn có dùng Instagram không?”",
+          "options": {
+            "A": "Are you on Instagram?",
+            "B": "Are you in Instagram?",
+            "C": "You Instagram are?",
+            "D": "Instagram you have?"
+          },
+          "correct_answer": "A",
+          "hint_text": "On Instagram.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Let's _____ contacts.",
+          "options": {
+            "A": "exchange",
+            "B": "excuse",
+            "C": "excited",
+            "D": "exhaust"
+          },
+          "correct_answer": "A",
+          "hint_text": "Exchange contacts.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Saying goodbye to a new travel friend:",
+          "options": {
+            "A": "Have a safe trip! / Hope to see you again!",
+            "B": "Never speak.",
+            "C": "Delete me.",
+            "D": "I hate you."
+          },
+          "correct_answer": "A",
+          "hint_text": "Polite farewell.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_09_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "In “What's your favorite place so far?”, “so far” means:",
+          "options": {
+            "A": "Up to now",
+            "B": "Very far away",
+            "C": "Never",
+            "D": "Tomorrow"
+          },
+          "correct_answer": "A",
+          "hint_text": "So far = until now.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L05_10",
+      "lesson_name": "Travel Vlogs & Reviews (Reading/Writing)",
+      "order": 10,
+      "estimated_minutes": 48,
+      "metadata": {
+        "skill": "reading",
+        "topic": "travel_reviews",
+        "time_est_minutes": 35,
+        "difficulty": 0.6
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Review words",
+            "body": "### Review vocabulary\n\n*highly recommend*, *overrated*, *value for money*, *disappointing*"
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading — Singapore stay\n\nNote: *value for money*, *overrated pool*, *Gardens by the Bay*, *breathtaking* light show."
+          },
+          {
+            "title": "Trang 3 — Cấu trúc viết review",
+            "body": "### Writing a review (structure)\n\nIntro → **The good** → **The bad** → Conclusion (Would you go back?)"
+          }
+        ],
+        "reading_passage": "I recently stayed at a boutique hotel in Singapore. It was a great value for money. The location was perfect, right next to the MRT station. The staff were very helpful when I lost my camera's lens cap. However, the famous rooftop pool was a bit overrated because it was too crowded. If you are a photographer, I highly recommend visiting the Gardens by the Bay at night. The light show is breathtaking and perfect for long-exposure shots.",
+        "reading_word_count": 78,
+        "vocabulary": [
+          {
+            "word": "overrated / value for money",
+            "vi": "bị tâng quá / đáng tiền"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I would definitely go back.",
+            "vietnamese": "Tôi chắc chắn sẽ quay lại."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L05_10_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Value for money” means:",
+          "options": {
+            "A": "Very expensive",
+            "B": "Good quality for the price",
+            "C": "Free",
+            "D": "No money"
+          },
+          "correct_answer": "B",
+          "hint_text": "Worth what you pay.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "The writer loved everything about the rooftop pool.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Overrated / too crowded.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I highly _____ this hotel.",
+          "options": {
+            "A": "recommend",
+            "B": "recommendation",
+            "C": "recommended",
+            "D": "recommending"
+          },
+          "correct_answer": "A",
+          "hint_text": "Highly recommend.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why was the pool “overrated” for the writer?",
+          "options": {
+            "A": "Too crowded",
+            "B": "Too cold",
+            "C": "No water",
+            "D": "Closed forever"
+          },
+          "correct_answer": "A",
+          "hint_text": "Too crowded.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Photographers should visit Gardens by the Bay at _____.",
+          "options": {
+            "A": "night",
+            "B": "noon",
+            "C": "dawn",
+            "D": "never"
+          },
+          "correct_answer": "A",
+          "hint_text": "At night.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A “lens cap” belongs to a:",
+          "options": {
+            "A": "Camera",
+            "B": "Phone app",
+            "C": "Suitcase",
+            "D": "Boarding pass"
+          },
+          "correct_answer": "A",
+          "hint_text": "Camera lens cap.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which word in the text describes the light show most positively?",
+          "options": {
+            "A": "Overrated",
+            "B": "Breathtaking",
+            "C": "Crowded",
+            "D": "However"
+          },
+          "correct_answer": "B",
+          "hint_text": "Breathtaking.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "The hotel was far from the MRT station.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Right next to the MRT.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi chắc chắn sẽ quay lại.”",
+          "options": {
+            "A": "I would definitely go back.",
+            "B": "I go definitely back would.",
+            "C": "Definitely I go.",
+            "D": "I back go definitely."
+          },
+          "correct_answer": "A",
+          "hint_text": "Would definitely go back.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L05_10_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text is a _____ of a travel experience.",
+          "options": {
+            "A": "review",
+            "B": "recipe",
+            "C": "ticket",
+            "D": "visa"
+          },
+          "correct_answer": "A",
+          "hint_text": "Hotel / travel review.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TOEIC Learning System — API</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: #f1f5f9;
+      color: #1e293b;
+      line-height: 1.6;
+    }
+    a { text-decoration: none; }
+
+    .api-header {
+      background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #1e3a8a 100%);
+      color: #fff;
+      padding: 48px 24px;
+      text-align: center;
+    }
+    .api-header h1 { font-size: 2rem; font-weight: 700; margin-bottom: 6px; }
+    .api-header p { opacity: .82; font-size: 1.02rem; }
+    .api-badge {
+      display: inline-block; margin-top: 16px; padding: 6px 16px;
+      background: rgba(255,255,255,.14); border-radius: 999px;
+      font-size: .82rem; font-weight: 600;
+    }
+    .api-badge .dot { color: #4ade80; }
+
+    .container { max-width: 1140px; margin: 0 auto; padding: 32px 24px 64px; }
+
+    .info-box {
+      background: #fff; border-left: 4px solid #6366f1;
+      border-radius: 8px; padding: 18px 22px; margin-bottom: 36px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.06);
+    }
+    .info-box h3 { font-size: 1rem; margin-bottom: 6px; }
+    .info-box p { font-size: .9rem; color: #475569; }
+    .info-box code {
+      background: #eef2ff; color: #4338ca; padding: 2px 7px;
+      border-radius: 4px; font-size: .88em;
+    }
+    .info-box a { color: #4f46e5; font-weight: 600; }
+
+    .section { margin-bottom: 34px; }
+    .section-title {
+      font-size: 1.12rem; font-weight: 700; margin-bottom: 14px;
+      color: #312e81; display: flex; align-items: center; gap: 8px;
+    }
+
+    .grid {
+      display: grid; gap: 16px;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+    }
+    .card {
+      background: #fff; border: 1px solid #e2e8f0;
+      border-radius: 10px; padding: 18px 20px;
+      transition: box-shadow .15s, border-color .15s, transform .15s;
+    }
+    .card:hover {
+      box-shadow: 0 8px 24px rgba(49,46,129,.12);
+      border-color: #818cf8; transform: translateY(-2px);
+    }
+    .card-head { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+    .card-icon { font-size: 1.2rem; }
+    .card-name { font-weight: 700; font-size: .98rem; }
+    .card-desc { color: #64748b; font-size: .85rem; margin-bottom: 12px; }
+    .badges { display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
+    .badge {
+      font-size: .68rem; font-weight: 700; padding: 2px 8px;
+      border-radius: 4px; letter-spacing: .04em;
+    }
+    .badge-get   { background: #dbeafe; color: #1d4ed8; }
+    .badge-post  { background: #dcfce7; color: #15803d; }
+    .badge-patch { background: #fef9c3; color: #a16207; }
+    .card-link {
+      display: inline-block; font-size: .82rem; font-weight: 600;
+      color: #4f46e5; word-break: break-all;
+    }
+    .card-link:hover { color: #312e81; text-decoration: underline; }
+
+    .tools-grid {
+      display: grid; gap: 16px;
+      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    }
+    .tool-card {
+      background: linear-gradient(135deg, #312e81, #1e3a8a);
+      color: #fff; border-radius: 10px; padding: 18px 20px;
+      display: block; transition: transform .15s, box-shadow .15s;
+    }
+    .tool-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(49,46,129,.25); }
+    .tool-card .t-name { font-weight: 700; margin-bottom: 2px; }
+    .tool-card .t-desc { font-size: .8rem; opacity: .82; }
+
+    .api-footer {
+      text-align: center; padding: 28px 24px; color: #64748b;
+      font-size: .82rem; border-top: 1px solid #e2e8f0; background: #fff;
+    }
+    .api-footer strong { color: #312e81; }
+  </style>
+</head>
+<body>
+  <div class="api-header">
+    <h1>🎓 TOEIC Learning System API</h1>
+    <p>Nền tảng phân tích hành vi học tập &amp; gợi ý cá nhân hóa bằng Machine Learning</p>
+    <div class="api-badge"><span class="dot">●</span> API v1 · Đang hoạt động</div>
+  </div>
+
+  <div class="container">
+    <div class="info-box">
+      <h3>📖 Bắt đầu</h3>
+      <p>
+        Base URL: <code>http://localhost:8000/api/v1</code> — Hầu hết endpoint yêu cầu xác thực JWT
+        (header <code>Authorization: Bearer &lt;token&gt;</code>). Đăng nhập
+        <a href="/admin/">/admin/</a> để bấm xem trực tiếp endpoint trên trình duyệt.
+        Thêm <code>?format=json</code> vào URL để lấy JSON thuần.
+      </p>
+    </div>
+
+    <!-- KHÓA HỌC & NỘI DUNG -->
+    <div class="section">
+      <div class="section-title">📚 Khóa học &amp; Nội dung</div>
+      <div class="grid">
+        <div class="card">
+          <div class="card-head"><span class="card-icon">📖</span><span class="card-name">Courses</span></div>
+          <div class="card-desc">Khóa học theo kỹ năng &amp; trình độ CEFR</div>
+          <div class="badges"><span class="badge badge-get">GET</span><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ courses }}">{{ courses }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">📄</span><span class="card-name">Lessons</span></div>
+          <div class="card-desc">Bài học trong từng khóa</div>
+          <div class="badges"><span class="badge badge-get">GET</span><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ lessons }}">{{ lessons }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">❓</span><span class="card-name">Questions</span></div>
+          <div class="card-desc">Câu hỏi &amp; đề luyện tập</div>
+          <div class="badges"><span class="badge badge-get">GET</span><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ questions }}">{{ questions }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">🌐</span><span class="card-name">Public Courses</span></div>
+          <div class="card-desc">Danh sách khóa học công khai (trang chủ)</div>
+          <div class="badges"><span class="badge badge-get">GET</span></div>
+          <a class="card-link" href="{{ public_courses }}">{{ public_courses }}</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- XÁC THỰC -->
+    <div class="section">
+      <div class="section-title">🔐 Xác thực (Auth)</div>
+      <div class="grid">
+        <div class="card">
+          <div class="card-head"><span class="card-icon">📝</span><span class="card-name">Register</span></div>
+          <div class="card-desc">Đăng ký tài khoản học viên</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ auth.register }}">{{ auth.register }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">🔑</span><span class="card-name">Login</span></div>
+          <div class="card-desc">Đăng nhập, nhận JWT access &amp; refresh token</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ auth.login }}">{{ auth.login }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">🔄</span><span class="card-name">Refresh</span></div>
+          <div class="card-desc">Làm mới access token đã hết hạn</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ auth.refresh }}">{{ auth.refresh }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">👤</span><span class="card-name">Me</span></div>
+          <div class="card-desc">Thông tin người dùng hiện tại</div>
+          <div class="badges"><span class="badge badge-get">GET</span></div>
+          <a class="card-link" href="{{ auth.me }}">{{ auth.me }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">🔒</span><span class="card-name">Change Password</span></div>
+          <div class="card-desc">Đổi mật khẩu tài khoản</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ auth.change_password }}">{{ auth.change_password }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">✏️</span><span class="card-name">Update Profile</span></div>
+          <div class="card-desc">Cập nhật họ tên, username</div>
+          <div class="badges"><span class="badge badge-patch">PATCH</span></div>
+          <a class="card-link" href="{{ auth.update_profile }}">{{ auth.update_profile }}</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- HỌC TẬP -->
+    <div class="section">
+      <div class="section-title">🎯 Học tập</div>
+      <div class="grid">
+        <div class="card">
+          <div class="card-head"><span class="card-icon">✅</span><span class="card-name">Enroll</span></div>
+          <div class="card-desc">Đăng ký học viên vào khóa học</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ learning.enroll }}">{{ learning.enroll }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">🧠</span><span class="card-name">Submit Answer</span></div>
+          <div class="card-desc">Nộp đáp án — ghi nhận hành vi làm bài</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ learning.submit_answer }}">{{ learning.submit_answer }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">🏁</span><span class="card-name">Complete Lesson</span></div>
+          <div class="card-desc">Đánh dấu hoàn thành bài học, lưu điểm</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ learning.complete_lesson }}">{{ learning.complete_lesson }}</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- DASHBOARD -->
+    <div class="section">
+      <div class="section-title">📊 Dashboard &amp; Thống kê</div>
+      <div class="grid">
+        <div class="card">
+          <div class="card-head"><span class="card-icon">📈</span><span class="card-name">Student Dashboard</span></div>
+          <div class="card-desc">Tiến độ, độ chính xác, biểu đồ kỹ năng của học viên</div>
+          <div class="badges"><span class="badge badge-get">GET</span></div>
+          <a class="card-link" href="{{ dashboard_student }}">{{ dashboard_student }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">🗂️</span><span class="card-name">Admin Dashboard</span></div>
+          <div class="card-desc">Tổng quan toàn hệ thống cho quản trị viên</div>
+          <div class="badges"><span class="badge badge-get">GET</span></div>
+          <a class="card-link" href="{{ dashboard_admin }}">{{ dashboard_admin }}</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- MACHINE LEARNING -->
+    <div class="section">
+      <div class="section-title">🤖 Machine Learning</div>
+      <div class="grid">
+        <div class="card">
+          <div class="card-head"><span class="card-icon">📍</span><span class="card-name">Model Status</span></div>
+          <div class="card-desc">Trạng thái, phiên bản &amp; độ chính xác model</div>
+          <div class="badges"><span class="badge badge-get">GET</span></div>
+          <a class="card-link" href="{{ ml.model_status }}">{{ ml.model_status }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">📊</span><span class="card-name">Feature Distribution</span></div>
+          <div class="card-desc">Phân phối feature dùng để huấn luyện</div>
+          <div class="badges"><span class="badge badge-get">GET</span></div>
+          <a class="card-link" href="{{ ml.feature_distribution }}">{{ ml.feature_distribution }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">⚙️</span><span class="card-name">Retrain</span></div>
+          <div class="card-desc">Huấn luyện lại model dự đoán trình độ</div>
+          <div class="badges"><span class="badge badge-post">POST</span></div>
+          <a class="card-link" href="{{ ml.retrain }}">{{ ml.retrain }}</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-icon">💡</span><span class="card-name">Recommendations</span></div>
+          <div class="card-desc">Gợi ý bài học cá nhân hóa theo điểm yếu</div>
+          <div class="badges"><span class="badge badge-get">GET</span></div>
+          <a class="card-link" href="{{ recommendations }}">{{ recommendations }}</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- CÔNG CỤ -->
+    <div class="section">
+      <div class="section-title">🛠️ Công cụ &amp; Tài nguyên</div>
+      <div class="tools-grid">
+        <a class="tool-card" href="/admin/">
+          <div class="t-name">🗄️ Django Admin</div>
+          <div class="t-desc">Quản lý dữ liệu &amp; cấu hình hệ thống</div>
+        </a>
+        <a class="tool-card" href="http://localhost:3000" target="_blank" rel="noopener">
+          <div class="t-name">💻 Frontend App</div>
+          <div class="t-desc">Giao diện học viên (React)</div>
+        </a>
+        <a class="tool-card" href="http://localhost:5000" target="_blank" rel="noopener">
+          <div class="t-name">📦 MLflow Tracking</div>
+          <div class="t-desc">Theo dõi thí nghiệm &amp; phiên bản model</div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="api-footer">
+    <strong>TOEIC Learning System v1.0</strong> · Real-time Learning Behavior Analysis Platform<br>
+    © 2026 — Đồ án Công nghệ mới
+  </div>
+</body>
+</html>

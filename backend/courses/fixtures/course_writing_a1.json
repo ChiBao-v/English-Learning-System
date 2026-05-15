@@ -1,0 +1,952 @@
+{
+  "course_id": "writing_a1",
+  "course_name": "Writing — A1",
+  "course_description": "Bốn bài viết A1 (British Council): tin nhắn muộn, thông báo bảng, lời mời nhắn tin, email cảm ơn.",
+  "course_level": "beginner",
+  "course_skill": "writing",
+  "course_cefr_level": "A1",
+  "lessons": [
+    {
+      "lesson_id": "W_a1_message_late",
+      "lesson_name": "A message to say you're late",
+      "order": 1,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "writing",
+        "source_html": "course/writing/A message to say you're late _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Cách viết tin nhắn báo muộn\n\nTrước khi đọc văn bản mẫu, hãy xem qua các từ và cụm từ hữu ích dưới đây:\n\n- **running late** – đang bị trễ\n- **traffic** – giao thông\n- **car park / parking** – bãi đỗ xe\n- **LMK** = Let me know – cho tôi biết\n- **tho** = though – tuy nhiên, dù vậy\n- **Thx** = Thanks – cảm ơn\n- **full stop (.)** – dấu chấm cuối câu\n- **abbreviation** – chữ viết tắt\n- **emoji** – biểu tượng cảm xúc"
+          }
+        ],
+        "reading_passage": "## Văn bản mẫu: A message to say you're late\n\n**[Aziz gửi tin]**\n\nAziz: I'm running 10 mins late, sorry!\n\nFriend: No problem!\n\nAziz: Aargh! Traffic is really bad. I'll be more than 10 mins late now, sorry again!!\n\nFriend: It's OK, don't worry. I'm in the café already so it's fine.\n\nAziz: This is not my day! I'm here but can't find a place to park. I'm looking for a different car park. Not sure how long I'll be.\n\nFriend: OK, LMK when you find a place.\n\nFriend: I might get something to eat tho.\n\nAziz: Of course! I'll be as quick as I can.\n\nFriend: OK!\n\nAziz: Found one! Be there in 10 mins.\n\nFriend: Well done! See you soon.\n\nAziz: Thx for waiting.\n\n---\n\n## Tips (Mẹo viết)\n\n1. You don't need to write complete sentences for text messages.\n2. Use abbreviations like **LMK** (= let me know) or use emojis to save time writing.\n3. You don't need to use full stops (.) at the end of messages.\n4. Say how many minutes you think you'll need, e.g. *I'm running 10 minutes late.*\n5. It's good to say **sorry** and **sorry again**, but you don't need to say sorry in every message."
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_W_a1_late_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'LMK' mean in the text message conversation?",
+          "options": {
+            "A": "Let me know",
+            "B": "Look me kindly",
+            "C": "Later my kind",
+            "D": "Leave me alone"
+          },
+          "correct_answer": "A",
+          "hint_text": "LMK is a common text message abbreviation."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'Thx' mean in Aziz's last message?",
+          "options": {
+            "A": "Things",
+            "B": "Thanks",
+            "C": "Those",
+            "D": "Three"
+          },
+          "correct_answer": "B",
+          "hint_text": "'Thx' is a short way of writing a common polite word."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Why was Aziz late the second time?",
+          "options": {
+            "A": "He missed the bus",
+            "B": "He was lost",
+            "C": "Traffic was really bad",
+            "D": "He forgot the address"
+          },
+          "correct_answer": "C",
+          "hint_text": "Aziz told his friend the reason for the extra delay."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Where was Aziz's friend waiting?",
+          "options": {
+            "A": "At the bus stop",
+            "B": "In the café",
+            "C": "At the car park",
+            "D": "At the office"
+          },
+          "correct_answer": "B",
+          "hint_text": "The friend mentioned where they were waiting in their message."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What was Aziz's final problem before arriving?",
+          "options": {
+            "A": "He forgot his phone",
+            "B": "He couldn't find a place to park",
+            "C": "He took the wrong road",
+            "D": "His car broke down"
+          },
+          "correct_answer": "B",
+          "hint_text": "Aziz sent a message about a parking problem."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to the tips, when should you use 'sorry again' in a message?",
+          "options": {
+            "A": "In every message you send",
+            "B": "Only at the start",
+            "C": "When you are late a second time",
+            "D": "Never"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 5 explains when to use 'sorry again'."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to the tips, do you need to write complete sentences in text messages?",
+          "options": {
+            "A": "Yes, always",
+            "B": "Only for formal messages",
+            "C": "No, you don't need to",
+            "D": "Only when messaging friends"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 1 answers this question directly."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'tho' mean in the message 'I might get something to eat tho'?",
+          "options": {
+            "A": "there",
+            "B": "though",
+            "C": "then",
+            "D": "those"
+          },
+          "correct_answer": "B",
+          "hint_text": "'tho' is a short form of a word meaning 'however'."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why do people use abbreviations like LMK in text messages?",
+          "options": {
+            "A": "To sound more formal",
+            "B": "To save time writing",
+            "C": "To be more polite",
+            "D": "To make messages longer"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tip 2 gives the reason for using abbreviations."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "How long did Aziz say he would take after finding a parking spot?",
+          "options": {
+            "A": "5 minutes",
+            "B": "15 minutes",
+            "C": "10 minutes",
+            "D": "20 minutes"
+          },
+          "correct_answer": "C",
+          "hint_text": "Aziz sent a message when he found a parking spot."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase did the friend use to show they were fine with waiting?",
+          "options": {
+            "A": "Good job!",
+            "B": "I'm angry!",
+            "C": "It's OK, don't worry.",
+            "D": "Hurry up!"
+          },
+          "correct_answer": "C",
+          "hint_text": "The friend reassured Aziz with a calming message."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_12",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which of the following is the best text message to say you will be 15 minutes late?",
+          "options": {
+            "A": "I am going to be fifteen minutes late and I am very sorry for the inconvenience.",
+            "B": "Running 15 mins late, sorry!",
+            "C": "LATE FIFTEEN MINUTES!!!",
+            "D": "Sorry. I will arrive late because there is a lot of traffic today."
+          },
+          "correct_answer": "B",
+          "hint_text": "Good text messages are short and include timing and an apology."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "According to the tips, do you need to put a full stop at the end of a text message?",
+          "options": {
+            "A": "Yes, always use a full stop.",
+            "B": "Only when writing to strangers.",
+            "C": "No, you don't need to.",
+            "D": "Yes, it is very important."
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 3 covers this topic."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "What is the meaning of 'I'll be as quick as I can'?",
+          "options": {
+            "A": "I will walk slowly.",
+            "B": "I will try to arrive as fast as possible.",
+            "C": "I am already fast.",
+            "D": "I cannot come today."
+          },
+          "correct_answer": "B",
+          "hint_text": "This phrase is about making an effort to hurry."
+        },
+        {
+          "quiz_id": "Q_W_a1_late_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which word in the conversation shows Aziz was frustrated at the start of his third message?",
+          "options": {
+            "A": "OK",
+            "B": "Aargh",
+            "C": "Thx",
+            "D": "Found"
+          },
+          "correct_answer": "B",
+          "hint_text": "This word shows strong emotion, like annoyance or frustration."
+        }
+      ]
+    },
+    {
+      "lesson_id": "W_a1_noticeboard_message",
+      "lesson_name": "A noticeboard message",
+      "order": 2,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "writing",
+        "source_html": "course/writing/A noticeboard message _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Cách viết thông báo dán bảng (noticeboard message)\n\nTrước khi đọc văn bản mẫu, hãy xem qua các từ và cụm từ hữu ích dưới đây:\n\n- **noticeboard** – bảng thông báo\n- **housemate** – người ở cùng nhà\n- **ensuite room** – phòng có phòng tắm riêng\n- **single room** – phòng đơn\n- **available** – còn trống, có sẵn\n- **city centre** – trung tâm thành phố\n- **shared kitchen** – bếp dùng chung\n- **living room** – phòng khách\n- **excluding bills** – chưa bao gồm hoá đơn điện nước\n- **viewing** – tham quan (xem nhà)"
+          }
+        ],
+        "reading_passage": "## Văn bản mẫu: A noticeboard message\n\n# Looking for a housemate\n\nSingle ensuite room available in our lovely three-bedroom house in Didsbury. Five-minute walk from city centre. Move in from 1 June. Shared kitchen and living room with two female housemates, no parking, £600 a month excluding bills. No pets. Contact 07890 123456 for viewing.\n\n---\n\n## Tips (Mẹo viết)\n\n1. Write the main title or idea bigger to catch people's attention.\n2. Keep the message short, with only the most important information.\n3. Don't put your address on it!"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_W_a1_noticeboard_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What type of room is available in the noticeboard message?",
+          "options": {
+            "A": "A double room with shared bathroom",
+            "B": "A single ensuite room",
+            "C": "A studio apartment",
+            "D": "A two-bedroom flat"
+          },
+          "correct_answer": "B",
+          "hint_text": "The message describes the type of room at the start."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Where is the house located?",
+          "options": {
+            "A": "Leeds",
+            "B": "London",
+            "C": "Didsbury",
+            "D": "Birmingham"
+          },
+          "correct_answer": "C",
+          "hint_text": "The message names the area where the house is."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "How far is the house from the city centre?",
+          "options": {
+            "A": "Ten-minute walk",
+            "B": "Five-minute drive",
+            "C": "Five-minute walk",
+            "D": "Two bus stops"
+          },
+          "correct_answer": "C",
+          "hint_text": "The message gives exact walking time."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "When can the new housemate move in?",
+          "options": {
+            "A": "1 July",
+            "B": "Immediately",
+            "C": "1 June",
+            "D": "1 May"
+          },
+          "correct_answer": "C",
+          "hint_text": "The message includes the move-in date."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "How much is the monthly rent?",
+          "options": {
+            "A": "£500",
+            "B": "£700",
+            "C": "£650",
+            "D": "£600"
+          },
+          "correct_answer": "D",
+          "hint_text": "The message states the rent amount clearly."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does '£600 a month excluding bills' mean?",
+          "options": {
+            "A": "You pay £600 and all bills are included.",
+            "B": "You pay £600 plus extra for electricity and water.",
+            "C": "You pay only the bills, not rent.",
+            "D": "Rent is free but you pay bills."
+          },
+          "correct_answer": "B",
+          "hint_text": "'Excluding' means 'not including'."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "How many bedrooms does the house have?",
+          "options": {
+            "A": "Two",
+            "B": "Four",
+            "C": "Three",
+            "D": "Five"
+          },
+          "correct_answer": "C",
+          "hint_text": "The message describes the size of the house."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Are pets allowed in the house?",
+          "options": {
+            "A": "Yes, small pets only",
+            "B": "Yes, all pets welcome",
+            "C": "No pets allowed",
+            "D": "Only dogs are allowed"
+          },
+          "correct_answer": "C",
+          "hint_text": "The message mentions a rule about pets."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to Tip 1, what should the title of a noticeboard message be like?",
+          "options": {
+            "A": "Very long and detailed",
+            "B": "Written in a different language",
+            "C": "Written bigger to catch people's attention",
+            "D": "In the middle of the page"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 1 gives advice about the title."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the phone number to contact for viewing?",
+          "options": {
+            "A": "07890 654321",
+            "B": "07890 123456",
+            "C": "07980 123456",
+            "D": "07890 234567"
+          },
+          "correct_answer": "B",
+          "hint_text": "The contact number is at the end of the message."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to Tip 3, what should you NOT include on a noticeboard message?",
+          "options": {
+            "A": "Your phone number",
+            "B": "Your home address",
+            "C": "The rent price",
+            "D": "The move-in date"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tip 3 is a safety tip about personal information."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'ensuite' mean in the context of the room?",
+          "options": {
+            "A": "A room with a private bathroom attached",
+            "B": "A shared bathroom",
+            "C": "A large room",
+            "D": "A room with a balcony"
+          },
+          "correct_answer": "A",
+          "hint_text": "An ensuite is a type of bathroom arrangement."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Is there parking available at the house?",
+          "options": {
+            "A": "Yes, there is a private garage.",
+            "B": "Yes, street parking only.",
+            "C": "No parking is mentioned as unavailable.",
+            "D": "Only for visitors."
+          },
+          "correct_answer": "C",
+          "hint_text": "The message specifically mentions parking."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "According to Tip 2, what is the main principle when writing a noticeboard message?",
+          "options": {
+            "A": "Write as much detail as possible.",
+            "B": "Keep it short with only the most important information.",
+            "C": "Use lots of colour and decoration.",
+            "D": "Write in formal English."
+          },
+          "correct_answer": "B",
+          "hint_text": "Tip 2 gives the key advice for writing noticeboard messages."
+        },
+        {
+          "quiz_id": "Q_W_a1_noticeboard_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Who would be living in the house with the new housemate?",
+          "options": {
+            "A": "Two male housemates",
+            "B": "One female and one male housemate",
+            "C": "Two female housemates",
+            "D": "No other housemates"
+          },
+          "correct_answer": "C",
+          "hint_text": "The message describes the current housemates."
+        }
+      ]
+    },
+    {
+      "lesson_id": "W_a1_text_message_invitation",
+      "lesson_name": "A text message invitation",
+      "order": 3,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "writing",
+        "source_html": "course/writing/A text message invitation _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Cách viết tin nhắn mời bạn bè\n\nTrước khi đọc văn bản mẫu, hãy xem qua các từ và cụm từ hữu ích dưới đây:\n\n- **invitation** – lời mời\n- **IDK** = I don't know – tôi không biết\n- **LOL** = Laugh out loud – cười to\n- **after work** – sau giờ làm\n- **bus stop** – bến xe buýt\n- **abbreviation** – chữ viết tắt\n- **emoji** – biểu tượng cảm xúc\n- **hungry** – đói\n- **meet** – gặp nhau\n- **decide** – quyết định"
+          }
+        ],
+        "reading_passage": "## Văn bản mẫu: A text message invitation\n\nFriend A: Hey! Want to meet for a drink after work?\n\nFriend B: Cool, what time do you finish?\n\nFriend A: Late as always.\n\nFriend B: Me too. Msg me when you leave.\n\nFriend A: OK. Where do you want to go?\n\nFriend B: IDK. I might be hungry tho.\n\nFriend A: Good point.\n\nFriend A: I'll think of somewhere to eat.\n\nFriend B: I know what you're like when you're hungry!\n\nFriend A: LOL, I'm not that bad!\n\nFriend B: Don't worry. We can meet at the bus stop and decide then.\n\nFriend A: See you later.\n\n---\n\n## Tips (Mẹo viết)\n\n1. You don't need to write complete sentences.\n2. You can use abbreviations like **LOL** (= laugh out loud) or **IDK** (= I don't know) to save time.\n3. Use emojis to add feelings.\n4. You don't need to use full stops (.) at the end of messages."
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_W_a1_invite_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'IDK' mean?",
+          "options": {
+            "A": "I Don't Know",
+            "B": "I Do Know",
+            "C": "I'm Done, Okay",
+            "D": "I Didn't Keep"
+          },
+          "correct_answer": "A",
+          "hint_text": "IDK is a very common text message abbreviation."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'LOL' mean?",
+          "options": {
+            "A": "Lots of Love",
+            "B": "Laugh Out Loud",
+            "C": "Later On Leave",
+            "D": "Look Out Loud"
+          },
+          "correct_answer": "B",
+          "hint_text": "LOL is used when something is funny."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What did Friend A invite Friend B to do?",
+          "options": {
+            "A": "Watch a film",
+            "B": "Go shopping",
+            "C": "Meet for a drink after work",
+            "D": "Play football"
+          },
+          "correct_answer": "C",
+          "hint_text": "The first message in the conversation is the invitation."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Where did they plan to meet?",
+          "options": {
+            "A": "At the café",
+            "B": "At the restaurant",
+            "C": "At the office",
+            "D": "At the bus stop"
+          },
+          "correct_answer": "D",
+          "hint_text": "Friend B suggested a meeting place near the end of the conversation."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why did they decide to think about eating somewhere?",
+          "options": {
+            "A": "Friend A was thirsty.",
+            "B": "The café was closed.",
+            "C": "Friend B said they might be hungry.",
+            "D": "They had already eaten."
+          },
+          "correct_answer": "C",
+          "hint_text": "Friend B mentioned possibly being hungry."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What did Friend A say about finishing work?",
+          "options": {
+            "A": "I'll finish early today.",
+            "B": "Late as always.",
+            "C": "At six o'clock.",
+            "D": "I'm done."
+          },
+          "correct_answer": "B",
+          "hint_text": "Friend A replied about their usual finishing time."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What did 'Msg me when you leave' mean?",
+          "options": {
+            "A": "Send me an email when you leave.",
+            "B": "Call me before you leave.",
+            "C": "Send me a text message when you leave work.",
+            "D": "Meet me at the door when you leave."
+          },
+          "correct_answer": "C",
+          "hint_text": "'Msg' is short for 'message'."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to the tips, why do people use emojis in text messages?",
+          "options": {
+            "A": "To make messages longer",
+            "B": "To add feelings",
+            "C": "To make messages more formal",
+            "D": "To replace words completely"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tip 3 explains the purpose of emojis."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which message response shows agreement to the invitation?",
+          "options": {
+            "A": "IDK.",
+            "B": "No, I can't.",
+            "C": "Cool, what time do you finish?",
+            "D": "I'm busy."
+          },
+          "correct_answer": "C",
+          "hint_text": "Friend B responded positively and asked a follow-up question."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'I know what you're like when you're hungry!' suggest?",
+          "options": {
+            "A": "Friend B has never seen Friend A hungry.",
+            "B": "Friend B knows Friend A gets very hungry easily.",
+            "C": "Friend A always eats a lot.",
+            "D": "Friend B is teasing Friend A about their behaviour when hungry."
+          },
+          "correct_answer": "D",
+          "hint_text": "This is a friendly, joking comment between friends."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to the tips, do you need to use full stops at the end of text messages?",
+          "options": {
+            "A": "Yes, always.",
+            "B": "Only in formal messages.",
+            "C": "No, you don't need to.",
+            "D": "Only when the message is very long."
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 4 covers the use of full stops."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_12",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which of the following is the best text message invitation to a friend?",
+          "options": {
+            "A": "Dear John, I would like to formally invite you to join me for dinner this evening at 7 p.m.",
+            "B": "Hey! Want to grab food tonight?",
+            "C": "DINNER TONIGHT 7PM PLEASE COME",
+            "D": "You should come to dinner tonight because I made plans."
+          },
+          "correct_answer": "B",
+          "hint_text": "Good text invitations are casual, short, and friendly."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "What is the purpose of the phrase 'Good point.' in the conversation?",
+          "options": {
+            "A": "To disagree with Friend B",
+            "B": "To end the conversation",
+            "C": "To agree that Friend B's idea about food is a good idea",
+            "D": "To ask for more information"
+          },
+          "correct_answer": "C",
+          "hint_text": "Friend A said this after Friend B mentioned being hungry."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "What does using abbreviations like LOL and IDK help you do when texting?",
+          "options": {
+            "A": "Sound more intelligent",
+            "B": "Write in better English",
+            "C": "Save time when writing",
+            "D": "Avoid making mistakes"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 2 explains the benefit of using abbreviations."
+        },
+        {
+          "quiz_id": "Q_W_a1_invite_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "How did the friends decide where to eat?",
+          "options": {
+            "A": "Friend A chose a restaurant before they met.",
+            "B": "They decided to meet at the bus stop and decide then.",
+            "C": "Friend B made a reservation.",
+            "D": "They searched online for options."
+          },
+          "correct_answer": "B",
+          "hint_text": "Friend B suggested meeting at the bus stop first."
+        }
+      ]
+    },
+    {
+      "lesson_id": "W_a1_thank_you_email",
+      "lesson_name": "A thank-you email",
+      "order": 4,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "writing",
+        "source_html": "course/writing/A thank-you email _ LearnEnglish.html"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "### Cách viết email cảm ơn\n\nTrước khi đọc văn bản mẫu, hãy xem qua các từ và cụm từ hữu ích dưới đây:\n\n- **host family** – gia đình đón tiếp (nước ngoài)\n- **amazing hosts** – những chủ nhà tuyệt vời\n- **feel at home** – cảm thấy như ở nhà\n- **improved** – cải thiện\n- **wonderful cooking** – nấu ăn tuyệt vời\n- **informal email** – email không chính thức\n- **closing phrase** – câu kết thúc email\n- **Keep in touch** – giữ liên lạc\n- **Take care** – giữ gìn sức khoẻ\n- **See you soon** – hẹn gặp lại"
+          }
+        ],
+        "reading_passage": "## Văn bản mẫu: A thank-you email\n\nHi Carolina,\n\nI just wanted to write and say thank you for everything.\n\nYou and your family were amazing hosts. I had a great time at your house. Thank you for making me feel at home. I'm sure my English improved a lot because of all your help too! Also, thank you for all the wonderful cooking you did. Now I can tell everyone English food is not as bad as they say :)\n\nIf you ever come to Sri Lanka, I hope you will stay with me and I can show you my city too.\n\n---\n\n## Tips (Mẹo viết)\n\n1. Start with **Hi** if it is an informal email to someone you know.\n2. The email can have three main paragraphs:\n   - the reason for writing (= to say thank you)\n   - the main point (= more details or examples)\n   - a wish or offer for the future.\n3. Use emojis (e.g. :D) or emoticons (e.g. :) ) to show you're joking.\n4. You can say **See you soon** / **See you next year** if you hope to meet again.\n5. Use a closing phrase like **Keep in touch**, **Write soon**, **Speak soon** or **Take care**."
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_W_a1_thankyou_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Who is the thank-you email written to?",
+          "options": {
+            "A": "Maria",
+            "B": "Carolina",
+            "C": "Anna",
+            "D": "Sofia"
+          },
+          "correct_answer": "B",
+          "hint_text": "The email greeting tells you who it is for."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What is the main purpose of the email?",
+          "options": {
+            "A": "To ask for help",
+            "B": "To say goodbye",
+            "C": "To say thank you",
+            "D": "To invite someone to a party"
+          },
+          "correct_answer": "C",
+          "hint_text": "The writer states their reason for writing in the first paragraph."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "According to Tip 1, how should you start an informal email to someone you know?",
+          "options": {
+            "A": "Dear Sir/Madam",
+            "B": "To whom it may concern",
+            "C": "Hi",
+            "D": "Good morning"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 1 gives the correct greeting for an informal email."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What did the writer say improved because of Carolina's help?",
+          "options": {
+            "A": "Their cooking skills",
+            "B": "Their English",
+            "C": "Their driving",
+            "D": "Their confidence"
+          },
+          "correct_answer": "B",
+          "hint_text": "The writer mentions what improved in the second paragraph."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Where is the email writer from?",
+          "options": {
+            "A": "England",
+            "B": "India",
+            "C": "Sri Lanka",
+            "D": "Australia"
+          },
+          "correct_answer": "C",
+          "hint_text": "The writer mentions their home country in the last paragraph."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'making me feel at home' mean?",
+          "options": {
+            "A": "Building a new house",
+            "B": "Cooking a home meal",
+            "C": "Making someone feel comfortable and welcome",
+            "D": "Sending someone home"
+          },
+          "correct_answer": "C",
+          "hint_text": "This is an idiom about comfort and belonging."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does the writer say about English food?",
+          "options": {
+            "A": "It is terrible.",
+            "B": "It is not as bad as people say.",
+            "C": "It is the best food in the world.",
+            "D": "They didn't like it."
+          },
+          "correct_answer": "B",
+          "hint_text": "The writer mentions English food after thanking Carolina for cooking."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does the writer offer at the end of the email?",
+          "options": {
+            "A": "To send a gift",
+            "B": "To call every week",
+            "C": "To host Carolina in Sri Lanka",
+            "D": "To write a letter"
+          },
+          "correct_answer": "C",
+          "hint_text": "The last paragraph contains the writer's offer for the future."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to the tips, how many main paragraphs should a thank-you email have?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 2 lists the structure of a thank-you email."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which of these is a closing phrase suggested in the tips?",
+          "options": {
+            "A": "Yours faithfully",
+            "B": "Best regards",
+            "C": "Keep in touch",
+            "D": "To whom it may concern"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 5 lists several suitable closing phrases."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the purpose of the third paragraph in a thank-you email, according to the tips?",
+          "options": {
+            "A": "To explain why you are writing",
+            "B": "To give more details about the visit",
+            "C": "To express a wish or offer for the future",
+            "D": "To list your complaints"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 2 lists the purpose of each paragraph."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "According to Tip 3, why would you use ':)' or ':D' in an email?",
+          "options": {
+            "A": "To show you are serious",
+            "B": "To show you are joking or being lighthearted",
+            "C": "To replace a paragraph",
+            "D": "To show a mistake"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tip 3 explains the purpose of emoticons and emojis."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which phrase from the tips would you use if you hope to meet the person again?",
+          "options": {
+            "A": "Take care",
+            "B": "Write soon",
+            "C": "See you soon",
+            "D": "Keep in touch"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tip 4 specifically addresses hoping to meet again."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "The writer says 'You and your family were amazing hosts.' What does 'hosts' mean here?",
+          "options": {
+            "A": "People who cook dinner",
+            "B": "People who invited and welcomed the writer to stay",
+            "C": "The owner of a hotel",
+            "D": "People who are very funny"
+          },
+          "correct_answer": "B",
+          "hint_text": "A host is someone who welcomes and takes care of a guest."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which of the following is the best opening for an informal thank-you email to a friend?",
+          "options": {
+            "A": "Dear Sir, I am writing to formally express my gratitude.",
+            "B": "To Whom It May Concern, Thank you.",
+            "C": "Hi Maria, I just wanted to say a big thank you!",
+            "D": "THANK YOU MARIA, YOU ARE THE BEST."
+          },
+          "correct_answer": "C",
+          "hint_text": "An informal email starts with 'Hi' and is friendly in tone."
+        },
+        {
+          "quiz_id": "Q_W_a1_thankyou_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "What does the smiley face ':)' at the end of 'English food is not as bad as they say :)' suggest?",
+          "options": {
+            "A": "The writer is being serious.",
+            "B": "The writer is angry about English food.",
+            "C": "The writer is being a little bit joking or playful.",
+            "D": "The writer does not understand English food."
+          },
+          "correct_answer": "C",
+          "hint_text": "Emoticons like ':)' are used to show you are not being completely serious."
+        }
+      ]
+    }
+  ]
+}

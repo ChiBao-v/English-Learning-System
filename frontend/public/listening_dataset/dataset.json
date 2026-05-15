@@ -1,0 +1,824 @@
+{
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "Listening — Office (Unit 1)",
+      "topic": "office",
+      "content": "## Listening focus: Office\n\nSample lines you may hear:\n\n- A: Could you send the revised report by noon?\n- B: Sure, I will email the PDF after I fix the charts.\n\nKey vocabulary: deadline, attachment, invoice, reception, contract, calendar.\n\nStrategy: listen for purpose, details, and signal words before choosing an answer.",
+      "questions": [
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u1_0001.jpg",
+          "audio": "audio/u1_0001.mp3",
+          "image_query": "business people office meeting reviewing documents budget",
+          "options": {
+            "A": "The supervisor is printing the budget proposal.",
+            "B": "The supervisor is approving the vacation request.",
+            "C": "The supervisor is approving the budget proposal.",
+            "D": "The supervisor is rejecting the budget proposal."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u1_0002.jpg",
+          "audio": "audio/u1_0002.mp3",
+          "image_query": "team meeting conference room charts screen discussion",
+          "options": {
+            "A": "Colleagues are printing charts in the break room.",
+            "B": "Colleagues are discussing emails in the conference room.",
+            "C": "Colleagues are discussing charts in the conference room.",
+            "D": "Colleagues are discussing charts in the parking lot."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u1_0003.jpg",
+          "audio": "audio/u1_0003.mp3",
+          "image_query": "hotel reception desk visitor lobby concierge",
+          "options": {
+            "A": "The security guard is directing a visitor to the elevator.",
+            "B": "The receptionist is directing a visitor to the cafeteria.",
+            "C": "The receptionist is directing a visitor to the elevator.",
+            "D": "The receptionist is directing a package to the elevator."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u1_0004.jpg",
+          "audio": "audio/u1_0004.mp3",
+          "image_query": "office mail sorting workplace printer copier",
+          "options": {
+            "A": "Staff are sorting mail trays near the copy machine.",
+            "B": "Staff are sorting packages near the copy machine.",
+            "C": "Staff are shredding mail trays near the copy machine.",
+            "D": "Staff are sorting mail trays near the exit door."
+          },
+          "answer": "A"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u1_0005.jpg",
+          "audio": "audio/u1_0005.mp3",
+          "image_query": "person typing laptop computer desk office workspace",
+          "options": {
+            "A": "A manager is typing on a laptop at a tidy workstation.",
+            "B": "An employee is sleeping on a laptop at a tidy workstation.",
+            "C": "An employee is typing on a phone at a tidy workstation.",
+            "D": "An employee is typing on a laptop at a tidy workstation."
+          },
+          "answer": "D"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u1_0006.mp3",
+          "sentence": "The meeting will start at nine AM _____ room three B.",
+          "answer": "in"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u1_0007.mp3",
+          "sentence": "We need _____ schedule a follow-up call next Monday.",
+          "answer": "to"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u1_0008.mp3",
+          "sentence": "She submitted _____ invoice to the accounting department.",
+          "answer": "the"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u1_0009.mp3",
+          "sentence": "He is _____ the contract with the legal team.",
+          "answer": "reviewing"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u1_0010.mp3",
+          "sentence": "The printer _____ the second floor is out of paper.",
+          "answer": "on"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u1_0011.mp3",
+          "sentence": "Please forward the attachment before the _____ today.",
+          "answer": "deadline"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u1_0012.mp3",
+          "sentence": "Please cc your manager _____ all client emails.",
+          "answer": "on"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the office context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "attachment",
+            "B": "reception",
+            "C": "deadline",
+            "D": "printer"
+          },
+          "answer": "D"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the office context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "department",
+            "B": "invoice",
+            "C": "deadline",
+            "D": "printer"
+          },
+          "answer": "B"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the office context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "department",
+            "B": "deadline",
+            "C": "invoice",
+            "D": "contract"
+          },
+          "answer": "B"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the office context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "reception",
+            "B": "calendar",
+            "C": "contract",
+            "D": "printer"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "Listening — Meeting (Unit 2)",
+      "topic": "meeting",
+      "content": "## Listening focus: Meeting\n\nSample lines you may hear:\n\n- A: Let's move the stand-up to nine thirty.\n- B: Works for me; I will update the calendar invite.\n\nKey vocabulary: agenda, minutes, mute, quarterly, sprint, participant.\n\nStrategy: listen for purpose, details, and signal words before choosing an answer.",
+      "questions": [
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u2_0013.jpg",
+          "audio": "audio/u2_0013.mp3",
+          "image_query": "video conference call laptop remote meeting screen",
+          "options": {
+            "A": "Participants are joining a phone call on laptops.",
+            "B": "Participants are ending a video call on laptops.",
+            "C": "Participants are joining a video call on laptops.",
+            "D": "Participants are joining a video call on tablets."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u2_0014.jpg",
+          "audio": "audio/u2_0014.mp3",
+          "image_query": "business presentation meeting projector screen charts",
+          "options": {
+            "A": "The presenter is pointing at a slide with vacation photos.",
+            "B": "The presenter is pointing at a whiteboard with quarterly figures.",
+            "C": "The presenter is pointing at a slide with quarterly figures.",
+            "D": "The attendee is pointing at a slide with quarterly figures."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u2_0015.jpg",
+          "audio": "audio/u2_0015.mp3",
+          "image_query": "business handshake agreement deal office meeting",
+          "options": {
+            "A": "Two managers are shaking hands before reading the agreement.",
+            "B": "Two managers are waving goodbye after signing the agreement.",
+            "C": "Two interns are shaking hands after signing the agreement.",
+            "D": "Two managers are shaking hands after signing the agreement."
+          },
+          "answer": "D"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u2_0016.jpg",
+          "audio": "audio/u2_0016.mp3",
+          "image_query": "conference audience taking notes seminar workshop",
+          "options": {
+            "A": "Attendees are writing notes during the lunch break.",
+            "B": "Attendees are writing notes during the Q and A session.",
+            "C": "Speakers are writing notes during the Q and A session.",
+            "D": "Attendees are typing emails during the Q and A session."
+          },
+          "answer": "B"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u2_0017.jpg",
+          "audio": "audio/u2_0017.mp3",
+          "image_query": "team brainstorming sticky notes whiteboard workshop agile",
+          "options": {
+            "A": "Clients are brainstorming with sticky notes on a glass wall.",
+            "B": "Team members are shredding sticky notes on a glass wall.",
+            "C": "Team members are brainstorming with sticky notes on a glass wall.",
+            "D": "Team members are brainstorming with sticky notes on the floor."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u2_0018.mp3",
+          "sentence": "We will table _____ topic until the next sprint review.",
+          "answer": "this"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u2_0019.mp3",
+          "sentence": "The quarterly targets were discussed _____ detail.",
+          "answer": "in"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u2_0020.mp3",
+          "sentence": "The video link was sent _____ all participants yesterday.",
+          "answer": "to"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u2_0021.mp3",
+          "sentence": "Could everyone mute their microphones _____ not speaking?",
+          "answer": "when"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u2_0022.mp3",
+          "sentence": "The agenda was shared ten minutes before _____ call.",
+          "answer": "the"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u2_0023.mp3",
+          "sentence": "The minutes will _____ circulated by end of day Friday.",
+          "answer": "be"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u2_0024.mp3",
+          "sentence": "Please raise your _____ in the chat if you agree.",
+          "answer": "hand"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the meeting context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "sprint",
+            "B": "quarterly",
+            "C": "review",
+            "D": "participant"
+          },
+          "answer": "B"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the meeting context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "mute",
+            "B": "sprint",
+            "C": "agenda",
+            "D": "minutes"
+          },
+          "answer": "C"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the meeting context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "mute",
+            "B": "minutes",
+            "C": "sprint",
+            "D": "quarterly"
+          },
+          "answer": "A"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the meeting context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "break",
+            "B": "participant",
+            "C": "review",
+            "D": "agenda"
+          },
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "Listening — Travel (Unit 3)",
+      "topic": "travel",
+      "content": "## Listening focus: Travel\n\nSample lines you may hear:\n\n- A: Is this gate for the delayed flight to Denver?\n- B: Yes, boarding should begin in twenty minutes.\n\nKey vocabulary: boarding, platform, checkpoint, shuttle, turbulence, terminal.\n\nStrategy: listen for purpose, details, and signal words before choosing an answer.",
+      "questions": [
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u3_0025.jpg",
+          "audio": "audio/u3_0025.mp3",
+          "image_query": "airport departure board flight information traveler",
+          "options": {
+            "A": "A traveler is checking a departure board at the train station.",
+            "B": "A traveler is checking a departure board at the airport.",
+            "C": "A staff member is checking a departure board at the airport.",
+            "D": "A traveler is checking a luggage tag at the airport."
+          },
+          "answer": "B"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u3_0026.jpg",
+          "audio": "audio/u3_0026.mp3",
+          "image_query": "airport gate boarding queue passengers waiting",
+          "options": {
+            "A": "Passengers are sitting in line at the gate.",
+            "B": "Passengers are waiting in line at the gate.",
+            "C": "Crew members are waiting in line at the gate.",
+            "D": "Passengers are waiting in line at the taxi stand."
+          },
+          "answer": "B"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u3_0027.jpg",
+          "audio": "audio/u3_0027.mp3",
+          "image_query": "airport check-in luggage suitcase airline counter",
+          "options": {
+            "A": "The agent is tagging carry-on luggage at the counter.",
+            "B": "The passenger is tagging checked luggage at the counter.",
+            "C": "The agent is tagging checked luggage at the counter.",
+            "D": "The agent is weighing checked luggage at the security line."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u3_0028.jpg",
+          "audio": "audio/u3_0028.mp3",
+          "image_query": "tourist traveler map city navigation street",
+          "options": {
+            "A": "A tourist is folding a map near the hotel entrance.",
+            "B": "A concierge is reading a map near the hotel entrance.",
+            "C": "A tourist is reading a menu near the hotel entrance.",
+            "D": "A tourist is reading a map near the hotel entrance."
+          },
+          "answer": "D"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u3_0029.jpg",
+          "audio": "audio/u3_0029.mp3",
+          "image_query": "traveler walking suitcase luggage airport hotel hallway",
+          "options": {
+            "A": "A traveler is running with a rolling suitcase along a bright corridor.",
+            "B": "A traveler is walking with a rolling suitcase along a bright corridor.",
+            "C": "A traveler is walking without luggage along a bright corridor.",
+            "D": "A pilot is walking with a rolling suitcase along a bright corridor."
+          },
+          "answer": "B"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u3_0030.mp3",
+          "sentence": "The rental car desk is located in _____ two.",
+          "answer": "terminal"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u3_0031.mp3",
+          "sentence": "Passengers must show _____ at the security checkpoint.",
+          "answer": "ID"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u3_0032.mp3",
+          "sentence": "The _____ shuttle leaves from the main entrance hourly.",
+          "answer": "hotel"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u3_0033.mp3",
+          "sentence": "Heavy traffic is _____ near the airport exit.",
+          "answer": "expected"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u3_0034.mp3",
+          "sentence": "Your boarding pass is available _____ the airline app.",
+          "answer": "on"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u3_0035.mp3",
+          "sentence": "Your connecting flight arrives in _____ at six PM.",
+          "answer": "Chicago"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u3_0036.mp3",
+          "sentence": "The train departs from platform twelve _____ ten minutes.",
+          "answer": "in"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the travel context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "checkpoint",
+            "B": "terminal",
+            "C": "connecting",
+            "D": "platform"
+          },
+          "answer": "C"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the travel context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "turbulence",
+            "B": "connecting",
+            "C": "checkpoint",
+            "D": "terminal"
+          },
+          "answer": "C"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the travel context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "boarding",
+            "B": "shuttle",
+            "C": "checkpoint",
+            "D": "platform"
+          },
+          "answer": "C"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the travel context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "boarding",
+            "B": "turbulence",
+            "C": "shuttle",
+            "D": "platform"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "Listening — Restaurant (Unit 4)",
+      "topic": "restaurant",
+      "content": "## Listening focus: Restaurant\n\nSample lines you may hear:\n\n- A: Could we have a table for four near the window?\n- B: Of course; your server will be right with you.\n\nKey vocabulary: reservation, sparkling, dessert, grilled, special, kitchen.\n\nStrategy: listen for purpose, details, and signal words before choosing an answer.",
+      "questions": [
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u4_0037.jpg",
+          "audio": "audio/u4_0037.mp3",
+          "image_query": "restaurant server dining table guests meal service",
+          "options": {
+            "A": "A server is pouring water for guests at the table.",
+            "B": "A server is pouring wine for guests at the table.",
+            "C": "A server is pouring water for staff at the counter.",
+            "D": "A host is pouring water for guests at the table."
+          },
+          "answer": "A"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u4_0038.jpg",
+          "audio": "audio/u4_0038.mp3",
+          "image_query": "chef cooking kitchen restaurant food plating",
+          "options": {
+            "A": "The chef is washing a dish in the kitchen.",
+            "B": "The chef is plating a dish in the kitchen.",
+            "C": "The waiter is plating a dish in the kitchen.",
+            "D": "The chef is plating a dish at the bar."
+          },
+          "answer": "B"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u4_0039.jpg",
+          "audio": "audio/u4_0039.mp3",
+          "image_query": "restaurant interior dining menu cozy lighting",
+          "options": {
+            "A": "Customers are ordering menus under soft lighting.",
+            "B": "Customers are reading menus under bright sunlight.",
+            "C": "Customers are reading menus under soft lighting.",
+            "D": "Customers are reading newspapers under soft lighting."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u4_0040.jpg",
+          "audio": "audio/u4_0040.mp3",
+          "image_query": "restaurant window table couple dining host",
+          "options": {
+            "A": "The host is billing a couple by the window.",
+            "B": "The host is seating a couple by the kitchen.",
+            "C": "The host is seating a couple by the window.",
+            "D": "The server is seating a couple by the window."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u4_0041.jpg",
+          "audio": "audio/u4_0041.mp3",
+          "image_query": "friends dinner table sharing food restaurant group",
+          "options": {
+            "A": "Friends are sharing plates at an empty counter.",
+            "B": "Friends are packing plates at a crowded dinner table.",
+            "C": "Strangers are sharing plates at a crowded dinner table.",
+            "D": "Friends are sharing plates at a crowded dinner table."
+          },
+          "answer": "D"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u4_0042.mp3",
+          "sentence": "Would _____ like still or sparkling water with that?",
+          "answer": "you"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u4_0043.mp3",
+          "sentence": "Could we split _____ bill three ways, please?",
+          "answer": "the"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u4_0044.mp3",
+          "sentence": "The daily special includes soup and a _____ salad.",
+          "answer": "side"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u4_0045.mp3",
+          "sentence": "The kitchen can _____ the dish without nuts.",
+          "answer": "prepare"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u4_0046.mp3",
+          "sentence": "The dessert menu is _____ the last page.",
+          "answer": "on"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u4_0047.mp3",
+          "sentence": "May I take your order _____ you are ready?",
+          "answer": "whenever"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u4_0048.mp3",
+          "sentence": "The chef recommends _____ grilled salmon tonight.",
+          "answer": "the"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the restaurant context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "special",
+            "B": "split",
+            "C": "grilled",
+            "D": "kitchen"
+          },
+          "answer": "A"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the restaurant context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "dessert",
+            "B": "grilled",
+            "C": "special",
+            "D": "menu"
+          },
+          "answer": "A"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the restaurant context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "special",
+            "B": "split",
+            "C": "sparkling",
+            "D": "reservation"
+          },
+          "answer": "B"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the restaurant context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "dessert",
+            "B": "special",
+            "C": "menu",
+            "D": "reservation"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "Listening — Shopping (Unit 5)",
+      "topic": "shopping",
+      "content": "## Listening focus: Shopping\n\nSample lines you may hear:\n\n- A: Do you have this jacket in medium?\n- B: Let me check stock in the back for you.\n\nKey vocabulary: loyalty, checkout, fitting, receipt, returns, sale.\n\nStrategy: listen for purpose, details, and signal words before choosing an answer.",
+      "questions": [
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u5_0049.jpg",
+          "audio": "audio/u5_0049.mp3",
+          "image_query": "clothing store shopping shirts rack retail fashion",
+          "options": {
+            "A": "A shopper is comparing two shirts on a rack.",
+            "B": "A shopper is comparing two shoes on a rack.",
+            "C": "A shopper is folding two shirts on a rack.",
+            "D": "A cashier is comparing two shirts on a rack."
+          },
+          "answer": "A"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u5_0050.jpg",
+          "audio": "audio/u5_0050.mp3",
+          "image_query": "supermarket checkout cashier scanning groceries",
+          "options": {
+            "A": "The cashier is scanning items at the checkout lane.",
+            "B": "The cashier is bagging items at the checkout lane.",
+            "C": "The customer is scanning items at the checkout lane.",
+            "D": "The cashier is scanning items at the fitting room."
+          },
+          "answer": "A"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u5_0051.jpg",
+          "audio": "audio/u5_0051.mp3",
+          "image_query": "customer service desk help counter store support",
+          "options": {
+            "A": "A manager is asking about a warranty at the service desk.",
+            "B": "A customer is asking about a discount at the service desk.",
+            "C": "A customer is asking about a warranty at the service desk.",
+            "D": "A customer is asking about a warranty at the food court."
+          },
+          "answer": "C"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u5_0052.jpg",
+          "audio": "audio/u5_0052.mp3",
+          "image_query": "shopping mall bags walking corridor retail",
+          "options": {
+            "A": "Shoppers are carrying bags through the mall corridor.",
+            "B": "Staff are carrying bags through the mall corridor.",
+            "C": "Shoppers are carrying bags through the parking garage.",
+            "D": "Shoppers are carrying carts through the mall corridor."
+          },
+          "answer": "A"
+        },
+        {
+          "type": "image_audio_mcq",
+          "stem": "Listen and choose the best description of the situation.",
+          "image": "images/u5_0053.jpg",
+          "audio": "audio/u5_0053.mp3",
+          "image_query": "grocery store vegetables fruits aisle shopping cart",
+          "options": {
+            "A": "A customer is choosing produce in a well-lit grocery aisle.",
+            "B": "A cashier is choosing produce in a well-lit grocery aisle.",
+            "C": "A customer is choosing produce in a dark parking lot.",
+            "D": "A customer is returning produce in a well-lit grocery aisle."
+          },
+          "answer": "A"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u5_0054.mp3",
+          "sentence": "Your loyalty points will _____ applied at checkout.",
+          "answer": "be"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u5_0055.mp3",
+          "sentence": "We _____ free gift wrapping during the holiday season.",
+          "answer": "offer"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u5_0056.mp3",
+          "sentence": "You can return _____ items within thirty days.",
+          "answer": "unworn"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u5_0057.mp3",
+          "sentence": "This _____ is on sale until the end of the weekend.",
+          "answer": "item"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u5_0058.mp3",
+          "sentence": "The electronics department is _____ the third floor.",
+          "answer": "on"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u5_0059.mp3",
+          "sentence": "Would you like a receipt sent to your _____ address?",
+          "answer": "email"
+        },
+        {
+          "type": "audio_fill_blank",
+          "audio": "audio/u5_0060.mp3",
+          "sentence": "Cash or card payments are accepted _____ every register.",
+          "answer": "at"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the shopping context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "sale",
+            "B": "loyalty",
+            "C": "receipt",
+            "D": "checkout"
+          },
+          "answer": "D"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the shopping context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "receipt",
+            "B": "returns",
+            "C": "loyalty",
+            "D": "register"
+          },
+          "answer": "D"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the shopping context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "receipt",
+            "B": "returns",
+            "C": "checkout",
+            "D": "warranty"
+          },
+          "answer": "C"
+        },
+        {
+          "type": "theory_mcq",
+          "question": "In the shopping context from this unit, which vocabulary word fits best: \"We need to confirm the _____ before the client call.\"",
+          "options": {
+            "A": "returns",
+            "B": "warranty",
+            "C": "loyalty",
+            "D": "fitting"
+          },
+          "answer": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "course_id": "reading_a1",
+  "course_name": "Reading — A1",
+  "course_description": "Bốn bài đọc A1 (British Council): Study timetable, Restaurant menu, Exam posters, Yoga poster. Tab **Tài liệu**: chuẩn bị dạng text; tab **Bài tập**: đoạn đọc (nút hiện/ẩn) và trắc nghiệm.",
+  "course_level": "beginner",
+  "course_skill": "reading",
+  "course_cefr_level": "A1",
+  "lessons": [
+    {
+      "lesson_id": "R_a1_study_timetable",
+      "lesson_name": "A study timetable",
+      "order": 1,
+      "estimated_minutes": 30,
+      "audio_url": "",
+      "metadata": {
+        "skill": "reading",
+        "source_html": "course/reading/A study timetable _ LearnEnglish.html",
+        "gamedata_prep": "http://gamedata.britishcouncil.org/d/Matching_MjI5ODE=.xml",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/Matching_MjI5ODI=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/MultipleChoice_MjI5ODM=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**A study timetable** — từ vựng đọc lịch / thời khóa biểu (British Council A1).\n\n- **Days:** Monday, Tuesday, Wednesday … Sunday — **lunch**, **dinner**, **free time**.\n- **School activities:** **English level test**, **vocabulary**, **grammar**, **English skills** (Speaking, Reading, Listening, Writing), **project class**, **progress test**.\n- **Trips / fun:** **excursion** (đi tham quan), **theatre trip**, **cinema**, **swimming**, **football tournament**, **mountain biking**, **bowling**, **talent show**, **disco**.\n\nĐoạn đọc đầy đủ nằm trong tab **Bài tập** — dùng nút **Hiện đoạn đọc** phía trên câu hỏi."
+          }
+        ],
+        "reading_passage": "## Reading text — A study timetable (summer school)\n\n### Monday to Wednesday\n\n| | Monday | Tuesday | Wednesday |\n| --- | --- | --- | --- |\n| 9.00 | English level test | Vocabulary | Whole day excursion to London or Oxford |\n| 10.00 | English skills: Speaking | English skills: Reading | |\n| 11.00 | Preparation for excursion | Preparation for excursion | |\n| 12.00 | Lunch | Lunch | |\n| 13.00 | Project class | Project class | |\n| 15.00 | Art | Basketball | |\n| 17.00 | Free time | Free time | |\n| 18.00 | Dinner | Dinner | Dinner |\n| 19.00 | Swimming | Football tournament | Cinema |\n| 21.00 | Free time | Free time | Free time |\n\n*(Wednesday is a full-day excursion — other times are not filled in separately in the original timetable.)*\n\n### Thursday to Sunday\n\n| | Thursday | Friday | Saturday | Sunday |\n| --- | --- | --- | --- | --- |\n| 9.00 | Grammar | Vocabulary | Grammar | Late breakfast |\n| 10.00 | English skills: Speaking | English skills: Listening | Progress test | English skills: Writing |\n| 11.00 | Games with English | Drama | Drama | Preparation for excursion |\n| 12.00 | Lunch | Lunch | Lunch | Lunch |\n| 13.00 | Project class | Project class | Theatre trip | Excursion to local castle or museum |\n| 15.00 | Circus skills | Mountain biking | | |\n| 17.00 | Free time | Free time | | |\n| 18.00 | Dinner | Dinner | Dinner | Dinner |\n| 19.00 | Bowling | Talent show | Disco | Free time / packing |\n| 21.00 | Free time | Free time | Free time | Free time / packing |\n\n*(Saturday afternoon/evening: theatre trip; Sunday afternoon: local excursion — details follow the merged cells in the original.)*"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_tt_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Hai lúc 9.00 có hoạt động gì?",
+          "options": {
+            "A": "Vocabulary",
+            "B": "English level test",
+            "C": "Grammar",
+            "D": "Theatre trip"
+          },
+          "correct_answer": "B",
+          "hint_text": "Bảng Monday."
+        },
+        {
+          "quiz_id": "Q_tt_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Ba lúc 19.00 học sinh làm gì?",
+          "options": {
+            "A": "Swimming",
+            "B": "Football tournament",
+            "C": "Cinema",
+            "D": "Bowling"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tuesday 19.00: Football tournament."
+        },
+        {
+          "quiz_id": "Q_tt_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Tư cả ngày là gì?",
+          "options": {
+            "A": "Project class",
+            "B": "Whole day excursion to London or Oxford",
+            "C": "Late breakfast",
+            "D": "Progress test"
+          },
+          "correct_answer": "B",
+          "hint_text": "Reading text Wednesday."
+        },
+        {
+          "quiz_id": "Q_tt_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Năm lúc 9.00 là tiết gì?",
+          "options": {
+            "A": "Grammar",
+            "B": "Vocabulary",
+            "C": "English skills: Writing",
+            "D": "Games with English"
+          },
+          "correct_answer": "A",
+          "hint_text": "Thursday row 9.00."
+        },
+        {
+          "quiz_id": "Q_tt_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Sáu lúc 10.00 là gì?",
+          "options": {
+            "A": "English skills: Speaking",
+            "B": "English skills: Listening",
+            "C": "Progress test",
+            "D": "Drama"
+          },
+          "correct_answer": "B",
+          "hint_text": "Friday column."
+        },
+        {
+          "quiz_id": "Q_tt_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Bảy lúc 10.00 có gì?",
+          "options": {
+            "A": "Grammar",
+            "B": "Progress test",
+            "C": "Games with English",
+            "D": "Mountain biking"
+          },
+          "correct_answer": "B",
+          "hint_text": "Saturday."
+        },
+        {
+          "quiz_id": "Q_tt_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Chủ nhật buổi sáng 9.00 (theo bảng) là gì?",
+          "options": {
+            "A": "Grammar",
+            "B": "Late breakfast",
+            "C": "Project class",
+            "D": "Theatre trip"
+          },
+          "correct_answer": "B",
+          "hint_text": "Sunday 9.00."
+        },
+        {
+          "quiz_id": "Q_tt_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Hai lúc 19.00 là hoạt động nào?",
+          "options": {
+            "A": "Football tournament",
+            "B": "Swimming",
+            "C": "Talent show",
+            "D": "Cinema"
+          },
+          "correct_answer": "B",
+          "hint_text": "Monday 19.00."
+        },
+        {
+          "quiz_id": "Q_tt_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Năm lúc 15.00:",
+          "options": {
+            "A": "Art",
+            "B": "Circus skills",
+            "C": "Mountain biking",
+            "D": "Drama"
+          },
+          "correct_answer": "B",
+          "hint_text": "Thursday 15.00."
+        },
+        {
+          "quiz_id": "Q_tt_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Sáu lúc 19.00:",
+          "options": {
+            "A": "Bowling",
+            "B": "Disco",
+            "C": "Swimming",
+            "D": "Cinema"
+          },
+          "correct_answer": "A",
+          "hint_text": "Friday 19.00."
+        },
+        {
+          "quiz_id": "Q_tt_11",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Chủ nhật lúc 11.00 có mục Preparation for excursion.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Sunday 11.00 row."
+        },
+        {
+          "quiz_id": "Q_tt_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Hai và thứ Ba lúc 13.00 đều là:",
+          "options": {
+            "A": "Theatre trip",
+            "B": "Project class",
+            "C": "Excursion",
+            "D": "Games with English"
+          },
+          "correct_answer": "B",
+          "hint_text": "13.00 Mon–Tue."
+        },
+        {
+          "quiz_id": "Q_tt_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Bảy lúc 19.00:",
+          "options": {
+            "A": "Bowling",
+            "B": "Talent show",
+            "C": "Disco",
+            "D": "Football tournament"
+          },
+          "correct_answer": "C",
+          "hint_text": "Saturday 19.00."
+        },
+        {
+          "quiz_id": "Q_tt_14",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Thứ Tư học sinh vẫn có bữa tối (dinner) lúc 18.00 như các ngày khác.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Bảng Wednesday 18.00 Dinner."
+        },
+        {
+          "quiz_id": "Q_tt_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Chủ nhật 13.00 chủ yếu là:",
+          "options": {
+            "A": "Theatre trip",
+            "B": "Excursion to local castle or museum",
+            "C": "Project class",
+            "D": "Circus skills"
+          },
+          "correct_answer": "B",
+          "hint_text": "Sunday 13.00."
+        },
+        {
+          "quiz_id": "Q_tt_16",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Thứ Hai 15.00 là Basketball.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Monday 15.00: Art."
+        },
+        {
+          "quiz_id": "Q_tt_17",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Sáu lúc 11.00:",
+          "options": {
+            "A": "Games with English",
+            "B": "Drama",
+            "C": "Preparation for excursion",
+            "D": "Mountain biking"
+          },
+          "correct_answer": "B",
+          "hint_text": "Friday 11.00."
+        },
+        {
+          "quiz_id": "Q_tt_18",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ Ba lúc 12.00:",
+          "options": {
+            "A": "Dinner",
+            "B": "Lunch",
+            "C": "Free time",
+            "D": "Excursion"
+          },
+          "correct_answer": "B",
+          "hint_text": "12.00 Lunch."
+        }
+      ]
+    },
+    {
+      "lesson_id": "R_a1_restaurant_menu",
+      "lesson_name": "A restaurant menu",
+      "order": 2,
+      "estimated_minutes": 30,
+      "audio_url": "",
+      "metadata": {
+        "skill": "reading",
+        "source_html": "course/reading/A restaurant menu _ LearnEnglish.html",
+        "gamedata_prep": "http://gamedata.britishcouncil.org/d/Matching_MjI5ODU=.xml",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/TrueOrFalse_MjI5ODY=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/MultipleChoice_MjI5ODc=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**A restaurant menu** — từ vựng đọc thực đơn (British Council A1).\n\n- **Menu sections:** meat and fish, **vegetarian**, **something sweet**, **drinks**.\n- **Prices:** ký hiệu **£** (pound); so sánh giá rẻ / đắt.\n- **Useful words:** **grilled**, **steak**, **chips**, **salad**, **omelette**, **soup of the day**, **homemade**, **still or sparkling** (nước).\n\nĐoạn đọc đầy đủ nằm trong tab **Bài tập** — dùng nút **Hiện đoạn đọc** phía trên câu hỏi."
+          }
+        ],
+        "reading_passage": "## Reading text — Tony's Kitchen (restaurant menu)\n\n**Tony's Kitchen** — ★★★★★☆ — 231 reviews  \nChicken, Pizzas, Vegetarian  \n**17 Broad Street** — **Opening at 11:30**\n\n### Meat and fish\n- Grilled fish of the day — **£8.00**\n- Steak with chips or salad — **£12.00**\n- Sausage and roast tomato pasta — **£7.00**\n- Chicken salad with garlic yoghurt dressing — **£7.00**\n\n### Vegetarian\n- Cheese and tomato pizza — **£7.00**\n- Mushroom omelette — **£6.00**\n- Vegetable chili — **£7.00**\n- Soup of the day with brown or white bread — **£4.00**\n\n### Something sweet\n- Homemade carrot cake — **£3.50**\n- Homemade banana cake — **£3.50**\n- Chocolate ice cream with chocolate sauce — **£3.50**\n- Fresh fruit salad with grapes, mango, melon and apple, served with cream or ice cream — **£3.50**\n\n### Drinks\n- Cup of coffee — **£2.00**\n- Cup of tea — **£1.50**\n- Glass of wine, white or red — **£3.00**\n- Beer — **£3.00**\n- Water, still or sparkling — **£1.00**\n- Orange juice — **£2.00**"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_mn_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Nhà hàng tên gì?",
+          "options": {
+            "A": "Broad Kitchen",
+            "B": "Tony's Kitchen",
+            "C": "Chicken Pizza",
+            "D": "231 Street"
+          },
+          "correct_answer": "B",
+          "hint_text": "Đầu menu."
+        },
+        {
+          "quiz_id": "Q_mn_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Địa chỉ ghi trên menu?",
+          "options": {
+            "A": "11 Broad Street",
+            "B": "17 Broad Street",
+            "C": "7 Broad Street",
+            "D": "21 Broad Street"
+          },
+          "correct_answer": "B",
+          "hint_text": "17 Broad Street."
+        },
+        {
+          "quiz_id": "Q_mn_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mấy giờ mở cửa (opening)?",
+          "options": {
+            "A": "9:00",
+            "B": "10:30",
+            "C": "11:30",
+            "D": "12:00"
+          },
+          "correct_answer": "C",
+          "hint_text": "Opening at 11:30."
+        },
+        {
+          "quiz_id": "Q_mn_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Steak with chips or salad giá bao nhiêu?",
+          "options": {
+            "A": "£7.00",
+            "B": "£8.00",
+            "C": "£12.00",
+            "D": "£4.00"
+          },
+          "correct_answer": "C",
+          "hint_text": "Meat and fish."
+        },
+        {
+          "quiz_id": "Q_mn_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Món rẻ nhất trong nhóm Drinks là gì?",
+          "options": {
+            "A": "Orange juice",
+            "B": "Beer",
+            "C": "Water, still or sparkling",
+            "D": "Wine"
+          },
+          "correct_answer": "C",
+          "hint_text": "Water £1.00."
+        },
+        {
+          "quiz_id": "Q_mn_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cheese and tomato pizza (vegetarian) giá?",
+          "options": {
+            "A": "£6.00",
+            "B": "£7.00",
+            "C": "£8.00",
+            "D": "£12.00"
+          },
+          "correct_answer": "B",
+          "hint_text": "Vegetarian section."
+        },
+        {
+          "quiz_id": "Q_mn_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mushroom omelette giá?",
+          "options": {
+            "A": "£6.00",
+            "B": "£7.00",
+            "C": "£4.00",
+            "D": "£3.50"
+          },
+          "correct_answer": "A",
+          "hint_text": "Vegetarian."
+        },
+        {
+          "quiz_id": "Q_mn_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Soup of the day with bread giá?",
+          "options": {
+            "A": "£3.50",
+            "B": "£4.00",
+            "C": "£7.00",
+            "D": "£2.00"
+          },
+          "correct_answer": "B",
+          "hint_text": "Vegetarian."
+        },
+        {
+          "quiz_id": "Q_mn_09",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Menu ghi 231 reviews.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Đầu menu."
+        },
+        {
+          "quiz_id": "Q_mn_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cup of tea giá?",
+          "options": {
+            "A": "£1.00",
+            "B": "£1.50",
+            "C": "£2.00",
+            "D": "£3.00"
+          },
+          "correct_answer": "B",
+          "hint_text": "Drinks."
+        },
+        {
+          "quiz_id": "Q_mn_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Grilled fish of the day giá?",
+          "options": {
+            "A": "£7.00",
+            "B": "£8.00",
+            "C": "£12.00",
+            "D": "£6.00"
+          },
+          "correct_answer": "B",
+          "hint_text": "Meat and fish."
+        },
+        {
+          "quiz_id": "Q_mn_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Chocolate ice cream with chocolate sauce?",
+          "options": {
+            "A": "£3.50",
+            "B": "£4.00",
+            "C": "£2.00",
+            "D": "£1.50"
+          },
+          "correct_answer": "A",
+          "hint_text": "Something sweet."
+        },
+        {
+          "quiz_id": "Q_mn_13",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Chicken salad with garlic yoghurt dressing là £7.00.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Meat and fish list."
+        },
+        {
+          "quiz_id": "Q_mn_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Beer giá?",
+          "options": {
+            "A": "£1.00",
+            "B": "£2.00",
+            "C": "£3.00",
+            "D": "£3.50"
+          },
+          "correct_answer": "C",
+          "hint_text": "Drinks."
+        },
+        {
+          "quiz_id": "Q_mn_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Orange juice?",
+          "options": {
+            "A": "£1.50",
+            "B": "£2.00",
+            "C": "£3.00",
+            "D": "£2.50"
+          },
+          "correct_answer": "B",
+          "hint_text": "Drinks."
+        },
+        {
+          "quiz_id": "Q_mn_16",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Vegetarian section có vegetable chili.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Vegetarian."
+        },
+        {
+          "quiz_id": "Q_mn_17",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cup of coffee?",
+          "options": {
+            "A": "£1.50",
+            "B": "£2.00",
+            "C": "£2.50",
+            "D": "£3.00"
+          },
+          "correct_answer": "B",
+          "hint_text": "Drinks £2.00."
+        },
+        {
+          "quiz_id": "Q_mn_18",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Homemade carrot cake?",
+          "options": {
+            "A": "£3.00",
+            "B": "£3.50",
+            "C": "£4.00",
+            "D": "£7.00"
+          },
+          "correct_answer": "B",
+          "hint_text": "Something sweet."
+        }
+      ]
+    },
+    {
+      "lesson_id": "R_a1_poster_exam",
+      "lesson_name": "A poster for exam candidates",
+      "order": 3,
+      "estimated_minutes": 30,
+      "audio_url": "",
+      "metadata": {
+        "skill": "reading",
+        "source_html": "course/reading/A poster for exam candidates _ LearnEnglish.html",
+        "gamedata_prep": "http://gamedata.britishcouncil.org/d/Matching_MjI5ODk=.xml",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/TrueOrFalse_MjI5OTA=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/MultipleChoice_MjI5OTE=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**Posters for exam candidates** — từ vựng hướng dẫn phòng thi (British Council A1).\n\n- **ID card / student ID** — giấy tờ danh tính.\n- **Arrive** — đến đúng giờ; **doors close** — đóng cửa.\n- **Mobile phones** — điện thoại; **raise your hand** — giơ tay hỏi.\n- **No food or drinks** — không ăn uống trong phòng thi.\n\nĐoạn đọc đầy đủ nằm trong tab **Bài tập** — dùng nút **Hiện đoạn đọc** phía trên câu hỏi."
+          }
+        ],
+        "reading_passage": "## Reading text — Exam posters\n\n### Poster 1 — FINAL EXAM INSTRUCTIONS\n- Doors close **5 minutes before** the exam begins.\n- Show your **student ID card** to examiner when you enter the room.\n- **No phones, no books.**\n\n---\n\n### Poster 2 — BEFORE THE EXAM\n- Have your **ID card** ready.\n- Listen to the instructions.\n- **Arrive 10 minutes before** exam.\n\n### Poster 2 — IN THE EXAM\n- **Mobile phones** switched off and put away.\n- **ID card visible** on the desk.\n- **No talking.**\n- **No food or drinks** in exam room.\n\n---\n\n### Poster 3\n- Follow the examiner's instructions.\n- If you have a question, **raise your hand**.\n- No **mobile phones, books or bags** in the exam.\n- Please use a **blue or black pen**."
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_ex_01",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 1: cửa đóng 5 phút trước khi thi bắt đầu.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Doors close 5 minutes before…"
+        },
+        {
+          "quiz_id": "Q_ex_02",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 2 (Before): cần đến trước giờ thi 10 phút.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Arrive 10 minutes before exam."
+        },
+        {
+          "quiz_id": "Q_ex_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Poster 3: nếu bạn muốn hỏi thì phải làm sao?",
+          "options": {
+            "A": "Stand up",
+            "B": "Raise your hand",
+            "C": "Shout",
+            "D": "Send email"
+          },
+          "correct_answer": "B",
+          "hint_text": "Raise your hand."
+        },
+        {
+          "quiz_id": "Q_ex_04",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 1: được mang sách vào phòng.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "No books."
+        },
+        {
+          "quiz_id": "Q_ex_05",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 2 (In the exam): điện thoại phải tắt và cất đi.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Mobile phones switched off…"
+        },
+        {
+          "quiz_id": "Q_ex_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Poster 3: bút viết nên dùng màu nào?",
+          "options": {
+            "A": "Red or green",
+            "B": "Blue or black",
+            "C": "Any colour",
+            "D": "Pencil only"
+          },
+          "correct_answer": "B",
+          "hint_text": "Blue or black pen."
+        },
+        {
+          "quiz_id": "Q_ex_07",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 2: thẻ ID phải để trên bàn (visible).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "ID card visible on the desk."
+        },
+        {
+          "quiz_id": "Q_ex_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 2: được nói chuyện trong phòng thi.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "No talking."
+        },
+        {
+          "quiz_id": "Q_ex_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Poster 1 khi vào phòng cần làm gì với student ID?",
+          "options": {
+            "A": "Hide it",
+            "B": "Show it to the examiner",
+            "C": "Leave at home",
+            "D": "Throw away"
+          },
+          "correct_answer": "B",
+          "hint_text": "Show your student ID…"
+        },
+        {
+          "quiz_id": "Q_ex_10",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 3: được mang túi vào phòng thi.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "No bags."
+        },
+        {
+          "quiz_id": "Q_ex_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Poster 2 trước thi: 'Have your … ready' với gì?",
+          "options": {
+            "A": "Phone",
+            "B": "ID card",
+            "C": "Books",
+            "D": "Food"
+          },
+          "correct_answer": "B",
+          "hint_text": "Have your ID card ready."
+        },
+        {
+          "quiz_id": "Q_ex_12",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 2: trong phòng thi không được ăn uống.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "No food or drinks."
+        },
+        {
+          "quiz_id": "Q_ex_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Poster 1 có cho phép điện thoại không?",
+          "options": {
+            "A": "Yes",
+            "B": "No phones",
+            "C": "Silent only",
+            "D": "Only for photos"
+          },
+          "correct_answer": "B",
+          "hint_text": "No phones."
+        },
+        {
+          "quiz_id": "Q_ex_14",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Theo Poster 3, phải làm theo hướng dẫn của giám khảo (examiner).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Follow the examiner's instructions."
+        },
+        {
+          "quiz_id": "Q_ex_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Poster 2 Before: học sinh cần làm gì với instructions?",
+          "options": {
+            "A": "Ignore",
+            "B": "Listen to the instructions",
+            "C": "Read books",
+            "D": "Use phone"
+          },
+          "correct_answer": "B",
+          "hint_text": "Listen to the instructions."
+        },
+        {
+          "quiz_id": "Q_ex_16",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 3 cho phép mang sách vào phòng thi.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "No books."
+        },
+        {
+          "quiz_id": "Q_ex_17",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Poster 1: Doors close khi nào?",
+          "options": {
+            "A": "After exam",
+            "B": "5 minutes before the exam begins",
+            "C": "During lunch",
+            "D": "Never"
+          },
+          "correct_answer": "B",
+          "hint_text": "Poster 1 bullet."
+        },
+        {
+          "quiz_id": "Q_ex_18",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster 2 In the exam: được ăn trong phòng.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "No food or drinks."
+        }
+      ]
+    },
+    {
+      "lesson_id": "R_a1_poster_work",
+      "lesson_name": "A poster at work",
+      "order": 4,
+      "estimated_minutes": 30,
+      "audio_url": "",
+      "metadata": {
+        "skill": "reading",
+        "source_html": "course/reading/A poster at work _ LearnEnglish.html",
+        "gamedata_prep": "http://gamedata.britishcouncil.org/d/Matching_MjI5OTM=.xml",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/TrueOrFalse_MjI5OTQ=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/MultipleChoice_MjI5OTU=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**A poster at work** — từ vựng đọc thông báo / lời mời (British Council A1).\n\n- **When / Where / How much** — hỏi thời gian, địa điểm, giá.\n- **Yoga** — **mats**, **comfortable clothes**, **lunchtime class**.\n- **Book / join** — đăng ký qua **email**; **maximum** — giới hạn chỗ.\n\nĐoạn đọc đầy đủ nằm trong tab **Bài tập** — dùng nút **Hiện đoạn đọc** phía trên câu hỏi."
+          }
+        ],
+        "reading_passage": "## Reading text — Office yoga poster\n\n### Time to relax!\n\nCome and join our **lunchtime yoga class** with experienced yoga teacher **Divya Bridge**!\n\n- **When?** Every **Tuesday at 1.30 p.m.**\n- **Where?** **Meeting Room 7**\n- **How much?** **£10 for four 30-minute classes.**\n- **What to bring?** Comfortable clothes. Divya will provide the **yoga mats**.\n- **How to join?** Write to Sam at **Sam.Holden@example.com**\n\nWe can only take a maximum of **20** in the room, so book now!"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_yg_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Lớp yoga diễn ra hôm nào?",
+          "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Friday",
+            "D": "Every day"
+          },
+          "correct_answer": "B",
+          "hint_text": "Every Tuesday."
+        },
+        {
+          "quiz_id": "Q_yg_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mấy giờ bắt đầu?",
+          "options": {
+            "A": "12.30 p.m.",
+            "B": "1.30 p.m.",
+            "C": "3.30 p.m.",
+            "D": "9.00 a.m."
+          },
+          "correct_answer": "B",
+          "hint_text": "1.30 p.m."
+        },
+        {
+          "quiz_id": "Q_yg_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Địa điểm?",
+          "options": {
+            "A": "Room 7",
+            "B": "Meeting Room 7",
+            "C": "Room 70",
+            "D": "Kitchen"
+          },
+          "correct_answer": "B",
+          "hint_text": "Meeting Room 7."
+        },
+        {
+          "quiz_id": "Q_yg_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Giá £10 bao gồm gì?",
+          "options": {
+            "A": "Một buổi 30 phút",
+            "B": "Four 30-minute classes",
+            "C": "Cả năm",
+            "D": "Chỉ thảm yoga"
+          },
+          "correct_answer": "B",
+          "hint_text": "£10 for four 30-minute classes."
+        },
+        {
+          "quiz_id": "Q_yg_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Email liên hệ để đăng ký?",
+          "options": {
+            "A": "Divya@example.com",
+            "B": "Sam.Holden@example.com",
+            "C": "yoga@kitchen.com",
+            "D": "info@broadstreet.com"
+          },
+          "correct_answer": "B",
+          "hint_text": "Write to Sam…"
+        },
+        {
+          "quiz_id": "Q_yg_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Giáo viên yoga tên gì?",
+          "options": {
+            "A": "Sam Holden",
+            "B": "Divya Bridge",
+            "C": "Tony",
+            "D": "Alex"
+          },
+          "correct_answer": "B",
+          "hint_text": "teacher Divya Bridge."
+        },
+        {
+          "quiz_id": "Q_yg_07",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Divya sẽ chuẩn bị yoga mats.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Divya will provide the yoga mats."
+        },
+        {
+          "quiz_id": "Q_yg_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Học viên nên mang quần áo thoải mái.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Comfortable clothes."
+        },
+        {
+          "quiz_id": "Q_yg_09",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Lớp học diễn ra vào thứ Hai mỗi tuần.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tuesday."
+        },
+        {
+          "quiz_id": "Q_yg_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mỗi buổi học dài bao lâu?",
+          "options": {
+            "A": "20 minutes",
+            "B": "30 minutes",
+            "C": "45 minutes",
+            "D": "60 minutes"
+          },
+          "correct_answer": "B",
+          "hint_text": "30-minute classes."
+        },
+        {
+          "quiz_id": "Q_yg_11",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "£10 là tiền một buổi duy nhất.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Four classes."
+        },
+        {
+          "quiz_id": "Q_yg_12",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Phòng chỉ chứa tối đa 20 người.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Maximum of 20."
+        },
+        {
+          "quiz_id": "Q_yg_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Tiêu đề chính của poster?",
+          "options": {
+            "A": "Time to study!",
+            "B": "Time to relax!",
+            "C": "Office rules",
+            "D": "Lunch menu"
+          },
+          "correct_answer": "B",
+          "hint_text": "Heading."
+        },
+        {
+          "quiz_id": "Q_yg_14",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Đây là lớp yoga buổi tối (evening).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Lunchtime."
+        },
+        {
+          "quiz_id": "Q_yg_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Để tham gia cần làm gì?",
+          "options": {
+            "A": "Call Sam",
+            "B": "Write to Sam (email)",
+            "C": "Pay at the door only",
+            "D": "Nothing"
+          },
+          "correct_answer": "B",
+          "hint_text": "How to join."
+        },
+        {
+          "quiz_id": "Q_yg_16",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Poster khuyên đăng ký sớm vì chỗ có hạn.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "so book now; maximum 20."
+        },
+        {
+          "quiz_id": "Q_yg_17",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Ai cung cấp thảm (mats)?",
+          "options": {
+            "A": "Sam",
+            "B": "Participants always",
+            "C": "Divya",
+            "D": "Meeting Room 7"
+          },
+          "correct_answer": "C",
+          "hint_text": "Divya will provide…"
+        },
+        {
+          "quiz_id": "Q_yg_18",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Lớp miễn phí £0.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "£10 for four classes."
+        }
+      ]
+    }
+  ]
+}

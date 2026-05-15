@@ -1,0 +1,57 @@
+{
+  "course_id": "C99",
+  "course_name": "Tên khóa học (ví dụ: Business English A2)",
+  "course_description": "Mô tả ngắn cho học viên (hiển thị trên trang khóa học).",
+  "course_level": "beginner",
+  "content_mode": "text_only",
+  "lessons": [
+    {
+      "lesson_id": "L99_01",
+      "lesson_name": "Tiêu đề bài học",
+      "order": 1,
+      "estimated_minutes": 20,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "example_topic",
+        "time_est_minutes": 20,
+        "difficulty": 0.3
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Phần lý thuyết",
+            "body": "### Markdown được hỗ trợ\n\nViết nội dung bài học tại đây."
+          }
+        ],
+        "reading_passage": "Optional: đoạn đọc thêm.",
+        "vocabulary": [
+          { "word": "hello", "vi": "xin chào" }
+        ],
+        "examples": [
+          { "english": "Hello.", "vietnamese": "Xin chào." }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L99_01_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Chọn đáp án đúng.",
+          "options": {
+            "A": "Đáp án A",
+            "B": "Đáp án B",
+            "C": "Đáp án C",
+            "D": "Đáp án D"
+          },
+          "correct_answer": "A",
+          "hint_text": "Gợi ý tùy chọn.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    }
+  ]
+}

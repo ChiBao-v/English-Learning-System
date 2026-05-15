@@ -1,0 +1,15 @@
+django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+whitenoise
+psycopg2-binary
+python-dotenv
+pandas
+scikit-learn
+mlflow
+joblib
+gunicorn
+pytest
+pytest-django
+faker

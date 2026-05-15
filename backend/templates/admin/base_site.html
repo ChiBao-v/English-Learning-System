@@ -1,0 +1,16 @@
+{% extends "admin/base.html" %}
+
+{% comment %}
+Chỉ đổi tên thương hiệu + tiêu đề. KHÔNG nạp CSS tùy biến để giữ nguyên
+layout mặc định của Django admin (đã sạch và đầy đủ chức năng).
+{% endcomment %}
+
+{% block title %}{{ title }} | TOEIC Learning System{% endblock %}
+
+{% block branding %}
+<div id="site-name">
+    <a href="{% url 'admin:index' %}">🎓 TOEIC Learning System</a>
+</div>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}

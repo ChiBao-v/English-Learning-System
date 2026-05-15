@@ -1,0 +1,1050 @@
+{
+  "course_id": "vocabulary_a1",
+  "course_name": "Vocabulary — A1",
+  "course_description": "Bon bai tu vung A1 (British Council LearnEnglish): phu kien, hanh dong, ngoai hinh, phong ngu.",
+  "course_level": "beginner",
+  "course_skill": "general",
+  "course_cefr_level": "A1",
+  "lessons": [
+    {
+      "lesson_id": "V_a1_accessories",
+      "lesson_name": "Accessories",
+      "order": 1,
+      "estimated_minutes": 20,
+      "audio_url": "",
+      "metadata": {
+        "skill": "vocabulary",
+        "source_html": "course/volcabulary/Accessories _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Tu vung (Vocabulary)",
+            "body": "### Tu vung chu de: Phu kien (Accessories)\n\nDuoi day la danh sach cac tu vung ve phu kien ma ban thuong su dung hang ngay.\n\n| Tu | Ngha |\n|---|---|\n| **bag** | tui xach |\n| **belt** | that lung |\n| **bracelet** | vong tay |\n| **cap** | mu luoi trai (co vat che mat) |\n| **earrings** | bong tai |\n| **glasses** | kinh mat |\n| **gloves** | gang tay |\n| **hat** | mu non |\n| **necklace** | day chuyen |\n| **pocket** | tui quan/ao |\n| **rucksack** | balo |\n| **scarf** | khan quang co |\n\n---\n\n#### Vi du trong cau\n\n- A **belt** goes around your waist to hold your trousers up.\n- You wear **glasses** to see better.\n- A **rucksack** is a bag that you wear on your back.\n- A **scarf** goes around your neck to keep you warm.\n- **Earrings** are jewellery for your ears.\n- A **pocket** is the place in your trousers or shirt where you can put things.\n- You wear **gloves** on your hands when it is cold.\n- A **cap** protects your head and eyes from the sun.\n- A **necklace** is a piece of jewellery for your neck.\n- A **bracelet** is a piece of jewellery for your wrist."
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_V_acc_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This holds your trousers up. It goes around your waist.",
+          "options": {
+            "A": "belt",
+            "B": "cap",
+            "C": "necklace",
+            "D": "scarf"
+          },
+          "correct_answer": "A",
+          "hint_text": "Day la vat dung de giu quan khoi tut xuong, thuong lam bang da hoac vai."
+        },
+        {
+          "quiz_id": "Q_V_acc_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You wear this on your head. It protects your head and eyes from the sun.",
+          "options": {
+            "A": "bag",
+            "B": "cap",
+            "C": "earrings",
+            "D": "gloves"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day la loai mu co vat che phia truoc de chong nang."
+        },
+        {
+          "quiz_id": "Q_V_acc_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You wear these to see better.",
+          "options": {
+            "A": "pocket",
+            "B": "scarf",
+            "C": "glasses",
+            "D": "bracelet"
+          },
+          "correct_answer": "C",
+          "hint_text": "Day la vat dung tro giup thi luc, thuong lam bang kinh va khung kim loai hoac nhua."
+        },
+        {
+          "quiz_id": "Q_V_acc_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You wear this on your back to carry your things.",
+          "options": {
+            "A": "gloves",
+            "B": "necklace",
+            "C": "rucksack",
+            "D": "hat"
+          },
+          "correct_answer": "C",
+          "hint_text": "Day la loai tui deo sau lung, pho bien voi hoc sinh va nguoi di du lich."
+        },
+        {
+          "quiz_id": "Q_V_acc_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You wear this to keep warm. It goes around your neck.",
+          "options": {
+            "A": "bracelet",
+            "B": "hat",
+            "C": "scarf",
+            "D": "pocket"
+          },
+          "correct_answer": "C",
+          "hint_text": "Day la vat dung quanh co de giu am, thuong duoc dung vao mua dong."
+        },
+        {
+          "quiz_id": "Q_V_acc_06",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This is a place in your trousers or shirt. You can put things like your phone and money here.",
+          "options": {
+            "A": "cap",
+            "B": "hat",
+            "C": "pocket",
+            "D": "bag"
+          },
+          "correct_answer": "C",
+          "hint_text": "Day la mot khoang nho nam tren quan hoac ao, khong phai vat trang suc."
+        },
+        {
+          "quiz_id": "Q_V_acc_07",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You wear these on your hands when it is cold.",
+          "options": {
+            "A": "earrings",
+            "B": "gloves",
+            "C": "hat",
+            "D": "belt"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day la vat dung bao phu ban tay de chong lanh."
+        },
+        {
+          "quiz_id": "Q_V_acc_08",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You wear these on your ears as jewellery.",
+          "options": {
+            "A": "bag",
+            "B": "earrings",
+            "C": "necklace",
+            "D": "glasses"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day la loai trang suc duoc deo o tai."
+        },
+        {
+          "quiz_id": "Q_V_acc_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Earrings are jewellery for your ___.",
+          "options": {
+            "A": "neck",
+            "B": "wrist",
+            "C": "ears",
+            "D": "hands"
+          },
+          "correct_answer": "C",
+          "hint_text": "Bong tai la trang suc duoc deo tren bo phan nao cua co the?"
+        },
+        {
+          "quiz_id": "Q_V_acc_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A piece of jewellery worn around the neck is called a ___.",
+          "options": {
+            "A": "bracelet",
+            "B": "necklace",
+            "C": "belt",
+            "D": "scarf"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day chuyen la vat trang suc duoc deo quanh co."
+        },
+        {
+          "quiz_id": "Q_V_acc_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which of these is NOT a type of jewellery?",
+          "options": {
+            "A": "necklace",
+            "B": "bracelet",
+            "C": "earrings",
+            "D": "rucksack"
+          },
+          "correct_answer": "D",
+          "hint_text": "Ba trong so nay la trang suc; mot la do dung mang do."
+        },
+        {
+          "quiz_id": "Q_V_acc_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Things we wear on our head or neck include (select the correct group):",
+          "options": {
+            "A": "belt, pocket, rucksack",
+            "B": "cap, scarf, earrings",
+            "C": "glasses, gloves, hat",
+            "D": "bag, bracelet, belt"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nghi den cac phu kien gan vung dau va co."
+        },
+        {
+          "quiz_id": "Q_V_acc_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which pair correctly describes the accessory?",
+          "options": {
+            "A": "gloves - you wear on your feet",
+            "B": "cap - you wear on your head",
+            "C": "belt - you wear around your neck",
+            "D": "rucksack - you carry in your hands"
+          },
+          "correct_answer": "B",
+          "hint_text": "Mu luoi trai la vat deo tren dau de che nang."
+        },
+        {
+          "quiz_id": "Q_V_acc_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You can wear a ___ around your waist to hold your trousers up.",
+          "options": {
+            "A": "scarf",
+            "B": "necklace",
+            "C": "belt",
+            "D": "bracelet"
+          },
+          "correct_answer": "C",
+          "hint_text": "That lung duoc deo quanh vung eo de giu quan."
+        },
+        {
+          "quiz_id": "Q_V_acc_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which accessories are used for carrying things?",
+          "options": {
+            "A": "bracelet and necklace",
+            "B": "gloves and scarf",
+            "C": "bag and rucksack",
+            "D": "belt and hat"
+          },
+          "correct_answer": "C",
+          "hint_text": "Hai vat nay duoc dung de dung do vat ben trong."
+        },
+        {
+          "quiz_id": "Q_V_acc_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "A ___ is a piece of jewellery you wear around your wrist.",
+          "options": {
+            "A": "necklace",
+            "B": "bracelet",
+            "C": "earring",
+            "D": "scarf"
+          },
+          "correct_answer": "B",
+          "hint_text": "Vong tay la trang suc deo tren co tay."
+        },
+        {
+          "quiz_id": "Q_V_acc_17",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Glasses help you to ___.",
+          "options": {
+            "A": "stay warm",
+            "B": "carry things",
+            "C": "see better",
+            "D": "hold trousers up"
+          },
+          "correct_answer": "C",
+          "hint_text": "Kinh mat duoc dung de ho tro thi luc."
+        }
+      ]
+    },
+    {
+      "lesson_id": "V_a1_actions",
+      "lesson_name": "Actions",
+      "order": 2,
+      "estimated_minutes": 20,
+      "audio_url": "",
+      "metadata": {
+        "skill": "vocabulary",
+        "source_html": "course/volcabulary/Actions _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Tu vung (Vocabulary)",
+            "body": "### Tu vung chu de: Hanh dong (Actions)\n\nDuoi day la cac dong tu chi hanh dong thong dung hang ngay.\n\n| Tu | Ngha |\n|---|---|\n| **listen** | nghe |\n| **look** | nhin |\n| **speak** | noi |\n| **touch** | cham, so |\n| **write** | viet |\n| **read** | doc |\n| **smile** | cuoi |\n| **sleep** | ngu |\n| **draw** | ve (tranh) |\n| **cry** | khoc |\n| **type** | ganh may (gõ ban phim) |\n| **eat** | an |\n\n---\n\n#### Vi du trong cau\n\n- We **listen** when we want to hear something.\n- We **speak** when we use our mouth to talk.\n- When we **touch** something, we feel it with our hands.\n- We can use a pen to **write** a letter on paper.\n- We **draw** a picture.\n- When we are tired, we should **sleep**.\n- We **smile** when we are happy.\n- We **cry** when we feel very sad.\n- We **type** on a keyboard or touchscreen.\n- We **eat** when we are hungry.\n\n---\n\n#### Phan nhom hanh dong\n\n**Hanh dong lam bang mieng (Actions done with our mouth):**\n- smile, speak, eat\n\n**Hanh dong lam bang tay (Actions done with our hands):**\n- write, draw, type, touch"
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_V_act_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We ___ when we want to hear something.",
+          "options": {
+            "A": "listen",
+            "B": "look",
+            "C": "speak",
+            "D": "draw"
+          },
+          "correct_answer": "A",
+          "hint_text": "Hanh dong su dung tai de thu am thanh."
+        },
+        {
+          "quiz_id": "Q_V_act_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We ___ when we use our mouth to talk.",
+          "options": {
+            "A": "eat",
+            "B": "smile",
+            "C": "speak",
+            "D": "type"
+          },
+          "correct_answer": "C",
+          "hint_text": "Hanh dong su dung mieng de noi chuyen voi ai do."
+        },
+        {
+          "quiz_id": "Q_V_act_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "When we ___ something, we feel it with our hands.",
+          "options": {
+            "A": "draw",
+            "B": "touch",
+            "C": "write",
+            "D": "read"
+          },
+          "correct_answer": "B",
+          "hint_text": "Hanh dong su dung tay de cam nhan bề mat cua mot vat."
+        },
+        {
+          "quiz_id": "Q_V_act_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We ___ a picture using a pencil or pen.",
+          "options": {
+            "A": "write",
+            "B": "type",
+            "C": "draw",
+            "D": "read"
+          },
+          "correct_answer": "C",
+          "hint_text": "Hanh dong tao ra hinh anh bang but chi hoac but muc."
+        },
+        {
+          "quiz_id": "Q_V_act_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We ___ when we are happy.",
+          "options": {
+            "A": "cry",
+            "B": "sleep",
+            "C": "smile",
+            "D": "eat"
+          },
+          "correct_answer": "C",
+          "hint_text": "Khi vui ve, khoe mat cua ban se tao ra bieu cam nay."
+        },
+        {
+          "quiz_id": "Q_V_act_06",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We ___ when we feel very sad.",
+          "options": {
+            "A": "smile",
+            "B": "cry",
+            "C": "listen",
+            "D": "look"
+          },
+          "correct_answer": "B",
+          "hint_text": "Khi buon, nuoc mat se chay — day la hanh dong gi?"
+        },
+        {
+          "quiz_id": "Q_V_act_07",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We ___ on a keyboard or touchscreen.",
+          "options": {
+            "A": "write",
+            "B": "draw",
+            "C": "type",
+            "D": "touch"
+          },
+          "correct_answer": "C",
+          "hint_text": "Hanh dong go chu tren ban phim hoac man hinh cam ung."
+        },
+        {
+          "quiz_id": "Q_V_act_08",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "When we are tired, we should ___.",
+          "options": {
+            "A": "eat",
+            "B": "speak",
+            "C": "sleep",
+            "D": "read"
+          },
+          "correct_answer": "C",
+          "hint_text": "Khi met moi, co the ban can nghi ngoi va lam hanh dong nay."
+        },
+        {
+          "quiz_id": "Q_V_act_09",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We can use a pen to ___ a letter on paper.",
+          "options": {
+            "A": "type",
+            "B": "draw",
+            "C": "write",
+            "D": "read"
+          },
+          "correct_answer": "C",
+          "hint_text": "Dung but viet, ban lam hanh dong gi tren giay?"
+        },
+        {
+          "quiz_id": "Q_V_act_10",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "We ___ when we are hungry.",
+          "options": {
+            "A": "sleep",
+            "B": "eat",
+            "C": "smile",
+            "D": "draw"
+          },
+          "correct_answer": "B",
+          "hint_text": "Khi doi bung, ban can thuc hien hanh dong nay."
+        },
+        {
+          "quiz_id": "Q_V_act_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which actions are done with our mouth? (Choose the best group)",
+          "options": {
+            "A": "write, draw, type",
+            "B": "listen, look, sleep",
+            "C": "smile, speak, eat",
+            "D": "touch, cry, read"
+          },
+          "correct_answer": "C",
+          "hint_text": "Nghi den cac hanh dong su dung mieng: noi, an, va bieu lo cam xuc tren mat."
+        },
+        {
+          "quiz_id": "Q_V_act_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which actions are done with our hands? (Choose the best group)",
+          "options": {
+            "A": "smile, speak, eat",
+            "B": "write, draw, type, touch",
+            "C": "listen, sleep, cry, look",
+            "D": "eat, sleep, smile, read"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nghi den cac hanh dong su dung ban tay: ghi chep, ve, go may tinh, va cam nhan."
+        },
+        {
+          "quiz_id": "Q_V_act_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the past simple of 'draw'?",
+          "options": {
+            "A": "drawed",
+            "B": "drew",
+            "C": "drew",
+            "D": "drawn"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Draw' la dong tu bat quy tac — qua khu don cua no khong them '-ed'."
+        },
+        {
+          "quiz_id": "Q_V_act_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the past simple of 'eat'?",
+          "options": {
+            "A": "eated",
+            "B": "aten",
+            "C": "ate",
+            "D": "eats"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Eat' la dong tu bat quy tac — qua khu don cua no la 'ate'."
+        },
+        {
+          "quiz_id": "Q_V_act_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the past simple of 'sleep'?",
+          "options": {
+            "A": "sleeped",
+            "B": "slept",
+            "C": "slop",
+            "D": "sleept"
+          },
+          "correct_answer": "B",
+          "hint_text": "'Sleep' la dong tu bat quy tac — qua khu don cua no la 'slept'."
+        },
+        {
+          "quiz_id": "Q_V_act_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "What is the difference between 'listen' and 'hear'?",
+          "options": {
+            "A": "They mean exactly the same thing",
+            "B": "'Listen' is active (you choose to do it), 'hear' is passive (it happens automatically)",
+            "C": "'Hear' is active, 'listen' is passive",
+            "D": "'Listen' is past tense of 'hear'"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nghi den su khac biet giua chu dong va bi dong trong viec thu am thanh."
+        },
+        {
+          "quiz_id": "Q_V_act_17",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence uses an action verb correctly?",
+          "options": {
+            "A": "She listens the music very loud.",
+            "B": "He cried because he was happy.",
+            "C": "We read a book every evening.",
+            "D": "They speak to the wall."
+          },
+          "correct_answer": "C",
+          "hint_text": "Chon cau su dung dong tu hanh dong mot cach tu nhien va chinh xac."
+        }
+      ]
+    },
+    {
+      "lesson_id": "V_a1_appearance1",
+      "lesson_name": "Appearance 1",
+      "order": 3,
+      "estimated_minutes": 20,
+      "audio_url": "",
+      "metadata": {
+        "skill": "vocabulary",
+        "source_html": "course/volcabulary/Appearance 1 _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Tu vung (Vocabulary)",
+            "body": "### Tu vung chu de: Ngoai hinh (Appearance)\n\nDuoi day la cac tu vung mo ta ngoai hinh cua con nguoi.\n\n| Tu | Ngha |\n|---|---|\n| **afro hairstyle** | kieu toc afro (xoan to, phong) |\n| **blond hair** | toc vang |\n| **dark hair** | toc den/toc sam |\n| **dyed blue hair** | toc nhuom mau xanh |\n| **ginger hair** | toc hung (mau do cam) |\n| **shaved head** | dau cao troc |\n| **old** | gia |\n| **short** | lun/ngan |\n| **tall** | cao |\n| **young** | tre |\n\n---\n\n#### Mo ta ngoai hinh - So sanh\n\n- Sam is 29 and Mary is 31. Mary is **older** than Sam.\n- Mei is 165cm tall and Duniya is 170cm tall. Mei is **shorter** than Duniya.\n- Kazuo has dark hair and Anton has blonde hair. Kazuo's hair is **darker** than Anton's hair.\n- Children are **younger** than their parents.\n- There are more people with blonde or dark hair than with **ginger hair**.\n\n---\n\n#### So sanh hon (Comparatives)\n\n| Tu goc | Dang so sanh |\n|---|---|\n| blonde | blonder |\n| dark | darker |\n| old | older |\n| short | shorter |\n| tall | taller |\n| young | younger |"
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_V_app_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Hair that is orange-red in colour is called ___.",
+          "options": {
+            "A": "blond hair",
+            "B": "dark hair",
+            "C": "ginger hair",
+            "D": "dyed blue hair"
+          },
+          "correct_answer": "C",
+          "hint_text": "Loai toc nay co mau giong nhu cu gung (ginger), mau cam do."
+        },
+        {
+          "quiz_id": "Q_V_app_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Hair that is very light yellow in colour is called ___.",
+          "options": {
+            "A": "dark hair",
+            "B": "blond hair",
+            "C": "afro hairstyle",
+            "D": "shaved head"
+          },
+          "correct_answer": "B",
+          "hint_text": "Loai toc nay co mau vang nhat, pho bien o Bac Au."
+        },
+        {
+          "quiz_id": "Q_V_app_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "When someone has no hair at all on their head, we say they have a ___.",
+          "options": {
+            "A": "afro hairstyle",
+            "B": "dyed blue hair",
+            "C": "shaved head",
+            "D": "ginger hair"
+          },
+          "correct_answer": "C",
+          "hint_text": "Dau duoc cao toan bo, khong con toc."
+        },
+        {
+          "quiz_id": "Q_V_app_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Hair that has been coloured with a blue dye is called ___.",
+          "options": {
+            "A": "blond hair",
+            "B": "dark hair",
+            "C": "dyed blue hair",
+            "D": "ginger hair"
+          },
+          "correct_answer": "C",
+          "hint_text": "Loai toc nay khong phai mau tu nhien — no duoc nhuom mau."
+        },
+        {
+          "quiz_id": "Q_V_app_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "A hairstyle with tight, round curls that forms a large round shape is called ___.",
+          "options": {
+            "A": "shaved head",
+            "B": "afro hairstyle",
+            "C": "ginger hair",
+            "D": "dark hair"
+          },
+          "correct_answer": "B",
+          "hint_text": "Kieu toc nay co xoan tu nhien, phong to thanh hinh tron quanh dau."
+        },
+        {
+          "quiz_id": "Q_V_app_06",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Sam is 29 years old and Mary is 31 years old. Mary is ___ than Sam.",
+          "options": {
+            "A": "younger",
+            "B": "shorter",
+            "C": "older",
+            "D": "taller"
+          },
+          "correct_answer": "C",
+          "hint_text": "Mary co nhieu tuoi hon Sam, nen dung dang so sanh cua 'old'."
+        },
+        {
+          "quiz_id": "Q_V_app_07",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Mei is 165cm and Duniya is 170cm. Mei is ___ than Duniya.",
+          "options": {
+            "A": "taller",
+            "B": "shorter",
+            "C": "older",
+            "D": "younger"
+          },
+          "correct_answer": "B",
+          "hint_text": "Mei thap hon Duniya 5cm, nen dung dang so sanh cua 'short'."
+        },
+        {
+          "quiz_id": "Q_V_app_08",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Children are ___ than their parents.",
+          "options": {
+            "A": "older",
+            "B": "taller",
+            "C": "younger",
+            "D": "shorter"
+          },
+          "correct_answer": "C",
+          "hint_text": "Con cai luon it tuoi hon cha me cua ho."
+        },
+        {
+          "quiz_id": "Q_V_app_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which word describes the opposite of 'tall'?",
+          "options": {
+            "A": "young",
+            "B": "old",
+            "C": "short",
+            "D": "dark"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tu trai nghia voi 'cao' la gi?"
+        },
+        {
+          "quiz_id": "Q_V_app_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which word describes the opposite of 'young'?",
+          "options": {
+            "A": "tall",
+            "B": "old",
+            "C": "short",
+            "D": "dark"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tu trai nghia voi 'tre' la gi?"
+        },
+        {
+          "quiz_id": "Q_V_app_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the comparative form of 'tall'?",
+          "options": {
+            "A": "more tall",
+            "B": "taller",
+            "C": "tallest",
+            "D": "talles"
+          },
+          "correct_answer": "B",
+          "hint_text": "Cac tinh tu mot am tiet ngan thuong them '-er' de tao dang so sanh."
+        },
+        {
+          "quiz_id": "Q_V_app_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is the comparative form of 'young'?",
+          "options": {
+            "A": "more young",
+            "B": "youngler",
+            "C": "younger",
+            "D": "youngers"
+          },
+          "correct_answer": "C",
+          "hint_text": "Them '-er' vao sau tinh tu de tao dang so sanh."
+        },
+        {
+          "quiz_id": "Q_V_app_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Kazuo has dark hair and Anton has blonde hair. Kazuo's hair is ___ than Anton's.",
+          "options": {
+            "A": "lighter",
+            "B": "darker",
+            "C": "blonder",
+            "D": "shorter"
+          },
+          "correct_answer": "B",
+          "hint_text": "Toc den so voi toc vang — loai nao toi hon?"
+        },
+        {
+          "quiz_id": "Q_V_app_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which of these describes a natural hair colour?",
+          "options": {
+            "A": "dyed blue hair",
+            "B": "ginger hair",
+            "C": "painted hair",
+            "D": "coloured hair"
+          },
+          "correct_answer": "B",
+          "hint_text": "Trong cac lua chon, chi mot la mau toc tu nhien, khong qua nhuom mau."
+        },
+        {
+          "quiz_id": "Q_V_app_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence correctly uses appearance vocabulary?",
+          "options": {
+            "A": "She has a blond short.",
+            "B": "He is very tall with dark hair.",
+            "C": "They have young the hair.",
+            "D": "I am ginger a person."
+          },
+          "correct_answer": "B",
+          "hint_text": "Chon cau co cau truc ngu phap chinh xac khi mo ta ngoai hinh."
+        },
+        {
+          "quiz_id": "Q_V_app_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "What does 'dyed' mean in 'dyed blue hair'?",
+          "options": {
+            "A": "naturally coloured",
+            "B": "cut short",
+            "C": "artificially coloured with dye",
+            "D": "very clean and shiny"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Dyed' co nghia la duoc xu ly hoac thay doi mau bang chat nhuom."
+        }
+      ]
+    },
+    {
+      "lesson_id": "V_a1_bedrooms",
+      "lesson_name": "Bedrooms",
+      "order": 4,
+      "estimated_minutes": 20,
+      "audio_url": "",
+      "metadata": {
+        "skill": "vocabulary",
+        "source_html": "course/volcabulary/Bedrooms _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Tu vung (Vocabulary)",
+            "body": "### Tu vung chu de: Phong ngu (Bedrooms)\n\nDuoi day la cac tu vung mo ta do vat va noi that trong phong ngu.\n\n| Tu | Ngha |\n|---|---|\n| **alarm clock** | dong ho bao thuc |\n| **bedside table** | ban dau giuong |\n| **blanket** | chan (chien) am |\n| **carpet** | tham trai san |\n| **chest of drawers** | tu co nhieu ngan keo |\n| **double bed** | giuong doi (2 nguoi) |\n| **duvet** | chan long vu (chan bong) |\n| **lamp** | den ban/den doc sach |\n| **pillow** | goi |\n| **sheet** | ga trai giuong |\n| **single bed** | giuong don (1 nguoi) |\n| **wardrobe** | tu quan ao |\n\n---\n\n#### Giai thich\n\n- **Alarm clock**: dung dong ho nay de dat gio bao thuc vao buoi sang.\n- **Bedside table**: ban nho dat cạnh giuong — ban co the de den, sach, va nuoc tren do.\n- **Blanket**: mieng vai day, am — dung khi troi lanh.\n- **Carpet**: tham mem trai tren san nha.\n- **Chest of drawers**: tu co nhieu ngan keo — dung de chua quan ao.\n- **Double bed**: giuong du cho 2 nguoi ngu.\n- **Duvet**: chan bong hoac chan long vu — rat am, dung vao mua dong.\n- **Lamp**: nguon sang trong phong, thuong dat tren ban dau giuong.\n- **Pillow**: goi mem dat duoi dau khi ngu.\n- **Sheet**: lai vai mong trang trai len giuong.\n- **Single bed**: giuong du cho 1 nguoi ngu.\n- **Wardrobe**: tu lon dung de treo quan ao.\n\n---\n\n#### Luu y ve so nhieu bat quy tac\n\n- alarm clock -> **alarm clocks**\n- bedside table -> **bedside tables**\n- chest of drawers -> **chests of drawers**\n- single bed -> **single beds**"
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_V_bed_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "One person sleeps in this.",
+          "options": {
+            "A": "alarm clock",
+            "B": "double bed",
+            "C": "single bed",
+            "D": "wardrobe"
+          },
+          "correct_answer": "C",
+          "hint_text": "Day la loai giuong danh cho mot nguoi ngu."
+        },
+        {
+          "quiz_id": "Q_V_bed_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Two people can sleep in this.",
+          "options": {
+            "A": "lamp",
+            "B": "double bed",
+            "C": "single bed",
+            "D": "pillow"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day la loai giuong co the chua hai nguoi ngu cung luc."
+        },
+        {
+          "quiz_id": "Q_V_bed_03",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This thin cloth covers a bed.",
+          "options": {
+            "A": "carpet",
+            "B": "duvet",
+            "C": "sheet",
+            "D": "blanket"
+          },
+          "correct_answer": "C",
+          "hint_text": "Day la lop vai mong nhat, dat truc tiep len de giuong."
+        },
+        {
+          "quiz_id": "Q_V_bed_04",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This is on the floor. It is soft.",
+          "options": {
+            "A": "blanket",
+            "B": "carpet",
+            "C": "sheet",
+            "D": "pillow"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day la vat mem trai tren san nha, khong phai do ngu."
+        },
+        {
+          "quiz_id": "Q_V_bed_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This is a soft bed cover. It has feathers inside.",
+          "options": {
+            "A": "blanket",
+            "B": "double bed",
+            "C": "duvet",
+            "D": "sheet"
+          },
+          "correct_answer": "C",
+          "hint_text": "Loai chan nay co long vu ben trong, rat am ap."
+        },
+        {
+          "quiz_id": "Q_V_bed_06",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This is a warm cloth. We use it when it is cold, especially for the bed.",
+          "options": {
+            "A": "blanket",
+            "B": "carpet",
+            "C": "duvet",
+            "D": "sheet"
+          },
+          "correct_answer": "A",
+          "hint_text": "Day la loai chan vai thuong, khong co long vu, dung de giu am khi lanh."
+        },
+        {
+          "quiz_id": "Q_V_bed_07",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This is a big cupboard for your clothes.",
+          "options": {
+            "A": "lamp",
+            "B": "single bed",
+            "C": "wardrobe",
+            "D": "bedside table"
+          },
+          "correct_answer": "C",
+          "hint_text": "Day la do noi that lon trong phong ngu, dung de treo quan ao."
+        },
+        {
+          "quiz_id": "Q_V_bed_08",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "People put their head on this in bed.",
+          "options": {
+            "A": "duvet",
+            "B": "pillow",
+            "C": "wardrobe",
+            "D": "blanket"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day la vat mem dat duoi dau khi nam ngu."
+        },
+        {
+          "quiz_id": "Q_V_bed_09",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You turn this on to see at night.",
+          "options": {
+            "A": "carpet",
+            "B": "lamp",
+            "C": "sheet",
+            "D": "chest of drawers"
+          },
+          "correct_answer": "B",
+          "hint_text": "Day la vat phat sang, thuong dat tren ban dau giuong."
+        },
+        {
+          "quiz_id": "Q_V_bed_10",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "This makes a noise to wake you up.",
+          "options": {
+            "A": "alarm clock",
+            "B": "blanket",
+            "C": "pillow",
+            "D": "wardrobe"
+          },
+          "correct_answer": "A",
+          "hint_text": "Day la do vat dua ra tieng dong vao gio da dat de danh thuc ban day."
+        },
+        {
+          "quiz_id": "Q_V_bed_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A pillow is usually soft. (True or False?)",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Sometimes true, sometimes false",
+            "D": "It depends on the season"
+          },
+          "correct_answer": "A",
+          "hint_text": "Goi thuong lam bang vat lieu mem de thoai mai khi ngu."
+        },
+        {
+          "quiz_id": "Q_V_bed_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "We often use a blanket in hot weather. (True or False?)",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Only in summer",
+            "D": "Only during the day"
+          },
+          "correct_answer": "B",
+          "hint_text": "Chan duoc dung khi troi lanh, khong phai khi troi nong."
+        },
+        {
+          "quiz_id": "Q_V_bed_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The plural (so nhieu) of 'alarm clock' is ___.",
+          "options": {
+            "A": "alarms clock",
+            "B": "alarm clocks",
+            "C": "alarms clocks",
+            "D": "alarm clock"
+          },
+          "correct_answer": "B",
+          "hint_text": "Them '-s' vao phan cuoi cua cum danh tu: tu chinh la 'clock'."
+        },
+        {
+          "quiz_id": "Q_V_bed_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The plural (so nhieu) of 'chest of drawers' is ___.",
+          "options": {
+            "A": "chests of drawer",
+            "B": "chest of drawers",
+            "C": "chests of drawers",
+            "D": "chests of drawer"
+          },
+          "correct_answer": "C",
+          "hint_text": "Trong cum tu nay, ca 'chest' va 'drawers' deu them '-s' khi chuyen sang so nhieu."
+        },
+        {
+          "quiz_id": "Q_V_bed_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which items go ON a bed?",
+          "options": {
+            "A": "lamp, wardrobe, carpet",
+            "B": "blanket, duvet, pillow, sheet",
+            "C": "alarm clock, chest of drawers, bedside table",
+            "D": "carpet, lamp, single bed"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nghi den cac vat duoc dat truc tiep tren mat giuong khi ban ngu."
+        },
+        {
+          "quiz_id": "Q_V_bed_16",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The alarm clock tells the time and wakes you up. (True or False?)",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "It only tells the time",
+            "D": "It only wakes you up"
+          },
+          "correct_answer": "A",
+          "hint_text": "Dong ho bao thuc co hai chuc nang chinh."
+        },
+        {
+          "quiz_id": "Q_V_bed_17",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "You hang your shirts in the chest of drawers. (True or False?)",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Only formal shirts",
+            "D": "Only winter shirts"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tu co ngan keo dung de gap do, khong phai treo do. Cai nao dung de TREO quan ao?"
+        },
+        {
+          "quiz_id": "Q_V_bed_18",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "You usually turn on your lamp in the middle of the day. (True or False?)",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Only in winter",
+            "D": "Only when reading"
+          },
+          "correct_answer": "B",
+          "hint_text": "Den ban thuong duoc bat vao ban dem hoac khi can them anh sang, khong phai ban ngay."
+        }
+      ]
+    }
+  ]
+}

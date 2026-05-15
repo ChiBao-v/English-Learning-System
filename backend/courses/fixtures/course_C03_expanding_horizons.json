@@ -1,0 +1,2240 @@
+{
+  "course_id": "C03",
+  "course_name": "Expanding Horizons (Pre-Intermediate A2)",
+  "course_description": "Du lịch & nhiếp ảnh, quá khứ đơn, công nghệ & so sánh, âm nhạc, quá khứ tiếp diễn, sức khỏe và đọc hiểu tổng hợp. Dữ liệu phẳng chuẩn cho pipeline phân tích hành vi học tập.",
+  "course_level": "intermediate",
+  "content_mode": "text_only",
+  "expected_cohort_behavior": {
+    "typical_response_time_sec_per_item": [
+      8,
+      28
+    ],
+    "typical_accuracy_band": [
+      0.65,
+      0.88
+    ],
+    "hint_usage_rate": [
+      0.05,
+      0.22
+    ]
+  },
+  "lessons": [
+    {
+      "lesson_id": "L03_01",
+      "lesson_name": "Travel & Photography (Vocabulary)",
+      "order": 1,
+      "estimated_minutes": 38,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "travel_photo",
+        "time_est_minutes": 25,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — At the airport",
+            "body": "### At the airport\n\n| Từ | Nghĩa |\n|----|--------|\n| **Flight** | chuyến bay |\n| **Ticket / boarding pass** | vé / thẻ lên máy bay |\n| **Luggage** | hành lý |\n| **Passport** | hộ chiếu |\n\n**Động từ:** *check in*, *take off*, *land*.\n\n**Ngữ cảnh:** *The flight takes off at 9:00 AM.*"
+          },
+          {
+            "title": "Trang 2 — Accommodation & transport",
+            "body": "### Accommodation & transport\n\n- *Hotel*, *book a room*, *reception*, *tourist*  \n- *Rent a car*, *explore*, *arrive*\n\n**Ngữ cảnh:** *We book a room at a hotel near the center.*"
+          },
+          {
+            "title": "Trang 3 — Photography",
+            "body": "### Photography (hobbies)\n\n- *Camera*, *lens*, *focus*, *zoom*, *landscape*  \n- *Take photos / pictures*, *capture*\n\n**Ngữ cảnh:** *I use a mirrorless camera with a 50mm lens to take photos.*\n\n### Gợi ý\n\nViết 4–5 câu về một chuyến đi tưởng tượng (sân bay → khách sạn → chụp ảnh)."
+          }
+        ],
+        "reading_passage": "Last year I flew to Da Nang. I checked in online and showed my passport at the gate. The flight took off on time. I took photos of the landscape from the window.",
+        "reading_word_count": 33,
+        "vocabulary": [
+          {
+            "word": "passport / boarding pass / luggage",
+            "vi": "hộ chiếu / thẻ lên máy / hành lý"
+          },
+          {
+            "word": "take off / land / check in",
+            "vi": "cất cánh / hạ cánh / làm thủ tục"
+          },
+          {
+            "word": "landscape / lens / capture",
+            "vi": "phong cảnh / ống kính / bắt khoảnh khắc"
+          }
+        ],
+        "examples": [
+          {
+            "english": "The plane lands at 3 PM.",
+            "vietnamese": "Máy bay hạ cánh lúc 3 giờ chiều."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_01_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You need a _____ to travel to another country.",
+          "options": {
+            "A": "Ticket",
+            "B": "Passport",
+            "C": "Luggage",
+            "D": "Camera"
+          },
+          "correct_answer": "B",
+          "hint_text": "Passport — giấy tờ xuất nhập cảnh.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The plane leaves the ground. It _____.",
+          "options": {
+            "A": "Lands",
+            "B": "Takes off",
+            "C": "Checks in",
+            "D": "Books"
+          },
+          "correct_answer": "B",
+          "hint_text": "Take off = cất cánh.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I _____ a room at the hotel for two nights.",
+          "options": {
+            "A": "book",
+            "B": "land",
+            "C": "take off",
+            "D": "capture"
+          },
+          "correct_answer": "A",
+          "hint_text": "Book a room.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_04",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép đúng: 1. Take — 2. Rent",
+          "options": {
+            "A": "1→photos, 2→a car",
+            "B": "1→a car, 2→photos",
+            "C": "1→luggage, 2→passport",
+            "D": "1→off, 2→in"
+          },
+          "correct_answer": "A",
+          "hint_text": "Take photos; rent a car.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_05",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “The flight lands on 9:00 AM.”",
+          "options": {
+            "A": "lands",
+            "B": "on",
+            "C": "9:00",
+            "D": "AM"
+          },
+          "correct_answer": "B",
+          "hint_text": "At + giờ → at 9:00 AM.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The glass part of a camera is the _____.",
+          "options": {
+            "A": "Body",
+            "B": "Lens",
+            "C": "Focus",
+            "D": "Zoom"
+          },
+          "correct_answer": "B",
+          "hint_text": "Lens = ống kính.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Luggage” is a countable noun — we say “luggages”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Luggage thường không đếm như vậy (uncountable).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Máy bay hạ cánh lúc 3 giờ chiều.”",
+          "options": {
+            "A": "The plane lands at 3 PM.",
+            "B": "The plane lands on 3 PM.",
+            "C": "The plane land at 3 PM.",
+            "D": "The plane is land at 3 PM."
+          },
+          "correct_answer": "A",
+          "hint_text": "Lands at 3 PM.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ tự hợp lý:",
+          "options": {
+            "A": "Check in → Take off → Land",
+            "B": "Take off → Land → Check in",
+            "C": "Land → Check in → Take off",
+            "D": "Take off → Check in → Land"
+          },
+          "correct_answer": "A",
+          "hint_text": "Làm thủ tục → cất cánh → hạ cánh.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_01_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "He likes to capture beautiful _____ (landscapes).",
+          "options": {
+            "A": "landscapes",
+            "B": "luggage",
+            "C": "passports",
+            "D": "receptions"
+          },
+          "correct_answer": "A",
+          "hint_text": "Beautiful landscapes.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_02",
+      "lesson_name": "Past Simple - Regular & Irregular (Grammar)",
+      "order": 2,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "past_simple",
+        "time_est_minutes": 35,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Was / Were",
+            "body": "### *To be* in the past — **was / were**\n\n- *I / he / she / it + was* — *I was tired yesterday.* (*wasn't*)  \n- *You / we / they + were* — *They were at the park.* (*weren't*)\n\n**Dấu hiệu:** *yesterday*, *last night/week*, *… ago* (two days ago)."
+          },
+          {
+            "title": "Trang 2 — Regular verbs",
+            "body": "### Regular verbs (-ed)\n\n*Play → played*, *work → worked*, *arrive → arrived*\n\n**Khẳng định:** *S + V-ed* — *We walked to the hotel.*"
+          },
+          {
+            "title": "Trang 3 — Irregular & did/didn't",
+            "body": "### Irregular verbs & questions/negatives\n\n*Go → went*, *have → had*, *buy → bought*, *take → took*\n\n**Phủ định:** *S + didn't + V (nguyên mẫu)* — không chia V sau *didn't*.\n\n**Nghi vấn:** *Did + S + V?*"
+          }
+        ],
+        "reading_passage": "I was busy yesterday. We were at home last night. They went to the park and played football. She didn't buy anything. Did you work last weekend?",
+        "reading_word_count": 27,
+        "vocabulary": [
+          {
+            "word": "was / were / didn't / did",
+            "vi": "quá khứ của be; trợ động từ quá khứ"
+          }
+        ],
+        "examples": [
+          {
+            "english": "He wasn't at the hotel.",
+            "vietnamese": "Anh ấy không ở khách sạn."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_02_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I _____ at home last night.",
+          "options": {
+            "A": "was",
+            "B": "were",
+            "C": "am",
+            "D": "be"
+          },
+          "correct_answer": "A",
+          "hint_text": "I was.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "They _____ to Paris last summer.",
+          "options": {
+            "A": "go",
+            "B": "goed",
+            "C": "went",
+            "D": "going"
+          },
+          "correct_answer": "C",
+          "hint_text": "Go → went.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "She (buy) _____ a new lens yesterday.",
+          "options": {
+            "A": "buyed",
+            "B": "bought",
+            "C": "buys",
+            "D": "buying"
+          },
+          "correct_answer": "B",
+          "hint_text": "Buy → bought.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “I didn't went to school.”",
+          "options": {
+            "A": "didn't",
+            "B": "went",
+            "C": "to",
+            "D": "school"
+          },
+          "correct_answer": "B",
+          "hint_text": "didn't go.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "_____ you like the movie?",
+          "options": {
+            "A": "Do",
+            "B": "Did",
+            "C": "Was",
+            "D": "Were"
+          },
+          "correct_answer": "B",
+          "hint_text": "Past → Did.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "We (work) _____ very hard last week.",
+          "options": {
+            "A": "work",
+            "B": "worked",
+            "C": "working",
+            "D": "works"
+          },
+          "correct_answer": "B",
+          "hint_text": "Regular -ed.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "I didn't have time.",
+            "B": "I didn't had time.",
+            "C": "I not didn't have time.",
+            "D": "Didn't I have time."
+          },
+          "correct_answer": "A",
+          "hint_text": "didn't + have.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "The past of “take” is “taked”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Take → took.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Anh ấy không ở khách sạn.” (past)",
+          "options": {
+            "A": "He wasn't at the hotel.",
+            "B": "He isn't at the hotel.",
+            "C": "He not was at the hotel.",
+            "D": "He didn't be at the hotel."
+          },
+          "correct_answer": "A",
+          "hint_text": "wasn't at the hotel.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_02_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép quá khứ: 1. Have — 2. See — 3. Buy",
+          "options": {
+            "A": "1→had, 2→saw, 3→bought",
+            "B": "1→saw, 2→bought, 3→had",
+            "C": "1→bought, 2→had, 3→saw",
+            "D": "1→haved, 2→seed, 3→buyed"
+          },
+          "correct_answer": "A",
+          "hint_text": "Have→had, See→saw, Buy→bought.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 14,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_03",
+      "lesson_name": "A Memorable Trip (Reading)",
+      "order": 3,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "reading",
+        "topic": "past_events",
+        "time_est_minutes": 30,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Pre-reading",
+            "body": "### Pre-reading\n\n**Từ:** *temple*, *traditional*, *delicious*, *memory*.\n\n**Ngữ pháp:** Động từ quá khứ — *went, flew, arrived, booked, took, saw, ate, was, didn't …*"
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading text\n\nĐọc kỹ đoạn về **chuyến đi Kyoto** — gạch **thời gian** và **hành động**."
+          },
+          {
+            "title": "Trang 3 — Post-reading",
+            "body": "### Post-reading — scanning\n\n- Tìm phủ định: *didn't rest*, *didn't buy many souvenirs* — tương phản nghĩa.  \n- *Flew* = quá khứ của *fly*."
+          }
+        ],
+        "reading_passage": "Last month, Alex went to Kyoto, Japan. It was a beautiful trip. He flew from New York and arrived in the morning. He booked a small traditional hotel. On the first day, he didn't rest. He took his mirrorless camera and walked around the city. He saw many old temples and took hundreds of photos. The weather was perfect. In the evening, he ate delicious sushi. He didn't buy many souvenirs, but he had great memories.",
+        "reading_word_count": 76,
+        "vocabulary": [
+          {
+            "word": "temple / traditional / souvenir",
+            "vi": "đền chùa / truyền thống / quà lưu niệm"
+          }
+        ],
+        "examples": []
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_03_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Where did Alex go?",
+          "options": {
+            "A": "Tokyo",
+            "B": "Kyoto",
+            "C": "New York",
+            "D": "Osaka"
+          },
+          "correct_answer": "B",
+          "hint_text": "Kyoto, Japan.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "He arrived in the evening.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Arrived in the morning.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "He took a mirrorless _____ to take photos.",
+          "options": {
+            "A": "camera",
+            "B": "hotel",
+            "C": "temple",
+            "D": "sushi"
+          },
+          "correct_answer": "A",
+          "hint_text": "Mirrorless camera.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What did he do on the first day?",
+          "options": {
+            "A": "He rested all day",
+            "B": "He walked and took photos",
+            "C": "He flew back",
+            "D": "He slept"
+          },
+          "correct_answer": "B",
+          "hint_text": "Didn't rest — walked and took photos.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "What did he eat in the evening? — _____",
+          "options": {
+            "A": "Delicious sushi",
+            "B": "Pizza",
+            "C": "Breakfast",
+            "D": "Coffee only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Ate delicious sushi.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Did he buy many souvenirs?",
+          "options": {
+            "A": "Yes, he did",
+            "B": "No, he didn't",
+            "C": "The text doesn't say",
+            "D": "He bought hundreds"
+          },
+          "correct_answer": "B",
+          "hint_text": "He didn't buy many souvenirs.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The base form (infinitive) of “flew” is:",
+          "options": {
+            "A": "fly",
+            "B": "flow",
+            "C": "flee",
+            "D": "flight"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fly — flew.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "The weather was bad.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "The weather was perfect.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "He saw many old _____.",
+          "options": {
+            "A": "temples",
+            "B": "cameras",
+            "C": "flights",
+            "D": "memories"
+          },
+          "correct_answer": "A",
+          "hint_text": "Old temples.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_03_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text is about Alex's _____ to Japan.",
+          "options": {
+            "A": "trip",
+            "B": "camera only",
+            "C": "breakfast",
+            "D": "ticket"
+          },
+          "correct_answer": "A",
+          "hint_text": "A memorable trip.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_04",
+      "lesson_name": "Tech & Smart Devices (Vocabulary)",
+      "order": 4,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "technology",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Hardware & wearables",
+            "body": "### Hardware & wearables\n\n*Laptop*, *smartphone*, *screen*, *battery*  \n*Smartwatch*, *fitness band*, *sensor*\n\n**Động từ:** *charge*, *connect*"
+          },
+          {
+            "title": "Trang 2 — Software & internet",
+            "body": "### Software & internet\n\n*Application / app*, *browser*, *cloud*, *network*\n\n**Động từ:** *download*, *install*, *update*, *search*"
+          },
+          {
+            "title": "Trang 3 — Data & features",
+            "body": "### Data & features\n\n*Feature*, *data*, *speed*, *storage*\n\n**Ngữ cảnh:** *I use my smartwatch to track my health data.*"
+          }
+        ],
+        "reading_passage": "My smartphone has a fast processor. I download apps from the store. I use a browser to search for information. The battery lasts all day. My smartwatch has a heart-rate sensor.",
+        "reading_word_count": 31,
+        "vocabulary": [
+          {
+            "word": "smartwatch / sensor / browser",
+            "vi": "đồng hồ thông minh / cảm biến / trình duyệt"
+          }
+        ],
+        "examples": [
+          {
+            "english": "This device has many features.",
+            "vietnamese": "Thiết bị này có nhiều tính năng."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_04_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You wear this on your wrist:",
+          "options": {
+            "A": "Laptop",
+            "B": "Smartwatch",
+            "C": "Screen",
+            "D": "Browser"
+          },
+          "correct_answer": "B",
+          "hint_text": "Smartwatch.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "When your battery is low, you need to _____ it.",
+          "options": {
+            "A": "Charge",
+            "B": "Install",
+            "C": "Search",
+            "D": "Delete"
+          },
+          "correct_answer": "A",
+          "hint_text": "Charge the battery.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I _____ a new app from the store.",
+          "options": {
+            "A": "download",
+            "B": "charge",
+            "C": "sensor",
+            "D": "cloud"
+          },
+          "correct_answer": "A",
+          "hint_text": "Download (or install) an app.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_04",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Fitness — 2. Cloud",
+          "options": {
+            "A": "1→band, 2→storage",
+            "B": "1→storage, 2→band",
+            "C": "1→browser, 2→battery",
+            "D": "1→lens, 2→zoom"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fitness band; cloud storage.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_05",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “I search the informations on the browser.”",
+          "options": {
+            "A": "search",
+            "B": "informations",
+            "C": "on",
+            "D": "browser"
+          },
+          "correct_answer": "B",
+          "hint_text": "Information (uncountable).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "To open a website, you need a _____.",
+          "options": {
+            "A": "Sensor",
+            "B": "Browser",
+            "C": "Battery",
+            "D": "Lens"
+          },
+          "correct_answer": "B",
+          "hint_text": "Browser.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You install hardware (like a screen) from an app store.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "You install software/apps.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Thiết bị này có nhiều tính năng.”",
+          "options": {
+            "A": "This device has many features.",
+            "B": "This device has many storages.",
+            "C": "This device have many feature.",
+            "D": "This device many features has."
+          },
+          "correct_answer": "A",
+          "hint_text": "Has many features.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The opposite of “download” is often _____.",
+          "options": {
+            "A": "upload",
+            "B": "install",
+            "C": "charge",
+            "D": "search"
+          },
+          "correct_answer": "A",
+          "hint_text": "Upload vs download.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_04_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The smartwatch has a _____ to check your heart rate.",
+          "options": {
+            "A": "sensor",
+            "B": "lyrics",
+            "C": "temple",
+            "D": "genre"
+          },
+          "correct_answer": "A",
+          "hint_text": "Heart-rate sensor.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_05",
+      "lesson_name": "Comparatives & Superlatives (Grammar)",
+      "order": 5,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "comparisons",
+        "time_est_minutes": 35,
+        "difficulty": 0.6
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Comparatives",
+            "body": "### Comparatives (so sánh hơn)\n\nSo sánh **hai** đối tượng — thường có **than**.\n\n- Tính từ ngắn: *-er* — *faster*, *cheaper*  \n- Tính từ dài: *more + adj* — *more beautiful*, *more expensive*"
+          },
+          {
+            "title": "Trang 2 — Superlatives",
+            "body": "### Superlatives (so sánh nhất)\n\nSo sánh **từ ba** trở lên — thường có **the**.\n\n- Ngắn: *the fastest*, *the cheapest*  \n- Dài: *the most beautiful*"
+          },
+          {
+            "title": "Trang 3 — Exceptions & irregulars",
+            "body": "### Đặc biệt & bất quy tắc\n\n- *y → ier / iest*: *easy → easier → the easiest*  \n- Gấp đôi phụ âm: *big → bigger → the biggest*  \n- Bất quy tắc: *good → better → the best*; *bad → worse → the worst*; *far → further/farther*"
+          }
+        ],
+        "reading_passage": "This phone is cheaper than that one. It is the most useful app on my phone. The screen is bigger than before.",
+        "reading_word_count": 22,
+        "vocabulary": [
+          {
+            "word": "than / the most / -er / -est",
+            "vi": "so sánh hơn / nhất / tính từ ngắn"
+          }
+        ],
+        "examples": [
+          {
+            "english": "This is the best camera.",
+            "vietnamese": "Đây là chiếc máy ảnh tốt nhất."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_05_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A laptop is _____ than a smartphone (usually).",
+          "options": {
+            "A": "heavy",
+            "B": "heavier",
+            "C": "heaviest",
+            "D": "more heavier"
+          },
+          "correct_answer": "B",
+          "hint_text": "Heavier than.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "This is _____ app on my phone.",
+          "options": {
+            "A": "the usefulest",
+            "B": "the most useful",
+            "C": "more useful",
+            "D": "usefullest"
+          },
+          "correct_answer": "B",
+          "hint_text": "The most useful.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "My internet is (fast) _____ than yours.",
+          "options": {
+            "A": "faster",
+            "B": "more fast",
+            "C": "fastest",
+            "D": "more faster"
+          },
+          "correct_answer": "A",
+          "hint_text": "Faster than.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “He is the better student in the class.”",
+          "options": {
+            "A": "He",
+            "B": "better",
+            "C": "student",
+            "D": "class"
+          },
+          "correct_answer": "B",
+          "hint_text": "The best student (superlative trong nhóm).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Today the weather is _____ than yesterday.",
+          "options": {
+            "A": "badder",
+            "B": "worse",
+            "C": "worst",
+            "D": "more bad"
+          },
+          "correct_answer": "B",
+          "hint_text": "Worse than (bad → worse).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "A smartwatch is (expensive) _____ than a fitness band.",
+          "options": {
+            "A": "more expensive",
+            "B": "expensiver",
+            "C": "most expensive",
+            "D": "expensiver than"
+          },
+          "correct_answer": "A",
+          "hint_text": "More expensive than.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "This is the biggest screen.",
+            "B": "This is the biggester screen.",
+            "C": "This the is biggest screen.",
+            "D": "This is biggest the screen."
+          },
+          "correct_answer": "A",
+          "hint_text": "The biggest screen.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "The comparative of “easy” is “easyer”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Easier.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Đây là chiếc máy ảnh tốt nhất.”",
+          "options": {
+            "A": "This is the best camera.",
+            "B": "This is the better camera.",
+            "C": "This is best the camera.",
+            "D": "This is the goodest camera."
+          },
+          "correct_answer": "A",
+          "hint_text": "The best camera.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_05_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép dạng so sánh hơn: 1. Big — 2. Good — 3. Expensive",
+          "options": {
+            "A": "1→bigger, 2→better, 3→more expensive",
+            "B": "1→more big, 2→gooder, 3→expensiver",
+            "C": "1→bigger, 2→more good, 3→expensiver",
+            "D": "1→biggest, 2→better, 3→more expensive"
+          },
+          "correct_answer": "A",
+          "hint_text": "Bigger, better, more expensive.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 14,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_06",
+      "lesson_name": "Choosing the Right Device (Reading)",
+      "order": 6,
+      "estimated_minutes": 42,
+      "metadata": {
+        "skill": "reading",
+        "topic": "tech_comparisons",
+        "time_est_minutes": 30,
+        "difficulty": 0.65
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Pre-reading",
+            "body": "### Pre-reading\n\n**Từ:** *compare*, *accurate*, *budget*, *step*.\n\n**Mục tiêu:** So sánh **smartwatch** và **fitness band** — tìm *cheaper*, *smaller*, *more features*…"
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading text\n\nĐọc ý **ưu / nhược** của từng thiết bị và **kết luận** (*If you only… / If you want…*)."
+          },
+          {
+            "title": "Trang 3 — Post-reading",
+            "body": "### Post-reading — argument\n\n- Band: *smaller*, *cheaper*, *battery* tốt.  \n- Smartwatch: *bigger screen*, *more features*, *more accurate* (premium).  \n- Kết luận theo nhu cầu: đếm bước chân vs “mini computer”."
+          }
+        ],
+        "reading_passage": "Many people want to track their health. Should you buy a smartwatch or a fitness band? A fitness band is smaller and cheaper than a smartwatch. It is the best choice for a tight budget. It has a great battery. However, a smartwatch has a bigger screen and more features. It can run apps and connect to Wi-Fi. The sensors on a premium smartwatch are often more accurate than a cheap band. If you only want to count your steps, the band is better. If you want a mini computer on your wrist, the smartwatch is the winner.",
+        "reading_word_count": 98,
+        "vocabulary": [
+          {
+            "word": "fitness band / premium / accurate",
+            "vi": "vòng tay thể thao / cao cấp / chính xác"
+          }
+        ],
+        "examples": []
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_06_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Which device is cheaper?",
+          "options": {
+            "A": "Fitness band",
+            "B": "Smartwatch",
+            "C": "Laptop",
+            "D": "Camera"
+          },
+          "correct_answer": "A",
+          "hint_text": "Smaller and cheaper than a smartwatch.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "A fitness band has a bigger screen than a smartwatch.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Smartwatch has a bigger screen.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The fitness band is the best choice for a tight _____.",
+          "options": {
+            "A": "budget",
+            "B": "screen",
+            "C": "sensor",
+            "D": "winner"
+          },
+          "correct_answer": "A",
+          "hint_text": "Tight budget.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which usually has more accurate sensors (according to the text)?",
+          "options": {
+            "A": "The cheap band",
+            "B": "The premium smartwatch",
+            "C": "A laptop",
+            "D": "A browser"
+          },
+          "correct_answer": "B",
+          "hint_text": "Premium smartwatch sensors more accurate than a cheap band.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "A smartwatch can connect to _____.",
+          "options": {
+            "A": "Wi-Fi",
+            "B": "only paper",
+            "C": "luggage",
+            "D": "passport"
+          },
+          "correct_answer": "A",
+          "hint_text": "Connect to Wi-Fi.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "If you only want to count steps, which is better?",
+          "options": {
+            "A": "Fitness band",
+            "B": "Smartwatch",
+            "C": "Piano",
+            "D": "Temple"
+          },
+          "correct_answer": "A",
+          "hint_text": "The band is better for counting steps.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Find a superlative in the text: “It is the _____ choice…”",
+          "options": {
+            "A": "best",
+            "B": "better",
+            "C": "good",
+            "D": "goodest"
+          },
+          "correct_answer": "A",
+          "hint_text": "The best choice.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "A smartwatch is described as a kind of mini computer on your wrist.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "“Mini computer on your wrist”.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "A fitness band is _____ than a smartwatch.",
+          "options": {
+            "A": "smaller",
+            "B": "bigger",
+            "C": "slower",
+            "D": "worse"
+          },
+          "correct_answer": "A",
+          "hint_text": "Smaller and cheaper.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_06_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text mainly _____ two types of wearables.",
+          "options": {
+            "A": "compares",
+            "B": "composes",
+            "C": "lands",
+            "D": "coughs"
+          },
+          "correct_answer": "A",
+          "hint_text": "Compares smartwatch and fitness band.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_07",
+      "lesson_name": "Music & Instruments (Vocabulary)",
+      "order": 7,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "music",
+        "time_est_minutes": 25,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Instruments & gear",
+            "body": "### Instruments & gear\n\n*Acoustic guitar*, *piano*, *keyboard*, *drums*  \n*Amplifier / amp*, *microphone*\n\n**Động từ:** *tune*, *plug in*"
+          },
+          {
+            "title": "Trang 2 — Elements",
+            "body": "### Musical elements\n\n*Melody*, *rhythm*, *chord*, *lyrics*, *genre*\n\n**Ngữ cảnh:** *He plays a complex chord on his guitar.*"
+          },
+          {
+            "title": "Trang 3 — Actions & roles",
+            "body": "### Actions\n\n*Practice*, *perform*, *record*, *compose*  \n*Producer*, *DAW* (digital audio workstation)"
+          }
+        ],
+        "reading_passage": "She plays the acoustic guitar every weekend. The lyrics of this song are beautiful. He uses an amplifier for his electric guitar. They practice before the concert.",
+        "reading_word_count": 27,
+        "vocabulary": [
+          {
+            "word": "chord / lyrics / rhythm",
+            "vi": "hợp âm / lời bài hát / nhịp"
+          }
+        ],
+        "examples": [
+          {
+            "english": "He is practicing a new chord.",
+            "vietnamese": "Anh ấy đang luyện một hợp âm mới."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_07_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "An instrument with six strings is usually a:",
+          "options": {
+            "A": "Guitar",
+            "B": "Drum",
+            "C": "Piano",
+            "D": "Mic"
+          },
+          "correct_answer": "A",
+          "hint_text": "Guitar — typically six strings.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "The words of a song are called:",
+          "options": {
+            "A": "Melody",
+            "B": "Lyrics",
+            "C": "Chords",
+            "D": "Rhythm"
+          },
+          "correct_answer": "B",
+          "hint_text": "Lyrics.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I need an _____ to make my electric guitar louder.",
+          "options": {
+            "A": "amplifier",
+            "B": "browser",
+            "C": "passport",
+            "D": "sensor"
+          },
+          "correct_answer": "A",
+          "hint_text": "Amplifier / amp.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_04",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Play — 2. Write",
+          "options": {
+            "A": "1→chords, 2→lyrics",
+            "B": "1→lyrics, 2→chords",
+            "C": "1→rhythm, 2→genre",
+            "D": "1→drums, 2→piano"
+          },
+          "correct_answer": "A",
+          "hint_text": "Play chords; write lyrics.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_05",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “He compose a new song yesterday.”",
+          "options": {
+            "A": "He",
+            "B": "compose",
+            "C": "song",
+            "D": "yesterday"
+          },
+          "correct_answer": "B",
+          "hint_text": "Composed (past).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "To save your voice or music to a computer, you often _____ it.",
+          "options": {
+            "A": "Practice",
+            "B": "Record",
+            "C": "Tune",
+            "D": "Land"
+          },
+          "correct_answer": "B",
+          "hint_text": "Record.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_07",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "“Rhythm” is the same as pitch (how high or low a note is).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Rhythm = beat/timing; pitch is high/low.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Anh ấy đang luyện tập hợp âm mới.”",
+          "options": {
+            "A": "He is practicing a new chord.",
+            "B": "He practice a new chord.",
+            "C": "He is practice a new chord.",
+            "D": "He practicing a new chord."
+          },
+          "correct_answer": "A",
+          "hint_text": "Is practicing.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Logical order for making a song (general):",
+          "options": {
+            "A": "Compose → Record → Perform",
+            "B": "Perform → Compose → Record",
+            "C": "Record → Perform → Compose",
+            "D": "Compose → Perform → Record only wrong"
+          },
+          "correct_answer": "A",
+          "hint_text": "Often compose → record → perform (contextual).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_07_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Ableton Live is popular software used by a music _____.",
+          "options": {
+            "A": "producer",
+            "B": "browser",
+            "C": "tourist",
+            "D": "luggage"
+          },
+          "correct_answer": "A",
+          "hint_text": "Music producer.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_08",
+      "lesson_name": "Past Continuous vs Past Simple (Grammar)",
+      "order": 8,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "past_continuous",
+        "time_est_minutes": 35,
+        "difficulty": 0.65
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Past continuous",
+            "body": "### Past continuous\n\n**was / were + V-ing** — hành động **đang diễn ra** tại một thời điểm trong quá khứ.\n\n*At 8 PM last night, I was playing the guitar.*"
+          },
+          {
+            "title": "Trang 2 — When",
+            "body": "### When — hành động cắt ngang\n\nHành động **dài** (past continuous) + **when** + hành động **ngắn** (past simple).\n\n*I was practicing when the phone rang.*"
+          },
+          {
+            "title": "Trang 3 — While",
+            "body": "### While — song song\n\nHai hành động **dài** cùng lúc:\n\n*While I was playing the guitar, he was singing.*"
+          }
+        ],
+        "reading_passage": "At 9 PM yesterday, I was watching TV. When the lights went out, I was reading a book. While my brother was cooking, I was setting the table.",
+        "reading_word_count": 28,
+        "vocabulary": [
+          {
+            "word": "was/were + -ing",
+            "vi": "quá khứ tiếp diễn"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I was sleeping when she called.",
+            "vietnamese": "Tôi đang ngủ thì cô ấy gọi."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_08_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "At 10 PM yesterday, I _____ TV.",
+          "options": {
+            "A": "watched",
+            "B": "was watching",
+            "C": "watch",
+            "D": "am watching"
+          },
+          "correct_answer": "B",
+          "hint_text": "At a moment in the past → was watching.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I was walking home _____ it started to rain.",
+          "options": {
+            "A": "while",
+            "B": "when",
+            "C": "what",
+            "D": "during"
+          },
+          "correct_answer": "B",
+          "hint_text": "When + past simple (short action).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "_____ I was working, she was reading a book.",
+          "options": {
+            "A": "While",
+            "B": "When",
+            "C": "Then",
+            "D": "Last"
+          },
+          "correct_answer": "A",
+          "hint_text": "While + parallel actions.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “When he arrived, I am sleeping.”",
+          "options": {
+            "A": "When",
+            "B": "arrived",
+            "C": "am sleeping",
+            "D": "I"
+          },
+          "correct_answer": "C",
+          "hint_text": "I was sleeping.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The phone _____ while I was taking a shower.",
+          "options": {
+            "A": "rang",
+            "B": "was ringing",
+            "C": "ringed",
+            "D": "rung"
+          },
+          "correct_answer": "A",
+          "hint_text": "Short interrupt → rang (past simple).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "They (play) _____ games at 3 PM yesterday.",
+          "options": {
+            "A": "were playing",
+            "B": "played",
+            "C": "playing",
+            "D": "are playing"
+          },
+          "correct_answer": "A",
+          "hint_text": "At 3 PM yesterday → were playing.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "I was studying when you arrived.",
+            "B": "I studying was when you arrived.",
+            "C": "When you arrived I studying.",
+            "D": "I was study when you arrived."
+          },
+          "correct_answer": "A",
+          "hint_text": "Was studying when…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“We were play football” is correct.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "We were playing.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi đang ngủ thì cô ấy gọi.”",
+          "options": {
+            "A": "I was sleeping when she called.",
+            "B": "I slept when she called.",
+            "C": "I am sleeping when she called.",
+            "D": "I sleeping when she called."
+          },
+          "correct_answer": "A",
+          "hint_text": "Was sleeping when… called.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_08_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Long background action — 2. Short interrupting action",
+          "options": {
+            "A": "1→Past Continuous, 2→Past Simple",
+            "B": "1→Past Simple, 2→Past Continuous",
+            "C": "1→Present, 2→Future",
+            "D": "1→Future, 2→Past"
+          },
+          "correct_answer": "A",
+          "hint_text": "Long: was/were -ing; short: V2.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_09",
+      "lesson_name": "Health, Fitness & Lifestyle (Vocabulary)",
+      "order": 9,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "health_lifestyle",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Symptoms",
+            "body": "### Symptoms\n\n*Headache*, *stomachache*, *fever*, *cough*, *cold*\n\n**Cấu trúc:** *I have a + noun* — *I have a fever.*\n\n*Feel sick*, *hurt*"
+          },
+          {
+            "title": "Trang 2 — Treatment",
+            "body": "### Treatment\n\n*Medicine / pill*, *rest*, *see a doctor*, *hospital*\n\n**Động từ:** *take medicine*, *recover*"
+          },
+          {
+            "title": "Trang 3 — Lifestyle",
+            "body": "### Healthy lifestyle\n\n*Workout / exercise*, *diet*, *nutrition*, *stay hydrated*  \n*Mental health*, *reduce stress*"
+          }
+        ],
+        "reading_passage": "I have a headache today. I need to rest and drink water. If I feel worse, I will see a doctor. Exercise and a good diet help my mental health.",
+        "reading_word_count": 30,
+        "vocabulary": [
+          {
+            "word": "take medicine / stay hydrated",
+            "vi": "uống thuốc / giữ đủ nước"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I feel sick. I need to see a doctor.",
+            "vietnamese": "Tôi cảm thấy ốm. Tôi cần đi khám bác sĩ."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_09_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "If your head hurts, you have a _____.",
+          "options": {
+            "A": "Fever",
+            "B": "Headache",
+            "C": "Cough",
+            "D": "Diet"
+          },
+          "correct_answer": "B",
+          "hint_text": "Headache.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "When you are sick, you should _____ medicine.",
+          "options": {
+            "A": "eat",
+            "B": "drink",
+            "C": "take",
+            "D": "make"
+          },
+          "correct_answer": "C",
+          "hint_text": "Take medicine.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "You should drink water to stay _____.",
+          "options": {
+            "A": "hydrated",
+            "B": "stress",
+            "C": "cold",
+            "D": "lyrics"
+          },
+          "correct_answer": "A",
+          "hint_text": "Stay hydrated.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_04",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Physical — 2. Mental",
+          "options": {
+            "A": "1→workout, 2→health (mental health)",
+            "B": "1→mental, 2→physical",
+            "C": "1→fever, 2→cough",
+            "D": "1→doctor, 2→hospital"
+          },
+          "correct_answer": "A",
+          "hint_text": "Physical workout; mental health.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_05",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “I have cough.”",
+          "options": {
+            "A": "I",
+            "B": "have",
+            "C": "cough",
+            "D": "—"
+          },
+          "correct_answer": "C",
+          "hint_text": "Have a cough.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Eating fruit and vegetables is part of a good _____.",
+          "options": {
+            "A": "Diet",
+            "B": "Medicine",
+            "C": "Fever",
+            "D": "Cough"
+          },
+          "correct_answer": "A",
+          "hint_text": "A good diet.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Rest” means you keep working without stopping.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Rest = nghỉ.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi cảm thấy ốm. Tôi cần đi khám bác sĩ.”",
+          "options": {
+            "A": "I feel sick. I need to see a doctor.",
+            "B": "I feel sick. I need see doctor.",
+            "C": "I am feel sick. I need to see a doctor.",
+            "D": "I feel sickly. I need see a doctor."
+          },
+          "correct_answer": "A",
+          "hint_text": "Feel sick; see a doctor.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Logical order:",
+          "options": {
+            "A": "Feel sick → Take medicine → Recover",
+            "B": "Recover → Feel sick → Take medicine",
+            "C": "Take medicine → Feel sick → Recover",
+            "D": "Feel sick → Recover → Take medicine"
+          },
+          "correct_answer": "A",
+          "hint_text": "Often feel sick → treatment → recover.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_09_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Listening to music can reduce _____.",
+          "options": {
+            "A": "stress",
+            "B": "water",
+            "C": "guitar",
+            "D": "browser"
+          },
+          "correct_answer": "A",
+          "hint_text": "Reduce stress.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L03_10",
+      "lesson_name": "The Rainy Session (Reading)",
+      "order": 10,
+      "estimated_minutes": 48,
+      "metadata": {
+        "skill": "reading",
+        "topic": "music_past_narrative",
+        "time_est_minutes": 35,
+        "difficulty": 0.7
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Pre-reading",
+            "body": "### Pre-reading\n\n**Từ:** *session*, *background*, *focus*, *inspire*.\n\n**Ngữ pháp:** Quá khứ đơn + quá khứ tiếp diễn + so sánh — trong **một** câu chuyện thu âm."
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading text\n\nThe **Rainy Session** — theo dõi *while*, *when*, *than*, *better*, *most productive*."
+          },
+          {
+            "title": "Trang 3 — Post-reading",
+            "body": "### Post-reading\n\n- *While* … *was raining* / *While Ben was playing… Sarah was singing*  \n- *When* … *was practicing… when Sarah called*  \n- So sánh: *the most productive*, *louder than*, *a better singer*, *faster and easier than*"
+          }
+        ],
+        "reading_passage": "Yesterday was the most productive day for Ben. He is a music producer. In the afternoon, he was sitting in his studio while it was raining outside. The sound of the rain was louder than usual, but it inspired him. He was practicing a new chord on his acoustic guitar when his friend, Sarah, called. She is a better singer than him. They decided to record a song. While Ben was playing the guitar and recording on his laptop, Sarah was singing. The session was amazing. It was faster and easier than their last song.",
+        "reading_word_count": 95,
+        "vocabulary": [
+          {
+            "word": "session / producer / inspired",
+            "vi": "buổi thu / nhà sản xuất / truyền cảm hứng"
+          }
+        ],
+        "examples": []
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L03_10_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What was the weather like yesterday?",
+          "options": {
+            "A": "Sunny",
+            "B": "Raining",
+            "C": "Hot",
+            "D": "Snowing"
+          },
+          "correct_answer": "B",
+          "hint_text": "It was raining.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Ben was playing the piano when Sarah called.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Acoustic guitar.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Sarah is a _____ singer than Ben.",
+          "options": {
+            "A": "better",
+            "B": "good",
+            "C": "best",
+            "D": "more good"
+          },
+          "correct_answer": "A",
+          "hint_text": "A better singer than him.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What was Ben doing when Sarah called?",
+          "options": {
+            "A": "Practicing a chord on his guitar",
+            "B": "Sleeping",
+            "C": "Driving",
+            "D": "Cooking"
+          },
+          "correct_answer": "A",
+          "hint_text": "Was practicing… when… called.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Where was Ben sitting? — In his _____.",
+          "options": {
+            "A": "studio",
+            "B": "bank",
+            "C": "airport",
+            "D": "hospital"
+          },
+          "correct_answer": "A",
+          "hint_text": "Sitting in his studio.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“While Ben was playing, Sarah was singing” describes:",
+          "options": {
+            "A": "Two parallel long actions",
+            "B": "Only one verb",
+            "C": "Future plans",
+            "D": "Present habits"
+          },
+          "correct_answer": "A",
+          "hint_text": "Parallel past continuous.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "A superlative in the first sentence: “Yesterday was the _____ productive day…”",
+          "options": {
+            "A": "most",
+            "B": "more",
+            "C": "much",
+            "D": "many"
+          },
+          "correct_answer": "A",
+          "hint_text": "The most productive.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Recording this song was harder than their last song.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Faster and easier than their last song.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Ben was recording on his _____.",
+          "options": {
+            "A": "laptop",
+            "B": "drums",
+            "C": "passport",
+            "D": "luggage"
+          },
+          "correct_answer": "A",
+          "hint_text": "Recording on his laptop.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L03_10_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text is about a successful music recording _____.",
+          "options": {
+            "A": "session",
+            "B": "fever",
+            "C": "flight",
+            "D": "browser"
+          },
+          "correct_answer": "A",
+          "hint_text": "Recording session.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    }
+  ]
+}

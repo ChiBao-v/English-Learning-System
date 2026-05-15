@@ -1,0 +1,2253 @@
+{
+  "course_id": "C06",
+  "course_name": "English for Customer Service & F&B (Intermediate B1)",
+  "course_description": "Đón khách & đặt bàn, gọi món & gợi ý, dị ứng & chế độ ăn, bán lẻ, thanh toán, xử lý khiếu nại, câu bị động lịch sự, đặt bàn qua điện thoại, chỉ đường & gợi ý địa phương, trả lời review online.",
+  "course_level": "intermediate",
+  "content_mode": "text_only",
+  "expected_cohort_behavior": {
+    "typical_response_time_sec_per_item": [
+      9,
+      36
+    ],
+    "typical_accuracy_band": [
+      0.58,
+      0.84
+    ],
+    "hint_usage_rate": [
+      0.07,
+      0.28
+    ]
+  },
+  "lessons": [
+    {
+      "lesson_id": "L06_01",
+      "lesson_name": "Welcoming & Seating Guests (Vocabulary/Speaking)",
+      "order": 1,
+      "estimated_minutes": 32,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "welcoming_guests",
+        "time_est_minutes": 20,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Greeting & reservations",
+            "body": "### Greeting & reservations\n\n*Good morning / Good evening. Welcome to [Restaurant name].*\n\n- *Do you have a reservation?*  \n- *Under what name, please?* (lịch sự hơn khi hỏi tên đặt bàn)"
+          },
+          {
+            "title": "Trang 2 — Party size & fully booked",
+            "body": "### Party size & full house\n\n- *How many people are in your party?* / *A table for how many?*  \n- *A table for two, please.*\n\n**Hết chỗ:** *I'm sorry, we are fully booked tonight. Would you like to wait at the bar?*"
+          },
+          {
+            "title": "Trang 3 — Seating & menus",
+            "body": "### Seating & menus\n\n- *Right this way, please.* / *Follow me, please.*  \n- *Here are your menus. Your server will be with you shortly.*"
+          }
+        ],
+        "reading_passage": "Good evening. Welcome to Riverside Grill. Do you have a reservation? Under what name, please? How many people are in your party? Right this way. Here are your menus.",
+        "reading_word_count": 29,
+        "vocabulary": [
+          {
+            "word": "reservation / fully booked / party",
+            "vi": "đặt bàn / kín chỗ / nhóm (khách)"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Right this way, please.",
+            "vietnamese": "Xin mời đi lối này."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_01_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Khách bước vào nhà hàng — lời chào chuyên nghiệp:",
+          "options": {
+            "A": "Welcome to our restaurant.",
+            "B": "What do you want?",
+            "C": "Go away.",
+            "D": "Money first."
+          },
+          "correct_answer": "A",
+          "hint_text": "Welcome…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Hỏi khách đã đặt bàn chưa:",
+          "options": {
+            "A": "Do you want a table?",
+            "B": "Do you have a reservation?",
+            "C": "Table yes?",
+            "D": "Why are you here?"
+          },
+          "correct_answer": "B",
+          "hint_text": "Do you have a reservation?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "How many people are in your _____?",
+          "options": {
+            "A": "party",
+            "B": "birthday",
+            "C": "kitchen",
+            "D": "fare"
+          },
+          "correct_answer": "A",
+          "hint_text": "In your party = your group.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "More professional when asking for the booking name:",
+          "options": {
+            "A": "Under what name, please?",
+            "B": "What is your name? (same context as reservation desk)",
+            "C": "Name!",
+            "D": "Who are you?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Under what name — service English.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Hết bàn — 2. Dẫn khách",
+          "options": {
+            "A": "1→We are fully booked — 2→Right this way",
+            "B": "1→Right this way — 2→Fully booked",
+            "C": "1→Menus — 2→Bar",
+            "D": "1→Party — 2→Reservation"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fully booked vs escorting.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Your server will be with you shortly” means the waiter is coming soon.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Shortly = soon.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Xin mời đi lối này.”",
+          "options": {
+            "A": "Right this way, please.",
+            "B": "Left this wrong way.",
+            "C": "This way is right always.",
+            "D": "Way right this."
+          },
+          "correct_answer": "A",
+          "hint_text": "Fixed phrase.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Here are your _____.",
+          "options": {
+            "A": "menus",
+            "B": "gates",
+            "C": "passports",
+            "D": "fares"
+          },
+          "correct_answer": "A",
+          "hint_text": "Here are your menus.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest: “We are three.” You respond professionally:",
+          "options": {
+            "A": "No.",
+            "B": "A table for three. Right this way.",
+            "C": "Three is bad.",
+            "D": "Leave."
+          },
+          "correct_answer": "B",
+          "hint_text": "Confirm + seat.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_01_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Fully booked” means:",
+          "options": {
+            "A": "No tables left / fully reserved",
+            "B": "Many books",
+            "C": "Free tables",
+            "D": "Closed forever"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fully booked.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_02",
+      "lesson_name": "Taking Orders & Recommending (Vocabulary)",
+      "order": 2,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "taking_orders",
+        "time_est_minutes": 25,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Ordering flow",
+            "body": "### Drinks & ready to order\n\n- *Can I get you something to drink to start off?*  \n- *Are you ready to order?*  \n- Guest: *We need a few more minutes.*"
+          },
+          {
+            "title": "Trang 2 — Recommendations",
+            "body": "### Recommendations (upselling)\n\n- *I highly recommend the grilled salmon.*  \n- *Our chef's special today is …*  \n- *Do you prefer meat or seafood?*"
+          },
+          {
+            "title": "Trang 3 — Repeat & confirm",
+            "body": "### Confirming the order\n\n- *Let me repeat your order. That's one steak, medium rare, and two Cokes.*  \n- *Would you like anything else?*  \n- *I'll have that right out for you.*"
+          }
+        ],
+        "reading_passage": "Can I get you something to drink? Are you ready to order? I highly recommend the salmon. Let me repeat your order: one steak, medium rare. Would you like anything else?",
+        "reading_word_count": 31,
+        "vocabulary": [
+          {
+            "word": "medium rare / chef's special / repeat the order",
+            "vi": "chín tái / món đặc biệt / nhắc lại order"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Would you like anything else?",
+            "vietnamese": "Quý khách có dùng thêm gì không?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_02_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Offer drinks first:",
+          "options": {
+            "A": "Can I get you something to drink?",
+            "B": "Drink water?",
+            "C": "Water only.",
+            "D": "No drinks."
+          },
+          "correct_answer": "A",
+          "hint_text": "Polite offer.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Are you _____ to order?",
+          "options": {
+            "A": "ready",
+            "B": "readily",
+            "C": "reading",
+            "D": "real"
+          },
+          "correct_answer": "A",
+          "hint_text": "Ready to order.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest can't decide yet. You say:",
+          "options": {
+            "A": "Hurry up.",
+            "B": "Would you like some recommendations?",
+            "C": "Choose now or leave.",
+            "D": "Bad customer."
+          },
+          "correct_answer": "B",
+          "hint_text": "Helpful.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “I high recommend this dish.”",
+          "options": {
+            "A": "I",
+            "B": "high",
+            "C": "recommend",
+            "D": "dish"
+          },
+          "correct_answer": "B",
+          "hint_text": "Highly recommend.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Medium rare — 2. Chef's special",
+          "options": {
+            "A": "1→steak doneness — 2→today's special dish",
+            "B": "1→special — 2→doneness",
+            "C": "1→drink — 2→dessert",
+            "D": "1→vegan — 2→halal"
+          },
+          "correct_answer": "A",
+          "hint_text": "Terms.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You should repeat the order back to avoid mistakes.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Confirm.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Quý khách có dùng thêm gì không?”",
+          "options": {
+            "A": "Would you like anything else?",
+            "B": "You else anything like?",
+            "C": "Anything else would?",
+            "D": "Else what?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Anything else.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Let me _____ your order.",
+          "options": {
+            "A": "repeat",
+            "B": "repetition",
+            "C": "repeating",
+            "D": "repeated"
+          },
+          "correct_answer": "A",
+          "hint_text": "Repeat your order.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest orders steak. You should ask:",
+          "options": {
+            "A": "How would you like your steak cooked?",
+            "B": "Do you like cow?",
+            "C": "Steak is meat.",
+            "D": "No questions."
+          },
+          "correct_answer": "A",
+          "hint_text": "Doneness.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_02_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“I'll have that right out for you” means:",
+          "options": {
+            "A": "I'll bring it soon",
+            "B": "I must go outside",
+            "C": "No food",
+            "D": "You leave"
+          },
+          "correct_answer": "A",
+          "hint_text": "Serve soon.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_03",
+      "lesson_name": "Dietary Requirements & Allergies (Vocabulary/Listening)",
+      "order": 3,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "diets_allergies",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Allergies",
+            "body": "### Allergies\n\n*Nuts / peanuts*, *seafood / shellfish*, *dairy*, *gluten*"
+          },
+          {
+            "title": "Trang 2 — Diets",
+            "body": "### Dietary preferences\n\n*Vegetarian*, *vegan*, *halal*\n\n*Does this dish contain meat?*"
+          },
+          {
+            "title": "Trang 3 — Kitchen",
+            "body": "### Kitchen communication\n\n- *I will check with the chef to be sure.*  \n- *We can remove the peanuts for you.*"
+          }
+        ],
+        "reading_passage": "I'm vegan. Does this contain dairy? I will check with the chef. We can remove the nuts from the salad.",
+        "reading_word_count": 20,
+        "vocabulary": [
+          {
+            "word": "vegan / dairy / check with the chef",
+            "vi": "thuần chay / sản phẩm sữa / hỏi bếp"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I will check with the chef.",
+            "vietnamese": "Tôi sẽ kiểm tra với bếp trưởng."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_03_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "A vegan does NOT eat:",
+          "options": {
+            "A": "Apple",
+            "B": "Cheese",
+            "C": "Carrot",
+            "D": "Rice"
+          },
+          "correct_answer": "B",
+          "hint_text": "Cheese = animal product.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Milk, butter, cheese are:",
+          "options": {
+            "A": "Dairy",
+            "B": "Gluten",
+            "C": "Nuts",
+            "D": "Shellfish"
+          },
+          "correct_answer": "A",
+          "hint_text": "Dairy.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am allergic _____ peanuts.",
+          "options": {
+            "A": "to",
+            "B": "for",
+            "C": "at",
+            "D": "on"
+          },
+          "correct_answer": "A",
+          "hint_text": "Allergic to.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “Does this dish contains dairy?”",
+          "options": {
+            "A": "Does",
+            "B": "dish",
+            "C": "contains",
+            "D": "dairy"
+          },
+          "correct_answer": "C",
+          "hint_text": "Does… contain?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Seafood — 2. Halal",
+          "options": {
+            "A": "1→shrimp/fish — 2→Islamic dietary rules",
+            "B": "1→halal — 2→seafood",
+            "C": "1→dairy — 2→vegan",
+            "D": "1→gluten — 2→nuts"
+          },
+          "correct_answer": "A",
+          "hint_text": "Categories.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "A typical vegetarian eats chicken.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "No meat.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi sẽ kiểm tra với bếp trưởng.”",
+          "options": {
+            "A": "I will check with the chef.",
+            "B": "I will chef with the check.",
+            "C": "Chef I check.",
+            "D": "Checking chef I."
+          },
+          "correct_answer": "A",
+          "hint_text": "Check with the chef.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "We can _____ the peanuts from the salad.",
+          "options": {
+            "A": "remove",
+            "B": "removal",
+            "C": "removing",
+            "D": "removed"
+          },
+          "correct_answer": "A",
+          "hint_text": "Remove the peanuts.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest has a severe allergy and asks about milk in soup. You're not sure. You:",
+          "options": {
+            "A": "Check with the chef",
+            "B": "Guess “maybe no”",
+            "C": "Ignore",
+            "D": "Say vegan"
+          },
+          "correct_answer": "A",
+          "hint_text": "Never guess allergies.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_03_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Dietary requirements” means:",
+          "options": {
+            "A": "Food-related needs/restrictions",
+            "B": "Payment requests",
+            "C": "Table size",
+            "D": "Tip amount"
+          },
+          "correct_answer": "A",
+          "hint_text": "Dietary requirements.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_04",
+      "lesson_name": "Retail & Shop Assistance (Speaking)",
+      "order": 4,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "retail_assistance",
+        "time_est_minutes": 25,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Offering help",
+            "body": "### Greeting shoppers\n\n- *Good afternoon. Are you looking for anything in particular?*  \n- *Let me know if you need any help.*  \n- Guest: *I'm just browsing / looking, thanks.*"
+          },
+          {
+            "title": "Trang 2 — Sizes & fitting",
+            "body": "### Sizes, colors, fitting\n\n- *What size are you?*  \n- *We have this in blue and red.*  \n- *The fitting rooms are right over there.*"
+          },
+          {
+            "title": "Trang 3 — Stock",
+            "body": "### Stock\n\n- *Let me check in the back for you.*  \n- *I'm afraid we are out of stock in your size.*"
+          }
+        ],
+        "reading_passage": "Are you looking for anything in particular? I'm just browsing. The fitting rooms are over there. Let me check in the back.",
+        "reading_word_count": 22,
+        "vocabulary": [
+          {
+            "word": "browsing / in particular / out of stock",
+            "vi": "chỉ xem / cụ thể / hết size-hàng"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Let me check in the back for you.",
+            "vietnamese": "Để tôi vào kho kiểm tra."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_04_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Polite offer of help:",
+          "options": {
+            "A": "What do you want to buy?",
+            "B": "Are you looking for anything in particular?",
+            "C": "Buy now!",
+            "D": "Money?"
+          },
+          "correct_answer": "B",
+          "hint_text": "In particular.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“I'm just browsing” means:",
+          "options": {
+            "A": "Only looking, not buying yet",
+            "B": "I want to buy everything",
+            "C": "I'm lost",
+            "D": "I'm angry"
+          },
+          "correct_answer": "A",
+          "hint_text": "Browsing.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The fitting _____ are right over there.",
+          "options": {
+            "A": "rooms",
+            "B": "room's",
+            "C": "roomes",
+            "D": "gates"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fitting rooms.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “I'm afraid we are out the stock.”",
+          "options": {
+            "A": "I'm",
+            "B": "afraid",
+            "C": "out the stock",
+            "D": "we"
+          },
+          "correct_answer": "C",
+          "hint_text": "Out of stock.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Check the back — 2. Size",
+          "options": {
+            "A": "1→go to storeroom — 2→S/M/L",
+            "B": "1→size — 2→back",
+            "C": "1→menu — 2→party",
+            "D": "1→gate — 2→fare"
+          },
+          "correct_answer": "A",
+          "hint_text": "Back vs size.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“In particular” means “specifically / especially”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "In particular.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Báo tôi nếu quý khách cần giúp đỡ.”",
+          "options": {
+            "A": "Let me know if you need any help.",
+            "B": "Let me know you need if help.",
+            "C": "Know let me help.",
+            "D": "Help me let know."
+          },
+          "correct_answer": "A",
+          "hint_text": "Let me know…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "What _____ are you?",
+          "options": {
+            "A": "size",
+            "B": "sigh",
+            "C": "sized",
+            "D": "sizing"
+          },
+          "correct_answer": "A",
+          "hint_text": "What size?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest asks for black — not on display. You say:",
+          "options": {
+            "A": "Let me check in the back.",
+            "B": "No, we don't. (end)",
+            "C": "Black is bad.",
+            "D": "Go home."
+          },
+          "correct_answer": "A",
+          "hint_text": "Check stock.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_04_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Out of stock” means:",
+          "options": {
+            "A": "No more available",
+            "B": "Lots in store",
+            "C": "On sale",
+            "D": "New arrival"
+          },
+          "correct_answer": "A",
+          "hint_text": "Out of stock.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_05",
+      "lesson_name": "Handling Payments & Cashier (Vocabulary)",
+      "order": 5,
+      "estimated_minutes": 30,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "processing_payments",
+        "time_est_minutes": 20,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Total & pay",
+            "body": "### Total & methods\n\n- *Your total comes to $45.50.*  \n- *How would you like to pay?* / *Cash or card?*"
+          },
+          {
+            "title": "Trang 2 — Card & cash",
+            "body": "### Processing\n\n- *Please insert or tap your card.*  \n- *Please enter your PIN.*  \n- *Here is your change.*"
+          },
+          {
+            "title": "Trang 3 — Receipt & bag",
+            "body": "### Wrapping up\n\n- *Would you like your receipt?*  \n- *Do you need a bag for this?*  \n- *Have a wonderful day. Hope to see you again!*"
+          }
+        ],
+        "reading_passage": "Your total comes to fifty dollars. How would you like to pay? Please tap your card. Here is your change. Would you like your receipt?",
+        "reading_word_count": 25,
+        "vocabulary": [
+          {
+            "word": "total / PIN / receipt / change",
+            "vi": "tổng / mã PIN / hóa đơn / tiền thối"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Would you like your receipt?",
+            "vietnamese": "Quý khách có lấy hóa đơn không?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_05_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Professional total announcement:",
+          "options": {
+            "A": "Your total comes to $50.",
+            "B": "Give me $50.",
+            "C": "Pay now or else.",
+            "D": "Money fifty."
+          },
+          "correct_answer": "A",
+          "hint_text": "Your total comes to…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "How would you like to _____?",
+          "options": {
+            "A": "pay",
+            "B": "paid",
+            "C": "paying",
+            "D": "pays"
+          },
+          "correct_answer": "A",
+          "hint_text": "How would you like to pay?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Customer pays cash with extra — you return money and say:",
+          "options": {
+            "A": "Here is your change.",
+            "B": "Here is your money wrong",
+            "C": "Keep everything.",
+            "D": "No change."
+          },
+          "correct_answer": "A",
+          "hint_text": "Here is your change.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "More natural: “Do you want receipt?”",
+          "options": {
+            "A": "Do",
+            "B": "you",
+            "C": "want receipt",
+            "D": "?"
+          },
+          "correct_answer": "C",
+          "hint_text": "…a receipt / your receipt.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Tap card — 2. Insert card",
+          "options": {
+            "A": "1→contactless tap — 2→insert chip",
+            "B": "1→insert — 2→tap",
+            "C": "1→PIN — 2→receipt",
+            "D": "1→cash — 2→bag"
+          },
+          "correct_answer": "A",
+          "hint_text": "Tap vs insert.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "PIN usually stands for Personal Identification Number.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "PIN.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Quý khách có cần túi không?”",
+          "options": {
+            "A": "Do you need a bag?",
+            "B": "Do you bag a need?",
+            "C": "Bag need you?",
+            "D": "Need bag why?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Do you need a bag?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Please enter your _____.",
+          "options": {
+            "A": "PIN",
+            "B": "pen",
+            "C": "pan",
+            "D": "pun"
+          },
+          "correct_answer": "A",
+          "hint_text": "Enter your PIN.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "After payment, you often ask:",
+          "options": {
+            "A": "Would you like your receipt?",
+            "B": "Give me a tip now.",
+            "C": "Leave your PIN aloud.",
+            "D": "Show password to everyone."
+          },
+          "correct_answer": "A",
+          "hint_text": "Receipt offer.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_05_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Cash” means:",
+          "options": {
+            "A": "Physical money",
+            "B": "Credit card only",
+            "C": "Bank transfer only",
+            "D": "Cryptocurrency only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Cash.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_06",
+      "lesson_name": "Handling Complaints (De-escalation)",
+      "order": 6,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "complaints_solutions",
+        "time_est_minutes": 35,
+        "difficulty": 0.65
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Apologize",
+            "body": "### Acknowledge & apologize\n\nKhông đổ lỗi khách hoặc **đổ lỗi bếp trước mặt khách**.\n\n- *I'm so sorry to hear that.*  \n- *I apologize for the inconvenience.*"
+          },
+          {
+            "title": "Trang 2 — Fix it",
+            "body": "### Solutions\n\n- *I'll bring you a new one right away.*  \n- *I'll send housekeeping up immediately.*"
+          },
+          {
+            "title": "Trang 3 — Compensate",
+            "body": "### Compensate\n\n- *Please let me offer you a free dessert.*  \n- *I'll deduct this from your bill.*"
+          }
+        ],
+        "reading_passage": "I'm sorry the soup is cold. I'll bring a hot one right away. I apologize for the inconvenience.",
+        "reading_word_count": 18,
+        "vocabulary": [
+          {
+            "word": "de-escalation / inconvenience / deduct from the bill",
+            "vi": "xoa dịu / bất tiện / khấu trừ vào hóa đơn"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I will bring you a new one right away.",
+            "vietnamese": "Tôi sẽ mang ra một phần mới ngay."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_06_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest says the soup is cold. First line:",
+          "options": {
+            "A": "It's not my fault.",
+            "B": "I apologize for that. Let me get you a hot one.",
+            "C": "Eat it.",
+            "D": "Kitchen problem."
+          },
+          "correct_answer": "B",
+          "hint_text": "Apology + solution.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Shows empathy best:",
+          "options": {
+            "A": "I understand your frustration.",
+            "B": "You are too angry.",
+            "C": "Calm down idiot.",
+            "D": "Not my job."
+          },
+          "correct_answer": "A",
+          "hint_text": "Empathy.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I apologize for the _____.",
+          "options": {
+            "A": "inconvenience",
+            "B": "inconvenient",
+            "C": "convenience",
+            "D": "convenient"
+          },
+          "correct_answer": "A",
+          "hint_text": "Inconvenience (noun).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “I will deduct this to your bill.”",
+          "options": {
+            "A": "I",
+            "B": "deduct",
+            "C": "to",
+            "D": "bill"
+          },
+          "correct_answer": "C",
+          "hint_text": "Deduct **from** your bill.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Right away — 2. Compensate",
+          "options": {
+            "A": "1→immediately — 2→make up (discount/dessert)",
+            "B": "1→compensate — 2→delay",
+            "C": "1→never — 2→argue",
+            "D": "1→tip — 2→receipt"
+          },
+          "correct_answer": "A",
+          "hint_text": "Speed vs compensation.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You should blame the head chef in front of the guest.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Don't throw staff under the bus.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi sẽ mang ra một phần mới ngay lập tức.”",
+          "options": {
+            "A": "I will bring you a new one right away.",
+            "B": "I will right away new one bring.",
+            "C": "I bring new one away right.",
+            "D": "New one I will maybe."
+          },
+          "correct_answer": "A",
+          "hint_text": "Right away.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Let me _____ you a free coffee.",
+          "options": {
+            "A": "offer",
+            "B": "offering",
+            "C": "offered",
+            "D": "offers"
+          },
+          "correct_answer": "A",
+          "hint_text": "Let me offer you…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest reports bad smell in room — best first step:",
+          "options": {
+            "A": "Apologize and offer room change / fix immediately",
+            "B": "Give spray and leave",
+            "C": "Say it's normal",
+            "D": "Laugh"
+          },
+          "correct_answer": "A",
+          "hint_text": "Service recovery.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_06_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“De-escalation” means:",
+          "options": {
+            "A": "Calm tension / lower conflict",
+            "B": "Raise prices",
+            "C": "Ignore guest",
+            "D": "Escalate shouting"
+          },
+          "correct_answer": "A",
+          "hint_text": "De-escalate.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_07",
+      "lesson_name": "The Passive Voice in Politeness (Grammar)",
+      "order": 7,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "passive_voice_service",
+        "time_est_minutes": 35,
+        "difficulty": 0.6
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Why passive",
+            "body": "### Why passive in service?\n\nKhách quan, lịch sự — tránh công kích cá nhân.\n\n- Blunt: *You didn't clean the room!*  \n- Better: *The room has not been cleaned.*"
+          },
+          {
+            "title": "Trang 2 — Structures",
+            "body": "### Be + past participle\n\n- *Breakfast is served from 6 AM to 10 AM.*  \n- *Your table is being prepared right now.*"
+          },
+          {
+            "title": "Trang 3 — Fixed phrases",
+            "body": "### Common phrases\n\n- *It is strictly prohibited.*  \n- *The tax is included.*  \n- *The tickets are sold out.*"
+          }
+        ],
+        "reading_passage": "Breakfast is served until 10. Your table is being prepared. Smoking is strictly prohibited. The tax is included.",
+        "reading_word_count": 18,
+        "vocabulary": [
+          {
+            "word": "is served / is included / sold out",
+            "vi": "được phục vụ / đã gồm / bán hết"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Your table is being cleaned.",
+            "vietnamese": "Bàn đang được dọn."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_07_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why use passive in hospitality?",
+          "options": {
+            "A": "To sound polite and neutral",
+            "B": "Only to make sentences longer",
+            "C": "To confuse guests",
+            "D": "To avoid verbs"
+          },
+          "correct_answer": "A",
+          "hint_text": "Politeness.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which is passive?",
+          "options": {
+            "A": "Your food is being prepared.",
+            "B": "We are preparing your food.",
+            "C": "Chef cooks",
+            "D": "I cook"
+          },
+          "correct_answer": "A",
+          "hint_text": "Is being prepared.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Breakfast is _____ at 7 AM.",
+          "options": {
+            "A": "served",
+            "B": "serving",
+            "C": "serve",
+            "D": "serves"
+          },
+          "correct_answer": "A",
+          "hint_text": "Is served.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “The tax is include in the price.”",
+          "options": {
+            "A": "The",
+            "B": "tax",
+            "C": "include",
+            "D": "price"
+          },
+          "correct_answer": "C",
+          "hint_text": "Is included.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Sold out — 2. Prohibited",
+          "options": {
+            "A": "1→no tickets left — 2→not allowed",
+            "B": "1→allowed — 2→sold",
+            "C": "1→included — 2→tax",
+            "D": "1→menu — 2→party"
+          },
+          "correct_answer": "A",
+          "hint_text": "Meanings.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“The glass was broken” is often more tactful than “You broke the glass”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Passive softens.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Bàn đang được dọn.”",
+          "options": {
+            "A": "Your table is being cleaned.",
+            "B": "Your table is cleaning.",
+            "C": "Your table cleans.",
+            "D": "Table is clean being."
+          },
+          "correct_answer": "A",
+          "hint_text": "Is being + past participle.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Correct order:",
+          "options": {
+            "A": "Smoking is strictly prohibited.",
+            "B": "Smoking prohibited strictly is.",
+            "C": "Prohibited smoking is strictly.",
+            "D": "Is smoking prohibited strictly."
+          },
+          "correct_answer": "A",
+          "hint_text": "Adverb placement.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Instead of “You must pay tax”, softer:",
+          "options": {
+            "A": "The tax is included.",
+            "B": "You pay tax now!",
+            "C": "Tax you!",
+            "D": "No tax info."
+          },
+          "correct_answer": "A",
+          "hint_text": "Included in price.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_07_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“It is fully booked” is:",
+          "options": {
+            "A": "Passive-style / common fixed phrase",
+            "B": "Only active",
+            "C": "Future tense",
+            "D": "Question"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fixed expression.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_08",
+      "lesson_name": "Telephone Reservations (Speaking/Listening)",
+      "order": 8,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "speaking",
+        "topic": "phone_reservations",
+        "time_est_minutes": 30,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Opening & details",
+            "body": "### Answering & details\n\n*[Restaurant], Peter speaking. How may I assist you?*\n\n- *For what date and time?*  \n- *For how many people?*"
+          },
+          {
+            "title": "Trang 2 — Spell & read back",
+            "body": "### Spelling & read-back\n\n- *Could you spell your last name, please?*  \n- *Let me read that back to you. 0-9-8-…*"
+          },
+          {
+            "title": "Trang 3 — Confirm",
+            "body": "### Confirm & close\n\n- *So I have a reservation for Mr. Smith, a table for 4 on Friday at 7 PM. Is that correct?*  \n- *We hold tables for 15 minutes.*  \n- *We look forward to seeing you.*"
+          }
+        ],
+        "reading_passage": "Grand Cafe, how may I assist you? For what date and time? Could you spell your last name? Let me read that back to you.",
+        "reading_word_count": 25,
+        "vocabulary": [
+          {
+            "word": "assist / spell / read back / hold a table",
+            "vi": "hỗ trợ / đánh vần / đọc lại / giữ bàn"
+          }
+        ],
+        "examples": [
+          {
+            "english": "How may I assist you?",
+            "vietnamese": "Tôi có thể giúp gì cho quý khách?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_08_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Professional phone answer:",
+          "options": {
+            "A": "Hello?",
+            "B": "Grand Cafe, how may I assist you?",
+            "C": "What?",
+            "D": "Speak."
+          },
+          "correct_answer": "B",
+          "hint_text": "Name + offer help.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Hard name — you ask:",
+          "options": {
+            "A": "Could you spell that, please?",
+            "B": "What?",
+            "C": "Write yourself.",
+            "D": "Wrong name."
+          },
+          "correct_answer": "A",
+          "hint_text": "Spell please.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "For what _____ and time?",
+          "options": {
+            "A": "date",
+            "B": "dating",
+            "C": "data",
+            "D": "gate"
+          },
+          "correct_answer": "A",
+          "hint_text": "Date and time.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "More standard: “Let me read that back ___ you.”",
+          "options": {
+            "A": "Let",
+            "B": "read",
+            "C": "for",
+            "D": "you"
+          },
+          "correct_answer": "C",
+          "hint_text": "Read back **to** you.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Spell — 2. Hold a table",
+          "options": {
+            "A": "1→spell name — 2→reserve 15 min policy",
+            "B": "1→hold — 2→spell",
+            "C": "1→pay — 2→PIN",
+            "D": "1→menu — 2→chef"
+          },
+          "correct_answer": "A",
+          "hint_text": "Phone skills.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Confirm all details before ending the call.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Read back.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi có thể giúp gì cho quý khách?”",
+          "options": {
+            "A": "How may I assist you?",
+            "B": "How you may assist?",
+            "C": "Assist I may how?",
+            "D": "May how assist?"
+          },
+          "correct_answer": "A",
+          "hint_text": "How may I assist you?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "We look _____ to seeing you.",
+          "options": {
+            "A": "forward",
+            "B": "forwards",
+            "C": "toward",
+            "D": "fourth"
+          },
+          "correct_answer": "A",
+          "hint_text": "Look forward to.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Restaurant is full that night. You say:",
+          "options": {
+            "A": "I'm sorry, we are fully booked that night.",
+            "B": "Don't come here.",
+            "C": "Try another planet.",
+            "D": "Hang up."
+          },
+          "correct_answer": "A",
+          "hint_text": "Polite + reason.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_08_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Assist” is closest to:",
+          "options": {
+            "A": "Help",
+            "B": "Ignore",
+            "C": "Fire",
+            "D": "Sell"
+          },
+          "correct_answer": "A",
+          "hint_text": "Assist ≈ help.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_09",
+      "lesson_name": "Giving Directions & Local Advice (Vocabulary)",
+      "order": 9,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "directions_advice",
+        "time_est_minutes": 25,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Inside directions",
+            "body": "### Inside the building\n\n*Restroom / toilets*\n\n- *Go straight down the hall — it's on your right.*  \n- *Take the elevator to the 3rd floor.*"
+          },
+          {
+            "title": "Trang 2 — Transport",
+            "body": "### Transport help\n\n- *Would you like me to call a taxi for you?*  \n- *The nearest bus stop is a 5-minute walk from here.*"
+          },
+          {
+            "title": "Trang 3 — Recommend & warn",
+            "body": "### Local tips\n\n- *If you like history, you should definitely visit the Old Museum.*  \n- *Just be careful with pickpockets in that area.*"
+          }
+        ],
+        "reading_passage": "The restrooms are down the hall. Would you like me to call a taxi? I highly recommend the old market — be careful with pickpockets.",
+        "reading_word_count": 25,
+        "vocabulary": [
+          {
+            "word": "restroom / elevator / pickpockets",
+            "vi": "nhà vệ sinh / thang máy / móc túi"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Take the elevator to the third floor.",
+            "vietnamese": "Đi thang máy lên tầng 3."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_09_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Directions to the restroom:",
+          "options": {
+            "A": "It's down the hall on your left.",
+            "B": "It's in the menu.",
+            "C": "It's on the plate.",
+            "D": "No restroom."
+          },
+          "correct_answer": "A",
+          "hint_text": "Down the hall.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Would you like me to _____ a taxi for you?",
+          "options": {
+            "A": "call",
+            "B": "cold",
+            "C": "called",
+            "D": "calling"
+          },
+          "correct_answer": "A",
+          "hint_text": "Call a taxi.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The machine that moves between floors:",
+          "options": {
+            "A": "Elevator",
+            "B": "Refrigerator",
+            "C": "Microwave",
+            "D": "Dishwasher"
+          },
+          "correct_answer": "A",
+          "hint_text": "Elevator.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “Take the elevator at the 3rd floor.”",
+          "options": {
+            "A": "Take",
+            "B": "elevator",
+            "C": "at",
+            "D": "floor"
+          },
+          "correct_answer": "C",
+          "hint_text": "To the 3rd floor.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Go straight — 2. Hall",
+          "options": {
+            "A": "1→đi thẳng — 2→corridor",
+            "B": "1→hall — 2→straight",
+            "C": "1→elevator — 2→restroom",
+            "D": "1→tip — 2→tax"
+          },
+          "correct_answer": "A",
+          "hint_text": "Directions.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You may warn guests about pickpockets in busy areas.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Safety tip.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Trạm xe buýt cách đây 5 phút đi bộ.”",
+          "options": {
+            "A": "The bus stop is a 5-minute walk from here.",
+            "B": "Bus is five walk minute.",
+            "C": "Walk bus five.",
+            "D": "From here bus no."
+          },
+          "correct_answer": "A",
+          "hint_text": "5-minute walk.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "You should _____ visit that cafe.",
+          "options": {
+            "A": "definitely",
+            "B": "definite",
+            "C": "defiantly",
+            "D": "defiant"
+          },
+          "correct_answer": "A",
+          "hint_text": "Definitely.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Guest asks for local souvenirs. You:",
+          "options": {
+            "A": "I highly recommend the night market.",
+            "B": "I don't care.",
+            "C": "Buy nothing.",
+            "D": "Go home."
+          },
+          "correct_answer": "A",
+          "hint_text": "Recommend.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_09_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Restroom” in US English often means:",
+          "options": {
+            "A": "Polite word for toilet/bathroom",
+            "B": "Bedroom",
+            "C": "Kitchen",
+            "D": "Garage"
+          },
+          "correct_answer": "A",
+          "hint_text": "Restroom.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L06_10",
+      "lesson_name": "Replying to Online Reviews (Writing)",
+      "order": 10,
+      "estimated_minutes": 48,
+      "metadata": {
+        "skill": "writing",
+        "topic": "online_reviews",
+        "time_est_minutes": 35,
+        "difficulty": 0.65
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Positive replies",
+            "body": "### Positive reviews\n\n- *Thank you for your kind words!*  \n- *We are thrilled to hear that you enjoyed the food.*  \n- *We look forward to welcoming you back soon.*"
+          },
+          {
+            "title": "Trang 2 — Negative replies",
+            "body": "### Negative reviews\n\nStructure: **Thanks for feedback → apologize → explain/fix → invite offline contact**\n\n- *We sincerely apologize that your experience was not up to our usual standards.*"
+          },
+          {
+            "title": "Trang 3 — Offline resolution",
+            "body": "### Take it offline\n\n- *Please contact us directly at [email] so we can make this right.*  \n- *We strive to provide excellent service and hope you give us another chance.*"
+          }
+        ],
+        "reading_passage": "Dear Anna, thank you for your kind words! We are thrilled you enjoyed the pasta. We look forward to welcoming you back. — Regarding your wait-time complaint: we sincerely apologize. Please contact us directly so we can make this right.",
+        "reading_word_count": 40,
+        "vocabulary": [
+          {
+            "word": "feedback / strive / up to our standards",
+            "vi": "góp ý / nỗ lực / đạt chuẩn thông thường"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Please contact us directly.",
+            "vietnamese": "Xin vui lòng liên hệ trực tiếp với chúng tôi."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L06_10_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Reply to a 5-star review:",
+          "options": {
+            "A": "Thank you for your kind words!",
+            "B": "I know.",
+            "C": "Obviously.",
+            "D": "Whatever."
+          },
+          "correct_answer": "A",
+          "hint_text": "Thank + warm tone.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "1-star — long wait. Opening line:",
+          "options": {
+            "A": "We sincerely apologize for the delay.",
+            "B": "You are impatient.",
+            "C": "Not our fault.",
+            "D": "Delete review."
+          },
+          "correct_answer": "A",
+          "hint_text": "Apologize first.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "We are _____ to hear that you liked the service.",
+          "options": {
+            "A": "thrilled",
+            "B": "thrill",
+            "C": "thrilling",
+            "D": "thrills"
+          },
+          "correct_answer": "A",
+          "hint_text": "Thrilled to hear…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Fix: “We apologies for the mistake.”",
+          "options": {
+            "A": "We",
+            "B": "apologies",
+            "C": "for",
+            "D": "mistake"
+          },
+          "correct_answer": "B",
+          "hint_text": "We apologize.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_05",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Match: 1. Feedback — 2. Strive",
+          "options": {
+            "A": "1→customer comment — 2→try hard to deliver quality",
+            "B": "1→strive — 2→feedback",
+            "C": "1→receipt — 2→PIN",
+            "D": "1→tip — 2→tax"
+          },
+          "correct_answer": "A",
+          "hint_text": "Vocabulary.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_06",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You should argue publicly with angry reviewers.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Stay professional; move offline.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Xin vui lòng liên hệ trực tiếp với chúng tôi.”",
+          "options": {
+            "A": "Please contact us directly.",
+            "B": "Please contact direct us.",
+            "C": "Contact please directly.",
+            "D": "Us contact please."
+          },
+          "correct_answer": "A",
+          "hint_text": "Contact us directly.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Your experience was not up to our usual _____.",
+          "options": {
+            "A": "standards",
+            "B": "standard",
+            "C": "standing",
+            "D": "stands"
+          },
+          "correct_answer": "A",
+          "hint_text": "Standards.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why give private email/phone for bad reviews?",
+          "options": {
+            "A": "Solve the problem privately and protect reputation",
+            "B": "To spam customers",
+            "C": "To ignore them",
+            "D": "To post passwords"
+          },
+          "correct_answer": "A",
+          "hint_text": "Offline resolution.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L06_10_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Professional closing for many replies:",
+          "options": {
+            "A": "We look forward to welcoming you back.",
+            "B": "Bye.",
+            "C": "Go away.",
+            "D": "Never come."
+          },
+          "correct_answer": "A",
+          "hint_text": "Welcoming tone.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    }
+  ]
+}

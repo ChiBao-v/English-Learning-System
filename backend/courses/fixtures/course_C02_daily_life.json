@@ -1,0 +1,2315 @@
+{
+  "course_id": "C02",
+  "course_name": "Daily Life & Surroundings (Tiếng Anh Đời sống A1+)",
+  "course_description": "Mở rộng vốn từ đời sống, giao thông, thực phẩm; thì hiện tại đơn, giới từ thời gian/địa điểm, some/any, trạng từ tần suất và đọc hiểu tổng hợp. Mỗi bài có tài liệu nhiều trang và 10 câu kiểm tra.",
+  "course_level": "beginner",
+  "content_mode": "text_only",
+  "expected_cohort_behavior": {
+    "typical_response_time_sec_per_item": [
+      6,
+      18
+    ],
+    "typical_accuracy_band": [
+      0.72,
+      0.92
+    ],
+    "hint_usage_rate": [
+      0.0,
+      0.15
+    ]
+  },
+  "lessons": [
+    {
+      "lesson_id": "L02_01",
+      "lesson_name": "Daily Routines & Time (Vocabulary)",
+      "order": 1,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "routines_time",
+        "time_est_minutes": 25,
+        "difficulty": 0.3
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Morning routines & telling time",
+            "body": "### Morning routines & telling time\n\n**Hoạt động buổi sáng**\n\n| Cụm | Nghĩa |\n|-----|--------|\n| **Wake up** | thức dậy |\n| **Get up** | ra khỏi giường |\n| **Brush teeth** | đánh răng |\n| **Wash face** | rửa mặt |\n| **Have breakfast** | ăn sáng |\n\n**Giờ giấc**\n\n- Giờ tròn: số + **o'clock** → *6:00* = *Six o'clock*.\n- Nửa giờ: **Half past** + số giờ → *6:30* = *Half past six*.\n\n**Ngữ cảnh:** *I wake up at six o'clock.*"
+          },
+          {
+            "title": "Trang 2 — Work & afternoon routines",
+            "body": "### Work & afternoon routines\n\n**Hoạt động**\n\n| Cụm | Nghĩa |\n|-----|--------|\n| **Go to work / school** | đi làm / đi học |\n| **Start work** | bắt đầu làm |\n| **Have lunch** | ăn trưa |\n| **Finish work** | tan làm |\n\n**Thời gian trong ngày**\n\n- *In the morning* — buổi sáng  \n- *At noon* — khoảng 12 giờ trưa  \n- *In the afternoon* — buổi chiều  \n\n**Ngữ cảnh:** *I go to work at eight o'clock in the morning.*"
+          },
+          {
+            "title": "Trang 3 — Evening & sleep",
+            "body": "### Evening routines & sleep\n\n**Hoạt động**\n\n- *Go home* — về nhà  \n- *Take a shower* — tắm  \n- *Have dinner* — ăn tối  \n- *Relax* — thư giãn  \n- *Watch TV* — xem TV  \n- *Go to bed* — đi ngủ  \n\n**Thời gian:** *In the evening* (buổi tối), *At night* (đêm).\n\n**Ngữ cảnh:** *I take a shower and go to bed at ten o'clock.*\n\n### Gợi ý\n\nViết **một đoạn 4–5 câu** về một ngày của bạn, dùng ít nhất **3 cụm** trong bài."
+          }
+        ],
+        "reading_passage": "My name is Lin. I wake up at six o'clock. I brush my teeth and have breakfast. I go to work at half past seven in the morning. After work, I go home and relax. In the evening, I watch TV. I go to bed at ten o'clock at night.",
+        "reading_word_count": 50,
+        "vocabulary": [
+          {
+            "word": "wake up / get up",
+            "vi": "thức dậy / ra khỏi giường"
+          },
+          {
+            "word": "brush teeth / wash face",
+            "vi": "đánh răng / rửa mặt"
+          },
+          {
+            "word": "have breakfast / lunch / dinner",
+            "vi": "ăn sáng / trưa / tối"
+          },
+          {
+            "word": "o'clock / half past",
+            "vi": "giờ tròn / rưỡi (half past six)"
+          },
+          {
+            "word": "in the morning / afternoon / evening",
+            "vi": "buổi sáng/chiều/tối"
+          },
+          {
+            "word": "at noon / at night",
+            "vi": "buổi trưa (12h) / ban đêm"
+          },
+          {
+            "word": "go home / go to bed",
+            "vi": "về nhà / đi ngủ"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I wake up at six o'clock.",
+            "vietnamese": "Tôi thức dậy lúc 6 giờ."
+          },
+          {
+            "english": "After work, I go home and relax.",
+            "vietnamese": "Sau giờ làm, tôi về nhà và thư giãn."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_01_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Hành động “đánh răng” là:",
+          "options": {
+            "A": "Wash face",
+            "B": "Brush teeth",
+            "C": "Have breakfast",
+            "D": "Get up"
+          },
+          "correct_answer": "B",
+          "hint_text": "Brush teeth = đánh răng.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "07:30 đọc là:",
+          "options": {
+            "A": "Seven o'clock",
+            "B": "Half past seven",
+            "C": "Eight thirty",
+            "D": "Half to eight"
+          },
+          "correct_answer": "B",
+          "hint_text": "7:30 = half past seven.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "After work, I go _____ and relax.",
+          "options": {
+            "A": "home",
+            "B": "house",
+            "C": "to home",
+            "D": "homework"
+          },
+          "correct_answer": "A",
+          "hint_text": "Go home — cố định (không to).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_04",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép đúng: 1. Have lunch — 2. Have dinner",
+          "options": {
+            "A": "1→At noon, 2→In the evening",
+            "B": "1→In the evening, 2→At noon",
+            "C": "1→At night, 2→At noon",
+            "D": "1→In the morning, 2→At noon"
+          },
+          "correct_answer": "A",
+          "hint_text": "Lunch ~ noon; dinner ~ evening.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 14,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_05",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa lỗi: “I eat breakfast at night.”",
+          "options": {
+            "A": "eat",
+            "B": "breakfast",
+            "C": "night",
+            "D": "I"
+          },
+          "correct_answer": "C",
+          "hint_text": "Breakfast → in the morning (đổi night → morning).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I go to sleep _____ ten o'clock.",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "by"
+          },
+          "correct_answer": "C",
+          "hint_text": "Giờ cụ thể → at.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Go home” means going to the office.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Go home = về nhà.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi đi ngủ lúc 10h.” — Chọn câu đúng:",
+          "options": {
+            "A": "I go to bed at ten o'clock.",
+            "B": "I go to the bed at ten.",
+            "C": "I sleep to bed at ten.",
+            "D": "I go bed at ten o'clock."
+          },
+          "correct_answer": "A",
+          "hint_text": "Go to bed at + giờ.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Thứ tự logic buổi sáng đúng nhất:",
+          "options": {
+            "A": "Wake up → Get up → Have breakfast",
+            "B": "Have breakfast → Wake up → Get up",
+            "C": "Get up → Have breakfast → Wake up",
+            "D": "Wake up → Have breakfast → Get up"
+          },
+          "correct_answer": "A",
+          "hint_text": "Thức dậy → ra khỏi giường → ăn sáng.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_01_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I watch _____ in the evening.",
+          "options": {
+            "A": "TV",
+            "B": "radio",
+            "C": "homework",
+            "D": "breakfast"
+          },
+          "correct_answer": "A",
+          "hint_text": "Watch TV.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_02",
+      "lesson_name": "Present Simple - Action Verbs (Grammar)",
+      "order": 2,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "present_simple",
+        "time_est_minutes": 30,
+        "difficulty": 0.35
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Affirmative",
+            "body": "### Present Simple — **khẳng định**\n\n**Chủ ngữ + động từ**\n\n- *I / You / We / They + V (nguyên mẫu)* → *I work*, *They play*.\n- *He / She / It + V-s / es* → *He works*, *She plays*.\n\n**Thêm -s / -es**\n\n- Thêm **-es** khi tận cùng *o, s, z, ch, x, sh*: *go → goes*, *watch → watches*.\n- Phụ âm + *y* → *-ies*: *study → studies*."
+          },
+          {
+            "title": "Trang 2 — Negative",
+            "body": "### Present Simple — **phủ định**\n\nDùng trợ động từ **do / does + not**. Động từ chính **luôn nguyên mẫu**.\n\n- *I / You / We / They + don't + V* → *I don't eat meat.*\n- *He / She / It + doesn't + V* → *She doesn't like coffee.*"
+          },
+          {
+            "title": "Trang 3 — Questions",
+            "body": "### Present Simple — **nghi vấn**\n\nĐảo **Do / Does** lên trước chủ ngữ. Động từ chính **nguyên mẫu**.\n\n- *Do + I/you/we/they + V?* → *Do you work?* — *Yes, I do. / No, I don't.*\n- *Does + he/she/it + V?* → *Does she study?* — *Yes, she does. / No, she doesn't.*\n\n### Lưu ý\n\nKhông nói *Does she studies?* — sau *does* chỉ còn *study*."
+          }
+        ],
+        "reading_passage": "Tom works in a cafe. He starts work at 8:00. He doesn't work on Sundays. Do you like coffee? He drinks coffee every morning. His sister studies English. She doesn't watch TV often.",
+        "reading_word_count": 33,
+        "vocabulary": [
+          {
+            "word": "work / play / study / watch",
+            "vi": "động từ thường (chú ý -s/-es)"
+          },
+          {
+            "word": "don't / doesn't",
+            "vi": "phủ định với do/does"
+          }
+        ],
+        "examples": [
+          {
+            "english": "She watches TV every day.",
+            "vietnamese": "Cô ấy xem TV mỗi ngày."
+          },
+          {
+            "english": "They don't live here.",
+            "vietnamese": "Họ không sống ở đây."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_02_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She _____ music every day.",
+          "options": {
+            "A": "listen",
+            "B": "listens",
+            "C": "listening",
+            "D": "listening to"
+          },
+          "correct_answer": "B",
+          "hint_text": "She + listens.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "He (watch) _____ TV every day.",
+          "options": {
+            "A": "watch",
+            "B": "watches",
+            "C": "watching",
+            "D": "watched"
+          },
+          "correct_answer": "B",
+          "hint_text": "He watches — thêm -es.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "We _____ work on weekends.",
+          "options": {
+            "A": "aren't",
+            "B": "doesn't",
+            "C": "don't",
+            "D": "isn't"
+          },
+          "correct_answer": "C",
+          "hint_text": "We don't + V.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Tìm lỗi: “He doesn't goes to school.”",
+          "options": {
+            "A": "doesn't",
+            "B": "goes",
+            "C": "to",
+            "D": "school"
+          },
+          "correct_answer": "B",
+          "hint_text": "doesn't go (không goes).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "Does he like pizza?",
+            "B": "He does like pizza?",
+            "C": "Like he does pizza?",
+            "D": "Does like he pizza?"
+          },
+          "correct_answer": "A",
+          "hint_text": "Does + he + like + …?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "_____ they play tennis?",
+          "options": {
+            "A": "Does",
+            "B": "Do",
+            "C": "Are",
+            "D": "Is"
+          },
+          "correct_answer": "B",
+          "hint_text": "They → Do.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I (study) _____ English on Mondays.",
+          "options": {
+            "A": "study",
+            "B": "studies",
+            "C": "studying",
+            "D": "studied"
+          },
+          "correct_answer": "A",
+          "hint_text": "I + study (nguyên mẫu).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_08",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Does it rain? — No, it _____.",
+          "options": {
+            "A": "doesn't",
+            "B": "don't",
+            "C": "isn't",
+            "D": "not"
+          },
+          "correct_answer": "A",
+          "hint_text": "It + doesn't.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Cô ấy không đi làm.” — Chọn câu đúng:",
+          "options": {
+            "A": "She doesn't go to work.",
+            "B": "She don't go to work.",
+            "C": "She not go to work.",
+            "D": "She doesn't goes to work."
+          },
+          "correct_answer": "A",
+          "hint_text": "She doesn't + go.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_02_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. He — 2. You",
+          "options": {
+            "A": "1→doesn't, 2→don't",
+            "B": "1→don't, 2→doesn't",
+            "C": "1→don't, 2→don't",
+            "D": "1→doesn't, 2→doesn't"
+          },
+          "correct_answer": "A",
+          "hint_text": "He doesn't; You don't.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_03",
+      "lesson_name": "A Day in the Life (Reading)",
+      "order": 3,
+      "estimated_minutes": 38,
+      "metadata": {
+        "skill": "reading",
+        "topic": "routine_application",
+        "time_est_minutes": 25,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Pre-reading",
+            "body": "### Pre-reading — từ khóa & liên từ\n\n**Từ vựng**\n\n- *Software engineer* — kỹ sư phần mềm  \n- *Busy* — bận rộn  \n- *Relax* — thư giãn  \n- *Company* — công ty  \n\n**Liên từ trình tự:** *First* (đầu tiên), *Then / After that* (sau đó), *Finally* (cuối cùng)."
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading text\n\nĐọc đoạn về **một ngày của Mark** — chú ý **giờ giấc** và **thứ tự** (*First → Then → Finally*)."
+          },
+          {
+            "title": "Trang 3 — Post-reading",
+            "body": "### Post-reading — phân tích\n\n- Động từ *-s*: *wakes*, *goes*, *works*, *relaxes*, *exercises*…  \n- Phủ định: *doesn't have*, *doesn't work*.  \n- **Scanning:** đọc câu hỏi trước → tìm từ khóa (*lunch* → *at noon*)."
+          }
+        ],
+        "reading_passage": "Mark is a software engineer. First, he wakes up at 6:00. He doesn't have a big breakfast. He drinks coffee. Then, he goes to work at half past seven. His company is big. He works from 8:00 to 5:00. He has lunch at noon. In the evening, Mark doesn't work. He relaxes. He exercises, takes a shower, and has dinner. Finally, he goes to bed at 11:00.",
+        "reading_word_count": 67,
+        "vocabulary": [
+          {
+            "word": "software engineer",
+            "vi": "kỹ sư phần mềm"
+          },
+          {
+            "word": "company",
+            "vi": "công ty"
+          },
+          {
+            "word": "First / Then / Finally",
+            "vi": "trình tự"
+          }
+        ],
+        "examples": [
+          {
+            "english": "He has lunch at noon.",
+            "vietnamese": "Anh ấy ăn trưa lúc buổi trưa."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_03_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "What is Mark's job?",
+          "options": {
+            "A": "Doctor",
+            "B": "Software engineer",
+            "C": "Teacher",
+            "D": "Driver"
+          },
+          "correct_answer": "B",
+          "hint_text": "Đầu đoạn: software engineer.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Mark has a big breakfast.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "He doesn't have a big breakfast.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Mark drinks _____ for breakfast.",
+          "options": {
+            "A": "coffee",
+            "B": "tea",
+            "C": "milk",
+            "D": "water"
+          },
+          "correct_answer": "A",
+          "hint_text": "He drinks coffee.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What time does he go to work?",
+          "options": {
+            "A": "7:00",
+            "B": "7:30",
+            "C": "8:00",
+            "D": "6:00"
+          },
+          "correct_answer": "B",
+          "hint_text": "Half past seven = 7:30.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Trái nghĩa gần nghĩa với “work” (trong bài tối):",
+          "options": {
+            "A": "relax",
+            "B": "exercise",
+            "C": "sleep",
+            "D": "eat"
+          },
+          "correct_answer": "A",
+          "hint_text": "Tối: doesn't work — relaxes.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "When does he have lunch? — _____",
+          "options": {
+            "A": "At noon",
+            "B": "At night",
+            "C": "In the evening",
+            "D": "At 11:00"
+          },
+          "correct_answer": "A",
+          "hint_text": "He has lunch at noon.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What happens after he exercises?",
+          "options": {
+            "A": "He goes to bed",
+            "B": "He takes a shower",
+            "C": "He drinks coffee",
+            "D": "He goes to work"
+          },
+          "correct_answer": "B",
+          "hint_text": "exercises → takes a shower → has dinner.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "He works in the evening.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "In the evening, Mark doesn't work.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“His company…” — *His* chỉ:",
+          "options": {
+            "A": "the coffee",
+            "B": "Mark's",
+            "C": "the train",
+            "D": "breakfast"
+          },
+          "correct_answer": "B",
+          "hint_text": "His = của Mark.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_03_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text is mainly about Mark's _____.",
+          "options": {
+            "A": "daily routine",
+            "B": "company only",
+            "C": "coffee",
+            "D": "breakfast only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Main idea: một ngày / routine.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_04",
+      "lesson_name": "Places in Town & Transport (Vocabulary)",
+      "order": 4,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "town_transport",
+        "time_est_minutes": 25,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Public places",
+            "body": "### Public places\n\n| Địa điểm | Nghĩa |\n|----------|--------|\n| **Hospital** | bệnh viện |\n| **School** | trường |\n| **Bank** | ngân hàng |\n| **Supermarket** | siêu thị |\n| **Park** | công viên |\n| **Restaurant** | nhà hàng |\n\n**Ngữ cảnh:** *I buy food at the supermarket.*"
+          },
+          {
+            "title": "Trang 2 — Transportation",
+            "body": "### Transportation\n\n| Từ | Nghĩa |\n|----|--------|\n| **Car / bus / train** | ô tô / xe buýt / tàu |\n| **Motorbike / bicycle (bike)** | xe máy / xe đạp |\n| **Walk** | đi bộ |\n\n**By + phương tiện:** *go by car*, *go by bus*.  \n**Ngoại lệ:** *on foot* = đi bộ (không nói *by foot*)."
+          },
+          {
+            "title": "Trang 3 — Asking where",
+            "body": "### Asking for locations\n\n- *Where is the + địa điểm?* — *Where is the bank?*\n- Chỉ đường cơ bản: *It's here.* / *It's there.* / *It's near …*\n\n### Thực hành\n\nĐặt **3 câu Where is…?** về nơi trong thị trấn tưởng tượng."
+          }
+        ],
+        "reading_passage": "I need money. Where is the bank? It is near the supermarket. I go to school by bus. My father goes to work by car. Sometimes I walk to the park on foot.",
+        "reading_word_count": 33,
+        "vocabulary": [
+          {
+            "word": "hospital / bank / supermarket",
+            "vi": "bệnh viện / ngân hàng / siêu thị"
+          },
+          {
+            "word": "by bus / by car / on foot",
+            "vi": "đi bằng… / đi bộ"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I go to work by bus.",
+            "vietnamese": "Tôi đi làm bằng xe buýt."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_04_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You keep money in a _____.",
+          "options": {
+            "A": "School",
+            "B": "Bank",
+            "C": "Park",
+            "D": "Restaurant"
+          },
+          "correct_answer": "B",
+          "hint_text": "Bank = ngân hàng.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I go to work _____ bus.",
+          "options": {
+            "A": "in",
+            "B": "by",
+            "C": "on",
+            "D": "at"
+          },
+          "correct_answer": "B",
+          "hint_text": "By bus.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Doctors work in a _____.",
+          "options": {
+            "A": "hospital",
+            "B": "bank",
+            "C": "park",
+            "D": "restaurant"
+          },
+          "correct_answer": "A",
+          "hint_text": "Hospital.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_04",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Buy food — 2. Eat a meal",
+          "options": {
+            "A": "1→Supermarket, 2→Restaurant",
+            "B": "1→Restaurant, 2→Supermarket",
+            "C": "1→School, 2→Bank",
+            "D": "1→Park, 2→Hospital"
+          },
+          "correct_answer": "A",
+          "hint_text": "Mua đồ ăn ở siêu thị; ăn ở nhà hàng.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_05",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “I go to school by foot.”",
+          "options": {
+            "A": "go",
+            "B": "school",
+            "C": "by",
+            "D": "foot"
+          },
+          "correct_answer": "C",
+          "hint_text": "On foot (không by foot).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where _____ the park?",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "am",
+            "D": "be"
+          },
+          "correct_answer": "A",
+          "hint_text": "The park → is.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "You can take a train at the bank.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Ga/tàu không ở ngân hàng.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi đi xe máy đến trường.”",
+          "options": {
+            "A": "I go to school by motorbike.",
+            "B": "I go to school with motorbike.",
+            "C": "I go school by motorbike.",
+            "D": "I by motorbike to school."
+          },
+          "correct_answer": "A",
+          "hint_text": "By motorbike.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The opposite of “here” in basic directions is _____.",
+          "options": {
+            "A": "there",
+            "B": "near",
+            "C": "where",
+            "D": "everywhere"
+          },
+          "correct_answer": "A",
+          "hint_text": "Here / there.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_04_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "A place with trees and grass is often a _____.",
+          "options": {
+            "A": "park",
+            "B": "bank",
+            "C": "hospital",
+            "D": "supermarket"
+          },
+          "correct_answer": "A",
+          "hint_text": "Park.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_05",
+      "lesson_name": "Prepositions of Time & Place (Grammar)",
+      "order": 5,
+      "estimated_minutes": 42,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "prepositions_in_on_at",
+        "time_est_minutes": 30,
+        "difficulty": 0.45
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Time: in, on, at",
+            "body": "### Prepositions of time — **in, on, at**\n\n- **IN:** tháng (*in May*), năm (*in 2024*), mùa (*in summer*), *in the morning/afternoon/evening*.\n- **ON:** ngày trong tuần (*on Monday*), ngày cụ thể (*on May 1st*).\n- **AT:** giờ (*at 7 o'clock*), *at noon*, *at night*."
+          },
+          {
+            "title": "Trang 2 — Place: in, on, at",
+            "body": "### Prepositions of place — **in, on, at**\n\n- **IN:** quốc gia/thành phố (*in Vietnam*), trong phòng (*in the room*).\n- **ON:** trên bề mặt (*on the table*), tên đường (*on Baker Street*).\n- **AT:** điểm cụ thể (*at 123 Baker Street*), *at school*, *at home*, *at work*."
+          },
+          {
+            "title": "Trang 3 — Trường hợp dễ nhầm",
+            "body": "### Dễ nhầm\n\n- *In the hospital* (bên trong tòa nhà) vs *at the hospital* (khu vực chung).\n- *In the morning* — nhưng *on Monday morning* (có ngày cụ thể → **on**).\n\n### Ôn nhanh\n\n**at** + giờ; **on** + ngày; **in** + tháng/năm/buổi (không có ngày cụ thể)."
+          }
+        ],
+        "reading_passage": "My birthday is in May. I was born in 2005. I have class on Monday. I wake up at 7:00 in the morning. I live in Hanoi. The book is on the table. I study at school.",
+        "reading_word_count": 37,
+        "vocabulary": [
+          {
+            "word": "in / on / at",
+            "vi": "giới từ thời gian & địa điểm"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I live in Vietnam.",
+            "vietnamese": "Tôi sống ở Việt Nam."
+          },
+          {
+            "english": "See you on Friday.",
+            "vietnamese": "Hẹn thứ Sáu."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_05_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "My birthday is _____ May.",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "by"
+          },
+          "correct_answer": "A",
+          "hint_text": "Tháng → in.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I have a meeting _____ Monday.",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "by"
+          },
+          "correct_answer": "B",
+          "hint_text": "Ngày trong tuần → on.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The book is _____ the table.",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "at",
+            "D": "by"
+          },
+          "correct_answer": "A",
+          "hint_text": "Trên mặt bàn → on.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “She lives at London.”",
+          "options": {
+            "A": "She",
+            "B": "lives",
+            "C": "at",
+            "D": "London"
+          },
+          "correct_answer": "C",
+          "hint_text": "In London (thành phố).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "We sleep _____ night.",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "by"
+          },
+          "correct_answer": "C",
+          "hint_text": "At night.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am _____ school now.",
+          "options": {
+            "A": "at",
+            "B": "in",
+            "C": "on",
+            "D": "to"
+          },
+          "correct_answer": "A",
+          "hint_text": "At school.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "He works in a bank.",
+            "B": "He works on a bank.",
+            "C": "He works at a bank in wrong.",
+            "D": "He in works a bank."
+          },
+          "correct_answer": "A",
+          "hint_text": "Works in a bank / at a bank đều có thể; câu A chuẩn.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_08",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "We usually say “on the morning”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "In the morning.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi sống ở Việt Nam.”",
+          "options": {
+            "A": "I live in Vietnam.",
+            "B": "I live on Vietnam.",
+            "C": "I live at Vietnam.",
+            "D": "I live to Vietnam."
+          },
+          "correct_answer": "A",
+          "hint_text": "In + country.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_05_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Chọn cặp đúng: ___ 8:00 AM, ___ Tuesday.",
+          "options": {
+            "A": "at, on",
+            "B": "on, at",
+            "C": "in, on",
+            "D": "at, in"
+          },
+          "correct_answer": "A",
+          "hint_text": "At + giờ; on + ngày.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_06",
+      "lesson_name": "City Life (Reading)",
+      "order": 6,
+      "estimated_minutes": 38,
+      "metadata": {
+        "skill": "reading",
+        "topic": "city_life_transport",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Pre-reading",
+            "body": "### Pre-reading\n\n**Từ vựng:** *traffic* (giao thông), *noisy* (ồn ào), *fast* (nhanh), *commute* (quãng đường đi làm / di chuyển).\n\n**Chủ đề:** Cuộc sống đi lại ở **thành phố lớn** — xe công cộng, tắc đường, giờ giấc."
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading text\n\nĐọc về **Sarah ở New York** — gạch **because** (lý do), **by + phương tiện**, **in / on / at**."
+          },
+          {
+            "title": "Trang 3 — Post-reading",
+            "body": "### Post-reading\n\n- Lý do: *She doesn't go by car **because** the traffic is bad.*\n- Giới từ: *in New York*, *in a bank*, *on 5th Avenue*, *at 7:30*, *on weekends*."
+          }
+        ],
+        "reading_passage": "Sarah lives in New York. It is a big and noisy city. She works in a bank on 5th Avenue. Every day, her commute is long. She doesn't go to work by car because the traffic is bad. She walks to the train station at 7:30 in the morning. The train is very fast but crowded. She arrives at work at 8:15. On weekends, she goes to the park by bicycle and relaxes.",
+        "reading_word_count": 73,
+        "vocabulary": [
+          {
+            "word": "traffic / commute",
+            "vi": "giao thông / đi làm hàng ngày"
+          },
+          {
+            "word": "noisy / crowded",
+            "vi": "ồn ào / đông đúc"
+          }
+        ],
+        "examples": [
+          {
+            "english": "The traffic is bad.",
+            "vietnamese": "Giao thông tệ / tắc."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_06_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Where does Sarah live?",
+          "options": {
+            "A": "London",
+            "B": "New York",
+            "C": "Tokyo",
+            "D": "Paris"
+          },
+          "correct_answer": "B",
+          "hint_text": "Đầu đoạn.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_02",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "The city is quiet.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "It is noisy.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where does she work?",
+          "options": {
+            "A": "In a bank",
+            "B": "In a hospital",
+            "C": "In a school",
+            "D": "In a park"
+          },
+          "correct_answer": "A",
+          "hint_text": "Works in a bank.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_04",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "She doesn't use a car because the _____ is bad.",
+          "options": {
+            "A": "traffic",
+            "B": "train",
+            "C": "park",
+            "D": "bicycle"
+          },
+          "correct_answer": "A",
+          "hint_text": "Because the traffic is bad.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "How does she mainly travel to work (after walking to the station)?",
+          "options": {
+            "A": "By car",
+            "B": "By train",
+            "C": "By bus",
+            "D": "By bicycle"
+          },
+          "correct_answer": "B",
+          "hint_text": "Walks to station → train.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "What time does she arrive at work? — _____",
+          "options": {
+            "A": "8:15",
+            "B": "7:30",
+            "C": "5:00",
+            "D": "11:00"
+          },
+          "correct_answer": "A",
+          "hint_text": "Arrives at work at 8:15.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The train is fast but _____.",
+          "options": {
+            "A": "crowded",
+            "B": "empty",
+            "C": "slow",
+            "D": "quiet"
+          },
+          "correct_answer": "A",
+          "hint_text": "Fast but crowded.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "She goes to the park by car on weekends.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "By bicycle.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_09",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “She walk to the station.”",
+          "options": {
+            "A": "She",
+            "B": "walk",
+            "C": "to",
+            "D": "station"
+          },
+          "correct_answer": "B",
+          "hint_text": "She walks.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_06_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The passage is about Sarah's _____ in the city.",
+          "options": {
+            "A": "commute / city life",
+            "B": "only breakfast",
+            "C": "only the bank name",
+            "D": "holiday"
+          },
+          "correct_answer": "A",
+          "hint_text": "Main idea: đi làm / cuộc sống phố.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_07",
+      "lesson_name": "Food, Drinks & Meals (Vocabulary)",
+      "order": 7,
+      "estimated_minutes": 32,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "food_drinks",
+        "time_est_minutes": 20,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Meals",
+            "body": "### Meals of the day\n\n- *Breakfast* — bữa sáng  \n- *Lunch* — bữa trưa  \n- *Dinner* — bữa tối  \n- *Snack* — đồ ăn vặt / bữa phụ  \n\n**Động từ:** *cook*, *eat / have*, *drink*."
+          },
+          {
+            "title": "Trang 2 — Foods",
+            "body": "### Common foods\n\n*Rice, bread, meat, chicken, fish, egg, vegetable, fruit, apple, banana*…\n\n**Gợi ý:** *a / an* với đếm được số ít (*an egg*, *a banana*)."
+          },
+          {
+            "title": "Trang 3 — Drinks & taste",
+            "body": "### Drinks & taste\n\n**Đồ uống:** *water, coffee, tea, milk, juice*.\n\n**Tính từ:** *sweet* (ngọt), *hot* (nóng), *cold* (lạnh).\n\n### Thực hành\n\nViết **thực đơn** một ngày bằng tiếng Anh (3 bữa + một đồ uống)."
+          }
+        ],
+        "reading_passage": "For breakfast, I have bread and an egg. I drink hot coffee. For lunch, I eat rice and fish. For dinner, I cook chicken with vegetables. I like fruit: apples and bananas. I drink water every day.",
+        "reading_word_count": 37,
+        "vocabulary": [
+          {
+            "word": "breakfast / lunch / dinner",
+            "vi": "sáng / trưa / tối"
+          },
+          {
+            "word": "rice / meat / fruit / vegetable",
+            "vi": "cơm / thịt / trái cây / rau"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I drink a glass of milk.",
+            "vietnamese": "Tôi uống một cốc sữa."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_07_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "You eat this in the morning:",
+          "options": {
+            "A": "Breakfast",
+            "B": "Dinner",
+            "C": "Lunch",
+            "D": "Snack"
+          },
+          "correct_answer": "A",
+          "hint_text": "Morning → breakfast.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Which one is a drink?",
+          "options": {
+            "A": "Bread",
+            "B": "Juice",
+            "C": "Meat",
+            "D": "Egg"
+          },
+          "correct_answer": "B",
+          "hint_text": "Juice = đồ uống.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I like to drink hot _____ in the morning.",
+          "options": {
+            "A": "coffee",
+            "B": "rice",
+            "C": "chicken",
+            "D": "bread"
+          },
+          "correct_answer": "A",
+          "hint_text": "Coffee or tea.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_04",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Apple — 2. Chicken",
+          "options": {
+            "A": "1→Fruit, 2→Meat",
+            "B": "1→Meat, 2→Fruit",
+            "C": "1→Vegetable, 2→Fish",
+            "D": "1→Drink, 2→Bread"
+          },
+          "correct_answer": "A",
+          "hint_text": "Apple = fruit; chicken = meat.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_05",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “I eat water.”",
+          "options": {
+            "A": "I",
+            "B": "eat",
+            "C": "water",
+            "D": "—"
+          },
+          "correct_answer": "B",
+          "hint_text": "Drink water.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_06",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "A banana is a type of _____.",
+          "options": {
+            "A": "Vegetable",
+            "B": "Fruit",
+            "C": "Meat",
+            "D": "Drink"
+          },
+          "correct_answer": "B",
+          "hint_text": "Banana = fruit.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "Dinner is the meal at noon.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Lunch ~ noon; dinner ~ evening.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi nấu bữa tối.”",
+          "options": {
+            "A": "I cook dinner.",
+            "B": "I make dinner cook.",
+            "C": "I dinner cook.",
+            "D": "I cooking dinner."
+          },
+          "correct_answer": "A",
+          "hint_text": "Cook dinner.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The opposite of “hot” (drink) is often _____.",
+          "options": {
+            "A": "cold",
+            "B": "sweet",
+            "C": "big",
+            "D": "fast"
+          },
+          "correct_answer": "A",
+          "hint_text": "Hot / cold.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_07_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Cows give us _____ to drink.",
+          "options": {
+            "A": "milk",
+            "B": "juice",
+            "C": "coffee",
+            "D": "rice"
+          },
+          "correct_answer": "A",
+          "hint_text": "Milk.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_08",
+      "lesson_name": "Countable/Uncountable & Some/Any (Grammar)",
+      "order": 8,
+      "estimated_minutes": 42,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "nouns_quantifiers",
+        "time_est_minutes": 30,
+        "difficulty": 0.55
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Countable & uncountable",
+            "body": "### Countable & uncountable nouns\n\n**Countable:** có thể đếm — *apple → apples*, *a banana*, *two eggs*.\n\n**Uncountable:** chất/khái niệm — *water, rice, milk, money* — **không** thêm *s* thông thường; **không** *a/an* đơn lẻ (*a water* sai)."
+          },
+          {
+            "title": "Trang 2 — Some",
+            "body": "### Some\n\n- Khẳng định: *I have some apples.* / *I need some water.*\n- Lời mời: *Would you like some tea?*"
+          },
+          {
+            "title": "Trang 3 — Any",
+            "body": "### Any\n\n- Phủ định: *I don't have any eggs.*  \n- Nghi vấn: *Do you have any milk?* / *Is there any sugar?*\n\n### Lưu ý\n\nTrong phủ định thường dùng **any**, không dùng **some** (trừ vài trường hợp đặc biệt nâng cao)."
+          }
+        ],
+        "reading_passage": "We have some apples in the kitchen. We don't have any oranges. There is some bread. There isn't any cheese. Would you like some tea? I don't want any coffee. Rice is important in my country.",
+        "reading_word_count": 36,
+        "vocabulary": [
+          {
+            "word": "some / any",
+            "vi": "một ít / bất cứ (ngữ cảnh khác nhau)"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I don't have any money.",
+            "vietnamese": "Tôi không có tiền."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_08_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which noun is uncountable?",
+          "options": {
+            "A": "Egg",
+            "B": "Water",
+            "C": "Banana",
+            "D": "Apple"
+          },
+          "correct_answer": "B",
+          "hint_text": "Water — không đếm kiểu “two waters” trong A1.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“I want _____ apple.”",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "some",
+            "D": "any"
+          },
+          "correct_answer": "B",
+          "hint_text": "An apple (âm /æ/).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I have _____ bread in the kitchen. (khẳng định)",
+          "options": {
+            "A": "some",
+            "B": "any",
+            "C": "a",
+            "D": "many"
+          },
+          "correct_answer": "A",
+          "hint_text": "Some + uncountable.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “She doesn't have some money.”",
+          "options": {
+            "A": "doesn't",
+            "B": "have",
+            "C": "some",
+            "D": "money"
+          },
+          "correct_answer": "C",
+          "hint_text": "Any money (phủ định).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Do we have _____ eggs?",
+          "options": {
+            "A": "some",
+            "B": "any",
+            "C": "a",
+            "D": "much"
+          },
+          "correct_answer": "B",
+          "hint_text": "Câu hỏi → any.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Would you like _____ coffee? (mời)",
+          "options": {
+            "A": "some",
+            "B": "any",
+            "C": "many",
+            "D": "much"
+          },
+          "correct_answer": "A",
+          "hint_text": "Would you like some…?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“Rices” is correct English.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Rice không đếm như vậy.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "I don't have any milk.",
+            "B": "I don't have some milk.",
+            "C": "I any don't have milk.",
+            "D": "Don't I have any milk."
+          },
+          "correct_answer": "A",
+          "hint_text": "Don't have any.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He eats _____ banana every day.",
+          "options": {
+            "A": "a",
+            "B": "some",
+            "C": "any",
+            "D": "much"
+          },
+          "correct_answer": "A",
+          "hint_text": "A banana — đếm được số ít.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_08_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép: 1. Affirmative — 2. Negative (thông thường)",
+          "options": {
+            "A": "1→some, 2→any",
+            "B": "1→any, 2→some",
+            "C": "1→any, 2→any",
+            "D": "1→some, 2→some"
+          },
+          "correct_answer": "A",
+          "hint_text": "Some khẳng định; any phủ định.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_09",
+      "lesson_name": "Adverbs of Frequency (Vocabulary & Grammar)",
+      "order": 9,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "adverbs_frequency",
+        "time_est_minutes": 25,
+        "difficulty": 0.5
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Bảng tần suất",
+            "body": "### Adverbs of frequency (cơ bản)\n\n| Trạng từ | Mức |\n|----------|-----|\n| **always** | 100% |\n| **usually** | ~80% |\n| **sometimes** | ~50% |\n| **never** | 0% |"
+          },
+          {
+            "title": "Trang 2 — Với động từ thường",
+            "body": "### Với động từ thường\n\nĐứng **trước** động từ thường:\n\n*I **always** wake up early.*  \n*She **never** eats meat.*"
+          },
+          {
+            "title": "Trang 3 — Với to be",
+            "body": "### Với *to be*\n\nĐứng **sau** *am/is/are*:\n\n*He **is usually** late.*  \n*We **are sometimes** tired.*\n\n### Cảnh báo\n\nKhông kết hợp *never* với phủ định khác một cách dư thừa (*I never don't…* — sai)."
+          }
+        ],
+        "reading_passage": "I always brush my teeth in the morning. Tom is usually on time. We sometimes watch TV in the evening. She never drinks soda. They are never late for class.",
+        "reading_word_count": 30,
+        "vocabulary": [
+          {
+            "word": "always / usually / sometimes / never",
+            "vi": "luôn / thường / đôi khi / không bao giờ"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I usually go to work by bus.",
+            "vietnamese": "Tôi thường đi làm bằng xe buýt."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_09_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "100% frequency means:",
+          "options": {
+            "A": "Always",
+            "B": "Never",
+            "C": "Sometimes",
+            "D": "Usually"
+          },
+          "correct_answer": "A",
+          "hint_text": "Always = 100%.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Choose the correct sentence:",
+          "options": {
+            "A": "I usually play tennis.",
+            "B": "I play usually tennis.",
+            "C": "Usually I play tennis wrong.",
+            "D": "I play tennis usually."
+          },
+          "correct_answer": "A",
+          "hint_text": "Usually trước play.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_03",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "She eats meat 0 days a week. She _____ eats meat.",
+          "options": {
+            "A": "never",
+            "B": "always",
+            "C": "usually",
+            "D": "sometimes"
+          },
+          "correct_answer": "A",
+          "hint_text": "Never = 0%.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_04",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “He is late always.”",
+          "options": {
+            "A": "He",
+            "B": "is late always",
+            "C": "late",
+            "D": "always"
+          },
+          "correct_answer": "B",
+          "hint_text": "He is always late.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Sắp xếp đúng:",
+          "options": {
+            "A": "We sometimes watch TV.",
+            "B": "We watch sometimes TV.",
+            "C": "Sometimes we TV watch.",
+            "D": "Watch we sometimes TV."
+          },
+          "correct_answer": "A",
+          "hint_text": "Sometimes trước watch.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "With *to be*, the adverb often comes:",
+          "options": {
+            "A": "before *am/is/are*",
+            "B": "after *am/is/are*",
+            "C": "at the end only",
+            "D": "before the subject"
+          },
+          "correct_answer": "B",
+          "hint_text": "He is usually…",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_07",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "“I never don't eat fish.” is good English.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Trùng phủ định — sai.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi luôn đi làm bằng xe buýt.”",
+          "options": {
+            "A": "I always go to work by bus.",
+            "B": "I go always to work by bus.",
+            "C": "Always I go by bus to work wrong.",
+            "D": "I go to always work by bus."
+          },
+          "correct_answer": "A",
+          "hint_text": "Always trước go.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The opposite of “always” is _____.",
+          "options": {
+            "A": "never",
+            "B": "usually",
+            "C": "sometimes",
+            "D": "often"
+          },
+          "correct_answer": "A",
+          "hint_text": "Always / never.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_09_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am _____ (about 80%) happy on Fridays.",
+          "options": {
+            "A": "usually",
+            "B": "never",
+            "C": "always",
+            "D": "sometimes"
+          },
+          "correct_answer": "A",
+          "hint_text": "Usually ~ 80%.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L02_10",
+      "lesson_name": "Healthy Lifestyle (Reading)",
+      "order": 10,
+      "estimated_minutes": 45,
+      "metadata": {
+        "skill": "reading",
+        "topic": "healthy_lifestyle_review",
+        "time_est_minutes": 30,
+        "difficulty": 0.6
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Pre-reading",
+            "body": "### Pre-reading\n\n**Từ vựng:** *healthy*, *lifestyle*, *exercise*, *junk food*.\n\n**Ôn tập:** hiện tại đơn, trạng từ tần suất, *some/any*, giới từ thời gian/địa điểm."
+          },
+          {
+            "title": "Trang 2 — Bài đọc",
+            "body": "### Reading text\n\nĐọc về **David** — gạch *always / usually / never*, *some / any*, *in / at*."
+          },
+          {
+            "title": "Trang 3 — Post-reading",
+            "body": "### Post-reading\n\n- Tần suất: *always wakes*, *usually eats*, *never eats junk food*, *always rides*.  \n- Lượng từ: *some water*, *an egg*, *some fruit*, *any coffee*.  \n- Giới từ: *in the morning*, *in the park*, *in an office*, *at night*."
+          }
+        ],
+        "reading_passage": "David has a very healthy lifestyle. He always wakes up early at 5:30 in the morning. He drinks some water and exercises in the park. For breakfast, he usually eats an egg and some fruit. He never eats junk food. David works in an office, but he doesn't go by car. He always rides his bicycle to work. In the evening, he cooks dinner with his family. He doesn't drink any coffee at night because he wants to sleep well.",
+        "reading_word_count": 80,
+        "vocabulary": [
+          {
+            "word": "healthy lifestyle / junk food",
+            "vi": "lối sống khỏe / đồ ăn nhanh không tốt"
+          },
+          {
+            "word": "exercise",
+            "vi": "tập thể dục"
+          }
+        ],
+        "examples": [
+          {
+            "english": "He doesn't drink any coffee at night.",
+            "vietnamese": "Anh ấy không uống cà phê ban đêm."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L02_10_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Does David have a healthy lifestyle?",
+          "options": {
+            "A": "Yes, he does.",
+            "B": "No, he doesn't.",
+            "C": "We don't know",
+            "D": "Maybe not"
+          },
+          "correct_answer": "A",
+          "hint_text": "Very healthy lifestyle.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "He wakes up early at _____ in the morning.",
+          "options": {
+            "A": "5:30",
+            "B": "11:00",
+            "C": "8:15",
+            "D": "7:30"
+          },
+          "correct_answer": "A",
+          "hint_text": "5:30.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_03",
+          "difficulty_level": 1,
+          "question_type": "true_false",
+          "question_text": "David eats junk food.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "He never eats junk food.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What does he have for breakfast?",
+          "options": {
+            "A": "Bread only",
+            "B": "An egg and fruit",
+            "C": "Junk food",
+            "D": "Coffee"
+          },
+          "correct_answer": "B",
+          "hint_text": "Usually an egg and some fruit.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "How does he go to work? — _____",
+          "options": {
+            "A": "By bicycle / He rides his bicycle",
+            "B": "By car",
+            "C": "By train",
+            "D": "On foot only"
+          },
+          "correct_answer": "A",
+          "hint_text": "Rides his bicycle.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Does he drink any coffee at night?",
+          "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Sometimes",
+            "D": "Always"
+          },
+          "correct_answer": "B",
+          "hint_text": "Doesn't drink any coffee at night.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "He drinks some water and _____ in the park.",
+          "options": {
+            "A": "exercises",
+            "B": "sleeps",
+            "C": "drives",
+            "D": "works"
+          },
+          "correct_answer": "A",
+          "hint_text": "Exercises in the park.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_08",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Sửa: “He don't go by car.”",
+          "options": {
+            "A": "He",
+            "B": "don't",
+            "C": "go",
+            "D": "car"
+          },
+          "correct_answer": "B",
+          "hint_text": "He doesn't.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Why doesn't he drink coffee at night?",
+          "options": {
+            "A": "Because he wants to sleep well",
+            "B": "Because he hates water",
+            "C": "Because he walks",
+            "D": "Because he is late"
+          },
+          "correct_answer": "A",
+          "hint_text": "Because… sleep well.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L02_10_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "The text shows how to live a _____ life.",
+          "options": {
+            "A": "healthy",
+            "B": "noisy",
+            "C": "lazy",
+            "D": "slow"
+          },
+          "correct_answer": "A",
+          "hint_text": "Healthy lifestyle.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    }
+  ]
+}

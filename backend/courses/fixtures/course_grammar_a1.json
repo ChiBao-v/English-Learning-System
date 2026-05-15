@@ -1,0 +1,1036 @@
+{
+  "course_id": "grammar_a1",
+  "course_name": "Grammar — A1",
+  "course_description": "Bốn bài ngữ pháp A1-A2 từ British Council LearnEnglish: Adjectives & prepositions, Adjectives -ed/-ing, Articles a/an/the, Articles the/no article. Mỗi bài gồm lý thuyết đầy đủ và 15–20 câu trắc nghiệm.",
+  "course_level": "beginner",
+  "course_skill": "general",
+  "course_cefr_level": "A1",
+  "lessons": [
+    {
+      "lesson_id": "G_a1_adjectives_prepositions",
+      "lesson_name": "Adjectives and prepositions",
+      "order": 1,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "grammar",
+        "source_html": "course/grammar/Adjectives and prepositions _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Lý thuyết ngữ pháp",
+            "body": "### Adjectives and prepositions\n\nMột số tính từ trong tiếng Anh luôn đi kèm với một giới từ nhất định. Không có quy tắc ngữ pháp cố định, vì vậy hãy cố gắng học chúng cùng nhau trong câu hoặc cụm từ.\n\nLưu ý: giới từ luôn được theo sau bởi một danh từ hoặc dạng **-ing** (gerund).\n\n---\n\n#### Với **at**\n\nDùng **at** với các tính từ như *good / bad / amazing / brilliant / terrible* … để nói về kỹ năng và năng lực.\n\n- He's really **good at** English.\n- She's **amazing at** the piano.\n- They're **terrible at** organising anything.\n- I'm not very **good at** drawing.\n\n---\n\n#### Với **about**\n\nDùng **about** với các tính từ chỉ cảm xúc như *angry / excited / happy / nervous / sad / stressed / worried* … để giải thích nguyên nhân gây ra cảm xúc đó.\n\n- I'm **angry about** the decision.\n- He's **nervous about** the presentation.\n- She's **excited about** the new job.\n- They were **worried about** the exam.\n\n---\n\n#### Với **of**\n\nMôt số tính từ chỉ cảm xúc dùng **of**:\n\n- She was **afraid of** telling her mum.\n- I'm **frightened of** having an accident.\n- He's **scared of** flying.\n- You should be **proud of** your progress.\n\n---\n\n#### Với **to**\n\nDùng **to** để diễn tả mối quan hệ hoặc thái độ của ai đó với ai/cái gì:\n\n- He's **married to** the director.\n- I'm **addicted to** my phone.\n- I'm **allergic to** nuts.\n- It's **similar to** the old one.\n- They were really **friendly to** me.\n- Was he **nice to** you?\n- He is always **polite to** everyone.\n- She was very **rude to** the waitress.\n\n---\n\n#### Với **for**\n\n- Exercise is **good for** you.\n- Stress is **bad for** you.\n- The town is **famous for** its cheese.\n- I'm **responsible for** the financial side of the business.\n\n---\n\n#### Với **in**\n\n- She's **interested in** the project.\n- They want someone who's **experienced in** design.\n- I didn't want to get **involved in** the argument."
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_G_adj_prep_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He's really good ___ English.",
+          "options": {
+            "A": "at",
+            "B": "about",
+            "C": "for",
+            "D": "of"
+          },
+          "correct_answer": "A",
+          "hint_text": "Dùng 'at' với good/bad/amazing để nói về kỹ năng."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She's excited ___ the new job.",
+          "options": {
+            "A": "of",
+            "B": "about",
+            "C": "at",
+            "D": "for"
+          },
+          "correct_answer": "B",
+          "hint_text": "Các tính từ chỉ cảm xúc như excited, happy, nervous thường đi với 'about'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He's scared ___ flying.",
+          "options": {
+            "A": "about",
+            "B": "at",
+            "C": "of",
+            "D": "to"
+          },
+          "correct_answer": "C",
+          "hint_text": "Afraid / frightened / scared đi với 'of'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The town is famous ___ its cheese.",
+          "options": {
+            "A": "about",
+            "B": "of",
+            "C": "at",
+            "D": "for"
+          },
+          "correct_answer": "D",
+          "hint_text": "Famous / good / bad / responsible đi với 'for'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She's interested ___ the project.",
+          "options": {
+            "A": "in",
+            "B": "at",
+            "C": "for",
+            "D": "about"
+          },
+          "correct_answer": "A",
+          "hint_text": "Interested / experienced / involved đi với 'in'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He's married ___ the director.",
+          "options": {
+            "A": "with",
+            "B": "for",
+            "C": "to",
+            "D": "of"
+          },
+          "correct_answer": "C",
+          "hint_text": "Married / addicted / allergic / similar / polite / friendly / rude đi với 'to'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I'm responsible ___ the financial side of the business.",
+          "options": {
+            "A": "about",
+            "B": "of",
+            "C": "at",
+            "D": "for"
+          },
+          "correct_answer": "D",
+          "hint_text": "Responsible đi với 'for'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "They were worried ___ the exam.",
+          "options": {
+            "A": "at",
+            "B": "about",
+            "C": "for",
+            "D": "with"
+          },
+          "correct_answer": "B",
+          "hint_text": "Worried / nervous / stressed đi với 'about'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She was very rude ___ the waitress.",
+          "options": {
+            "A": "with",
+            "B": "at",
+            "C": "for",
+            "D": "to"
+          },
+          "correct_answer": "D",
+          "hint_text": "Rude / polite / friendly / nice đi với 'to' khi nói về thái độ đối với ai đó."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I'm addicted ___ my phone.",
+          "options": {
+            "A": "at",
+            "B": "to",
+            "C": "of",
+            "D": "about"
+          },
+          "correct_answer": "B",
+          "hint_text": "Addicted đi với 'to'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "You should be proud ___ your progress.",
+          "options": {
+            "A": "about",
+            "B": "at",
+            "C": "of",
+            "D": "for"
+          },
+          "correct_answer": "C",
+          "hint_text": "Proud đi với 'of'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Exercise is good ___ you.",
+          "options": {
+            "A": "to",
+            "B": "at",
+            "C": "about",
+            "D": "for"
+          },
+          "correct_answer": "D",
+          "hint_text": "Good for / bad for dùng 'for' khi nói về lợi ích hoặc tác hại."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "It's similar ___ the old one.",
+          "options": {
+            "A": "with",
+            "B": "as",
+            "C": "to",
+            "D": "of"
+          },
+          "correct_answer": "C",
+          "hint_text": "Similar đi với 'to' để diễn tả sự tương đồng."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I didn't want to get involved ___ the argument.",
+          "options": {
+            "A": "with",
+            "B": "in",
+            "C": "at",
+            "D": "about"
+          },
+          "correct_answer": "B",
+          "hint_text": "Involved đi với 'in'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "I'm allergic ___ nuts.",
+          "options": {
+            "A": "of",
+            "B": "about",
+            "C": "at",
+            "D": "to"
+          },
+          "correct_answer": "D",
+          "hint_text": "Allergic đi với 'to'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence uses the correct preposition?",
+          "options": {
+            "A": "She's amazing of the piano.",
+            "B": "He's nervous at the interview.",
+            "C": "They're experienced in design.",
+            "D": "I'm frightened about spiders."
+          },
+          "correct_answer": "C",
+          "hint_text": "Experienced đi với 'in'; amazing đi với 'at'; nervous đi với 'about'; frightened đi với 'of'."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_17",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "He was angry ___ the decision.",
+          "options": {
+            "A": "for",
+            "B": "at",
+            "C": "about",
+            "D": "of"
+          },
+          "correct_answer": "C",
+          "hint_text": "Angry đi với 'about' khi nói về nguyên nhân gây ra cảm xúc."
+        },
+        {
+          "quiz_id": "Q_G_adj_prep_18",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "After a preposition, a verb takes which form?",
+          "options": {
+            "A": "infinitive (to + verb)",
+            "B": "-ing form (gerund)",
+            "C": "past tense",
+            "D": "past participle"
+          },
+          "correct_answer": "B",
+          "hint_text": "A preposition is followed by a noun or a gerund (-ing form)."
+        }
+      ]
+    },
+    {
+      "lesson_id": "G_a1_adjectives_ed_ing",
+      "lesson_name": "Adjectives ending in '-ed' and '-ing'",
+      "order": 2,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "grammar",
+        "source_html": "course/grammar/Adjectives ending in '-ed' and '-ing' _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Lý thuyết ngữ pháp",
+            "body": "### Adjectives ending in '-ed' and '-ing'\n\nCác tính từ kết thúc bằng **-ed** và **-ing** thường bị nhầm lẫn. Hãy hiểu sự khác biệt để dùng đúng.\n\n---\n\n#### Tính từ đuôi **-ed**\n\nCác tính từ kết thúc bằng **-ed** thường mô tả **cảm xúc** — diễn tả cảm giác của con người.\n\n- I was so **bored** in that lesson, I almost fell asleep.\n- He was **surprised** to see Helen after all those years.\n- She was really **tired** and went to bed early.\n\n> Quy tắc: *Tính từ -ed nói lên cảm giác của **người/chủ thể**.*\n\n---\n\n#### Tính từ đuôi **-ing**\n\nCác tính từ kết thúc bằng **-ing** thường mô tả **nguyên nhân gây ra cảm xúc** — một bài học nhàm chán (boring lesson) khiến bạn cảm thấy chán (bored).\n\n- Have you seen that film? It's really **frightening**.\n- I could listen to her for hours. She's so **interesting**.\n- I can't sleep! That noise is really **annoying**!\n\n> Quy tắc: *Tính từ -ing nói lên bản chất của **sự vật/tình huống** gây ra cảm xúc.*\n\n---\n\n#### Bảng tính từ thường gặp (cả hai dạng)\n\n| -ed (cảm xúc người) | -ing (nguyên nhân) |\n|---|---|\n| annoyed | annoying |\n| bored | boring |\n| confused | confusing |\n| disappointed | disappointing |\n| excited | exciting |\n| frightened | frightening |\n| interested | interesting |\n| surprised | surprising |\n| tired | tiring |\n| worried | worrying |\n\n---\n\n#### Ví dụ so sánh\n\n- I was really **bored** in that presentation. *(Tôi cảm thấy chán)*\n- That was a really **boring** presentation. *(Bài thuyết trình thật nhàm chán)*"
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_G_ed_ing_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I was really ___ in that lesson, I almost fell asleep.",
+          "options": {
+            "A": "boring",
+            "B": "bored",
+            "C": "bore",
+            "D": "boringly"
+          },
+          "correct_answer": "B",
+          "hint_text": "Tính từ -ed mô tả cảm xúc của người."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "That film was so ___. I couldn't stop watching it.",
+          "options": {
+            "A": "excited",
+            "B": "excite",
+            "C": "exciting",
+            "D": "excitedly"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tính từ -ing mô tả bản chất/nguyên nhân gây ra cảm xúc."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She was really ___ and went to bed early.",
+          "options": {
+            "A": "tiring",
+            "B": "tire",
+            "C": "tired",
+            "D": "tiresome"
+          },
+          "correct_answer": "C",
+          "hint_text": "Diễn tả cảm giác mệt mỏi của người → dùng -ed."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He was ___ to see Helen after all those years.",
+          "options": {
+            "A": "surprising",
+            "B": "surprised",
+            "C": "surprise",
+            "D": "surprisingly"
+          },
+          "correct_answer": "B",
+          "hint_text": "Người cảm thấy ngạc nhiên → dùng -ed."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I can't sleep! That noise is really ___.",
+          "options": {
+            "A": "annoyed",
+            "B": "annoy",
+            "C": "annoying",
+            "D": "annoyingly"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tiếng ồn là nguyên nhân gây khó chịu → dùng -ing."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Have you seen that film? It's really ___.",
+          "options": {
+            "A": "frightened",
+            "B": "frighten",
+            "C": "frighteningly",
+            "D": "frightening"
+          },
+          "correct_answer": "D",
+          "hint_text": "Bộ phim là nguyên nhân gây sợ hãi → dùng -ing."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I could listen to her for hours. She's so ___.",
+          "options": {
+            "A": "interested",
+            "B": "interesting",
+            "C": "interest",
+            "D": "interestedly"
+          },
+          "correct_answer": "B",
+          "hint_text": "Người nói là nguyên nhân gây thú vị → dùng -ing."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The students were ___ by the confusing instructions.",
+          "options": {
+            "A": "confusing",
+            "B": "confused",
+            "C": "confuse",
+            "D": "confusedly"
+          },
+          "correct_answer": "B",
+          "hint_text": "Học sinh cảm thấy bối rối → dùng -ed."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The results were very ___. Nobody expected to fail.",
+          "options": {
+            "A": "disappointed",
+            "B": "disappointedly",
+            "C": "disappointing",
+            "D": "disappoint"
+          },
+          "correct_answer": "C",
+          "hint_text": "Kết quả là nguyên nhân gây thất vọng → dùng -ing."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I am ___ about the next lesson.",
+          "options": {
+            "A": "exciting",
+            "B": "excite",
+            "C": "excitedly",
+            "D": "excited"
+          },
+          "correct_answer": "D",
+          "hint_text": "Người cảm thấy hứng khởi → dùng -ed."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence is CORRECT?",
+          "options": {
+            "A": "The homework was very bored.",
+            "B": "The homework was very boring.",
+            "C": "I felt very boring during the class.",
+            "D": "The teacher was very bored to explain."
+          },
+          "correct_answer": "B",
+          "hint_text": "Bài tập là nguyên nhân gây chán → bài tập (it) là boring."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Adjectives ending in '-ed' generally describe …",
+          "options": {
+            "A": "the thing that causes the emotion",
+            "B": "emotions — how people feel",
+            "C": "the time of an action",
+            "D": "the manner of doing something"
+          },
+          "correct_answer": "B",
+          "hint_text": "Quy tắc cơ bản: -ed mô tả cảm xúc của người."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Adjectives ending in '-ing' generally describe …",
+          "options": {
+            "A": "emotions — how people feel",
+            "B": "the time of an action",
+            "C": "the thing that causes the emotion",
+            "D": "a repeated action"
+          },
+          "correct_answer": "C",
+          "hint_text": "Quy tắc cơ bản: -ing mô tả nguyên nhân/sự vật gây ra cảm xúc."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "The long drive was ___. We needed a break.",
+          "options": {
+            "A": "tired",
+            "B": "tiring",
+            "C": "tiredly",
+            "D": "tire"
+          },
+          "correct_answer": "B",
+          "hint_text": "Chuyến đi là nguyên nhân gây mệt mỏi → dùng -ing."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "She felt ___ when she didn't get the job.",
+          "options": {
+            "A": "disappointing",
+            "B": "disappointingly",
+            "C": "disappoint",
+            "D": "disappointed"
+          },
+          "correct_answer": "D",
+          "hint_text": "Cô ấy cảm thấy thất vọng → dùng -ed."
+        },
+        {
+          "quiz_id": "Q_G_ed_ing_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which word CANNOT be used in the sentence: 'The news was very ___.'?",
+          "options": {
+            "A": "worrying",
+            "B": "surprising",
+            "C": "worried",
+            "D": "exciting"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Worried' mô tả cảm xúc của người, không thể dùng cho 'the news'."
+        }
+      ]
+    },
+    {
+      "lesson_id": "G_a1_articles_a_an_the",
+      "lesson_name": "Articles: 'a', 'an', 'the'",
+      "order": 3,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "grammar",
+        "source_html": "course/grammar/Articles_ 'a', 'an', 'the' _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Lý thuyết ngữ pháp",
+            "body": "### Articles: 'a', 'an', 'the'\n\n---\n\n#### Nghề nghiệp (Jobs)\n\nKhi nói về nghề nghiệp của ai đó, chúng ta thường dùng **a / an**.\n\n- He's **an** architect.\n- She's **a** scientist.\n- My grandmother was **a** teacher.\n\n---\n\n#### Danh từ đếm được số ít (Singular nouns)\n\nDanh từ đếm được số ít luôn cần một mạo từ: **a / an** hoặc **the** (hoặc một từ hạn định khác như *my, your, this, that*).\n\n**a / an — mạo từ không xác định**: dùng khi đề cập đến sự vật lần đầu, hoặc sự vật thuộc về một nhóm/loại.\n\n- I saw **a** good film yesterday.\n- Do you want **a** drink?\n\n**Chọn 'a' hay 'an'?** Dựa vào **âm thanh** (phát âm), không phải chữ cái:\n- Dùng **a** khi từ tiếp theo bắt đầu bằng **âm phụ âm**.\n- Dùng **an** khi từ tiếp theo bắt đầu bằng **âm nguyên âm**.\n\nVí dụ đặc biệt:\n- She has **a** university degree. *(university phát âm là /juː/ — âm phụ âm)*\n- It took me **an** hour to get home. *(hour phát âm là /aʊ/ — âm nguyên âm)*\n\n**the — mạo từ xác định**: dùng khi người nghe đã biết đối tượng đang được nhắc đến (vì đã đề cập trước, hoặc chỉ có một).\n\n- I'm going to take **the** dog for a walk.\n- Have you seen **the** car key?\n- They go to **the** school next to **the** bridge.\n\n---\n\n#### Sự vật nói chung (Things in general)\n\nKhi nói về sự vật nói chung, dùng danh từ số nhiều hoặc danh từ không đếm được **không có mạo từ**.\n\n- **Birds** eat worms.\n- **Water** freezes at 0°C.\n- **Children** need a lot of sleep.\n\n---\n\n#### Một nhóm sự vật cụ thể (Particular groups)\n\nKhi nói về một nhóm sự vật cụ thể, dùng **the**.\n\n- We went to the zoo and saw **the** kangaroos. *(những con kangaroo cụ thể trong sở thú đó, không phải kangaroo nói chung)*"
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_G_art1_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He's ___ architect.",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "—"
+          },
+          "correct_answer": "B",
+          "hint_text": "'Architect' bắt đầu bằng âm nguyên âm /ɑː/ → dùng 'an'."
+        },
+        {
+          "quiz_id": "Q_G_art1_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She has ___ university degree.",
+          "options": {
+            "A": "an",
+            "B": "the",
+            "C": "a",
+            "D": "—"
+          },
+          "correct_answer": "C",
+          "hint_text": "'University' phát âm bắt đầu bằng /j/ (phụ âm) → dùng 'a'."
+        },
+        {
+          "quiz_id": "Q_G_art1_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "It took me ___ hour to get home.",
+          "options": {
+            "A": "a",
+            "B": "the",
+            "C": "an",
+            "D": "—"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Hour' phát âm bắt đầu bằng /aʊ/ (nguyên âm) → dùng 'an'."
+        },
+        {
+          "quiz_id": "Q_G_art1_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I'm going to take ___ dog for a walk.",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "—",
+            "D": "the"
+          },
+          "correct_answer": "D",
+          "hint_text": "Người nghe đã biết con chó đó là con chó nào → dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art1_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I saw ___ good film yesterday.",
+          "options": {
+            "A": "the",
+            "B": "an",
+            "C": "—",
+            "D": "a"
+          },
+          "correct_answer": "D",
+          "hint_text": "Đây là lần đầu đề cập đến bộ phim → dùng 'a'."
+        },
+        {
+          "quiz_id": "Q_G_art1_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "___ birds eat worms. (nói về chim nói chung)",
+          "options": {
+            "A": "A",
+            "B": "The",
+            "C": "An",
+            "D": "—"
+          },
+          "correct_answer": "D",
+          "hint_text": "Khi nói về sự vật nói chung, không dùng mạo từ với danh từ số nhiều."
+        },
+        {
+          "quiz_id": "Q_G_art1_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "We went to the zoo and saw ___ kangaroos. (những con kangaroo trong sở thú đó)",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "—"
+          },
+          "correct_answer": "C",
+          "hint_text": "Nhóm kangaroo cụ thể trong sở thú → dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art1_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "My grandmother was ___ teacher.",
+          "options": {
+            "A": "the",
+            "B": "a",
+            "C": "an",
+            "D": "—"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nghề nghiệp → dùng 'a/an'. 'Teacher' bắt đầu bằng phụ âm → 'a'."
+        },
+        {
+          "quiz_id": "Q_G_art1_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Have you seen ___ car key?",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "—",
+            "D": "the"
+          },
+          "correct_answer": "D",
+          "hint_text": "Chìa khóa xe cụ thể mà cả hai đều biết → dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art1_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "___ water freezes at 0°C.",
+          "options": {
+            "A": "The",
+            "B": "A",
+            "C": "—",
+            "D": "An"
+          },
+          "correct_answer": "C",
+          "hint_text": "Nước nói chung (danh từ không đếm được) → không dùng mạo từ."
+        },
+        {
+          "quiz_id": "Q_G_art1_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Do you want ___ drink?",
+          "options": {
+            "A": "the",
+            "B": "—",
+            "C": "an",
+            "D": "a"
+          },
+          "correct_answer": "D",
+          "hint_text": "Đề cập đến đồ uống lần đầu, không xác định → dùng 'a'."
+        },
+        {
+          "quiz_id": "Q_G_art1_12",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "We use 'a/an' (not 'the') when …",
+          "options": {
+            "A": "the listener already knows which thing we are talking about",
+            "B": "we talk about something for the first time",
+            "C": "there is only one of the thing",
+            "D": "we talk about a particular group of things"
+          },
+          "correct_answer": "B",
+          "hint_text": "'a/an' = mạo từ không xác định: dùng khi đề cập lần đầu hoặc sự vật là một trong nhiều."
+        },
+        {
+          "quiz_id": "Q_G_art1_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "She's ___ scientist.",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "—"
+          },
+          "correct_answer": "A",
+          "hint_text": "Nghề nghiệp → 'a/an'. 'Scientist' bắt đầu bằng phụ âm /s/ → 'a'."
+        },
+        {
+          "quiz_id": "Q_G_art1_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "They go to ___ school next to ___ bridge.",
+          "options": {
+            "A": "a … a",
+            "B": "the … the",
+            "C": "a … the",
+            "D": "the … a"
+          },
+          "correct_answer": "B",
+          "hint_text": "Cả trường và cây cầu đã được xác định cụ thể → cả hai dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art1_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence is CORRECT?",
+          "options": {
+            "A": "Children needs a lot of sleep.",
+            "B": "The children need a lot of sleep. (nói chung)",
+            "C": "Children need a lot of sleep.",
+            "D": "A children need a lot of sleep."
+          },
+          "correct_answer": "C",
+          "hint_text": "Nói về trẻ em nói chung → danh từ số nhiều không có mạo từ."
+        },
+        {
+          "quiz_id": "Q_G_art1_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "The choice between 'a' and 'an' depends on …",
+          "options": {
+            "A": "the spelling of the following word",
+            "B": "the meaning of the following word",
+            "C": "the pronunciation (sound) of the following word",
+            "D": "whether the noun is countable or uncountable"
+          },
+          "correct_answer": "C",
+          "hint_text": "Dùng 'a' hay 'an' phụ thuộc vào âm (phát âm), không phải chữ cái."
+        }
+      ]
+    },
+    {
+      "lesson_id": "G_a1_articles_the_no_article",
+      "lesson_name": "Articles: 'the' or no article",
+      "order": 4,
+      "estimated_minutes": 25,
+      "audio_url": "",
+      "metadata": {
+        "skill": "grammar",
+        "source_html": "course/grammar/Articles_ 'the' or no article _ LearnEnglish.html"
+      },
+      "content": {
+        "theory_pages": [
+          {
+            "title": "Lý thuyết ngữ pháp",
+            "body": "### Articles: 'the' or no article\n\n---\n\n#### Cụm từ thông dụng (Common phrases)\n\nChúng ta thường **không dùng mạo từ** trong các cụm từ với **bed, work, home**:\n\n- go to **bed** / be in **bed**\n- go to **work** / be at **work** / start **work** / finish **work**\n- go **home** / be at **home** / get **home** / stay at **home**\n\nTương tự, không dùng mạo từ với **school, university, prison, hospital** khi nói về vai trò chính của địa điểm:\n\n- start **school** / go to **school** / be at **school**\n- go to **university** / be at **university**\n- be sent to **prison** / go to **prison** / be in **prison**\n- go to **hospital** / be in **hospital**\n\n**Ngoại lệ**: Dùng **the** khi ai đó chỉ đang *ghé thăm* địa điểm, không phải là học sinh/tù nhân/bệnh nhân ở đó:\n\n- My son has started school now. I went to **the school** to meet his teacher.\n- I went to **the prison** a lot when I was a social worker.\n- I'm at **the hospital**. My sister has just had a baby.\n\n---\n\n#### Tên địa danh (Place names)\n\n**Không dùng 'the'** với:\n- Châu lục: Africa, Asia, Europe\n- Hầu hết các quốc gia: India, Ghana, Peru, Denmark\n- Thành phố: Addis Ababa, Hanoi, New York, Moscow\n- Hồ: Lake Victoria, Lake Superior, Lake Tanganyika\n- Núi (đơn lẻ): Mount Everest, Mount Kilimanjaro, Mount Elbrus\n- Trường đại học: Cardiff University, Harvard University, Manchester University\n\n**Dùng 'the'** với:\n- Quốc gia có *United*: **the** United Arab Emirates, **the** United Kingdom, **the** United States of America\n- Một số ngoại lệ: **the** Bahamas, **the** Gambia\n- Biển và đại dương: **the** Atlantic, **the** Pacific, **the** Mediterranean\n- Dãy núi: **the** Andes, **the** Himalayas, **the** Alps\n- Sông: **the** Nile, **the** Amazon, **the** Yangtze\n- Trường đại học có *of*: **the** University of Cape Town, **the** University of Delhi, **the** University of Tokyo"
+          }
+        ],
+        "reading_passage": ""
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_G_art2_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I'm going to ___ bed. (I'm tired)",
+          "options": {
+            "A": "the",
+            "B": "a",
+            "C": "—",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Go to bed' là cụm từ cố định, không dùng mạo từ."
+        },
+        {
+          "quiz_id": "Q_G_art2_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She goes to ___ university in London.",
+          "options": {
+            "A": "a",
+            "B": "the",
+            "C": "—",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Go to university' (là sinh viên) → không dùng mạo từ."
+        },
+        {
+          "quiz_id": "Q_G_art2_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I went to ___ school to meet his teacher.",
+          "options": {
+            "A": "—",
+            "B": "a",
+            "C": "an",
+            "D": "the"
+          },
+          "correct_answer": "D",
+          "hint_text": "Người đó đến thăm trường (không phải học sinh) → dùng 'the school'."
+        },
+        {
+          "quiz_id": "Q_G_art2_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mount Everest is in ___ Himalayas.",
+          "options": {
+            "A": "—",
+            "B": "a",
+            "C": "an",
+            "D": "the"
+          },
+          "correct_answer": "D",
+          "hint_text": "Dãy núi (mountain ranges) dùng 'the': the Himalayas."
+        },
+        {
+          "quiz_id": "Q_G_art2_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She lives in ___ United Kingdom.",
+          "options": {
+            "A": "—",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tên quốc gia có 'United' → dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art2_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He's studying at ___ Harvard University.",
+          "options": {
+            "A": "the",
+            "B": "a",
+            "C": "an",
+            "D": "—"
+          },
+          "correct_answer": "D",
+          "hint_text": "Tên trường đại học bình thường (không có 'of') → không dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art2_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She studied at ___ University of Tokyo.",
+          "options": {
+            "A": "—",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "Tên trường đại học có 'of' → dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art2_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He was sent to ___ prison for ten years.",
+          "options": {
+            "A": "a",
+            "B": "the",
+            "C": "an",
+            "D": "—"
+          },
+          "correct_answer": "D",
+          "hint_text": "'Be sent to prison' = bị tù giam → không dùng mạo từ."
+        },
+        {
+          "quiz_id": "Q_G_art2_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I'm at ___ hospital. My sister has just had a baby.",
+          "options": {
+            "A": "—",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "Người đó đến thăm bệnh viện (không phải bệnh nhân) → dùng 'the hospital'."
+        },
+        {
+          "quiz_id": "Q_G_art2_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The Amazon is ___ river in South America.",
+          "options": {
+            "A": "a",
+            "B": "the",
+            "C": "—",
+            "D": "an"
+          },
+          "correct_answer": "A",
+          "hint_text": "Đây là câu mô tả chung → 'a river'. (Nhưng khi dùng tên riêng: 'the Amazon'.)"
+        },
+        {
+          "quiz_id": "Q_G_art2_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She's at ___ work right now. Call her later.",
+          "options": {
+            "A": "the",
+            "B": "a",
+            "C": "—",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "'Be at work' là cụm từ cố định, không dùng mạo từ."
+        },
+        {
+          "quiz_id": "Q_G_art2_12",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which place name uses 'the'?",
+          "options": {
+            "A": "Mount Kilimanjaro",
+            "B": "Lake Victoria",
+            "C": "the Nile",
+            "D": "New York"
+          },
+          "correct_answer": "C",
+          "hint_text": "Sông dùng 'the': the Nile, the Amazon, the Yangtze."
+        },
+        {
+          "quiz_id": "Q_G_art2_13",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which sentence is CORRECT?",
+          "options": {
+            "A": "My son goes to the school every day.",
+            "B": "My son goes to school every day.",
+            "C": "My son goes to a school every day.",
+            "D": "My son goes to an school every day."
+          },
+          "correct_answer": "B",
+          "hint_text": "Học sinh đi học → 'go to school' không có mạo từ."
+        },
+        {
+          "quiz_id": "Q_G_art2_14",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "We swam in ___ Mediterranean.",
+          "options": {
+            "A": "a",
+            "B": "—",
+            "C": "an",
+            "D": "the"
+          },
+          "correct_answer": "D",
+          "hint_text": "Biển và đại dương dùng 'the': the Mediterranean, the Atlantic."
+        },
+        {
+          "quiz_id": "Q_G_art2_15",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "She visited ___ Bahamas last summer.",
+          "options": {
+            "A": "—",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "The Bahamas là ngoại lệ — tên quốc gia dùng 'the'."
+        },
+        {
+          "quiz_id": "Q_G_art2_16",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Every Friday my grandad goes to ___ prison to teach a maths class.",
+          "options": {
+            "A": "—",
+            "B": "a",
+            "C": "the",
+            "D": "an"
+          },
+          "correct_answer": "C",
+          "hint_text": "Ông không phải tù nhân — ông chỉ đến thăm/làm việc ở đó → dùng 'the prison'."
+        },
+        {
+          "quiz_id": "Q_G_art2_17",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which group of place names ALL use 'the'?",
+          "options": {
+            "A": "the Andes, the Amazon, the United States",
+            "B": "the India, the Paris, the Amazon",
+            "C": "the Everest, the Nile, the Asia",
+            "D": "the Harvard University, the Nile, the Andes"
+          },
+          "correct_answer": "A",
+          "hint_text": "Dãy núi (the Andes), sông (the Amazon), quốc gia có United (the United States) đều dùng 'the'."
+        }
+      ]
+    }
+  ]
+}

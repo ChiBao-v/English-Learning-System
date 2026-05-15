@@ -1,0 +1,1187 @@
+{
+  "course_id": "listening_a1",
+  "course_name": "Listening — A1",
+  "course_description": "Bốn bài A1 (British Council): Request from your boss, Voicemail, Booking a table, Business cards. Tab **Tài liệu**: từ vựng/cụm chuẩn bị dạng text; tab **Bài tập**: audio, quiz (~20 câu/bài) và transcript (nút hiện/ẩn).",
+  "course_level": "beginner",
+  "course_skill": "listening",
+  "course_cefr_level": "A1",
+  "lessons": [
+    {
+      "lesson_id": "L_a1_request_from_your_boss",
+      "lesson_name": "A request from your boss",
+      "order": 1,
+      "estimated_minutes": 30,
+      "audio_url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LE_listening_A1_A_request_from_your_boss.mp3",
+      "metadata": {
+        "skill": "listening",
+        "source_html": "course/listening/A request from your boss _ LearnEnglish.html",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/Matching_MjI4NDU=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/ReorderingVertical_MjI4NDY=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**A request from your boss** — từ vựng về mức độ **gấp / ưu tiên** (British Council A1).\n\nCùng một dạng ý có thể nói theo hai hướng: việc cần ưu tiên ngay, hoặc việc **không** cần vội.\n\n- **Gấp / ưu tiên:** *This is a priority.* — *It's important.* — *Do this first.*\n- **Không gấp / không vội:** *There's no hurry.* — *Take your time.* — *Do it when you have time.*\n\nBản ghi lời thoại đầy đủ (*transcript*) nằm trong tab **Bài tập** — dùng nút **Hiện transcript** dưới trình phát audio."
+          }
+        ],
+        "transcript": "## Transcript\n\n**Susanne**: Hi, Mario. Can you help me prepare some things for the next month?\n\n**Mario**: OK, sure. What can I help you with?\n\n**Susanne**: I need to visit the customer in Germany. It's important.\n\n**Mario**: What can I do to help?\n\n**Susanne**: Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.\n\n**Mario**: Right. I'll do it today.\n\n**Susanne**: Thanks. This next task is also important. Can you invite everyone to the next team meeting?\n\n**Mario**: Yes, I will.\n\n**Susanne**: But first you need to book a meeting room. After that, please send everyone an email about it.\n\n**Mario**: Yes, of course.\n\n**Susanne**: And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.\n\n**Mario**: Sure, no problem. I can do it this week.\n\n**Susanne**: There's no hurry. Take your time."
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_rb_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\nTrong hoạt động matching, cụm nào mô tả việc *liên lạc bằng văn bản với khách hàng* trước chuyến thăm?",
+          "options": {
+            "A": "Visit the customer",
+            "B": "Send an email to the customer",
+            "C": "Give a presentation",
+            "D": "Write a report"
+          },
+          "correct_answer": "B",
+          "hint_text": "Gamedata Task 1 có cụm “send an email to the customer”."
+        },
+        {
+          "quiz_id": "Q_rb_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\nCụm nào khớp với việc *đặt chỗ phòng* để họp nhóm?",
+          "options": {
+            "A": "Reserve a meeting room",
+            "B": "Invite people to the meeting",
+            "C": "Send an email to the customer",
+            "D": "Visit the customer"
+          },
+          "correct_answer": "A",
+          "hint_text": "Susanne: “first you need to book a meeting room”."
+        },
+        {
+          "quiz_id": "Q_rb_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\n“Give a presentation” trong bài matching gắn với ai trong hội thoại?",
+          "options": {
+            "A": "Mario — anh ấy thuyết trình cho sếp",
+            "B": "Susanne — cô ấy nói cô phải thuyết trình cho quản lý",
+            "C": "The customer in Germany",
+            "D": "Everyone in the team meeting"
+          },
+          "correct_answer": "B",
+          "hint_text": "Susanne: “I have to give a presentation to our managers”."
+        },
+        {
+          "quiz_id": "Q_rb_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Theo transcript, Susanne yêu cầu Mario làm gì *trước tiên*?",
+          "options": {
+            "A": "Đặt phòng họp",
+            "B": "Gửi email cho khách hàng để hỏi lịch Susanne có thể tới thăm tuần tới",
+            "C": "Viết báo cáo ngắn về dự án",
+            "D": "Mời mọi người họp nhóm"
+          },
+          "correct_answer": "B",
+          "hint_text": "“Please do this first. It's a priority and very urgent.”"
+        },
+        {
+          "quiz_id": "Q_rb_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Trước khi mời mọi người dự họp nhóm, Mario cần làm gì?",
+          "options": {
+            "A": "Viết báo cáo",
+            "B": "Đặt (book) phòng họp",
+            "C": "Thăm khách hàng ở Đức",
+            "D": "Thuyết trình cho quản lý"
+          },
+          "correct_answer": "B",
+          "hint_text": "“But first you need to book a meeting room.”"
+        },
+        {
+          "quiz_id": "Q_rb_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Việc nào Susanne mô tả là *“not too urgent”*?",
+          "options": {
+            "A": "Gửi email cho khách hàng",
+            "B": "Mời cả team họp",
+            "C": "Viết báo cáo ngắn về dự án mới",
+            "D": "Đặt phòng họp"
+          },
+          "correct_answer": "C",
+          "hint_text": "It's not too urgent — báo cáo."
+        },
+        {
+          "quiz_id": "Q_rb_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Ai sẽ *give a presentation* cho các quản lý tháng tới?",
+          "options": {
+            "A": "Mario",
+            "B": "Susanne",
+            "C": "Khách hàng",
+            "D": "Không ai trong hội thoại"
+          },
+          "correct_answer": "B",
+          "hint_text": "“I have to give a presentation to our managers”."
+        },
+        {
+          "quiz_id": "Q_rb_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Susanne cần đi thăm khách hàng ở đâu?",
+          "options": {
+            "A": "Pháp",
+            "B": "Đức",
+            "C": "Ý",
+            "D": "Anh"
+          },
+          "correct_answer": "B",
+          "hint_text": "“visit the customer in Germany”."
+        },
+        {
+          "quiz_id": "Q_rb_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mario nói anh sẽ gửi email cho khách *khi nào*?",
+          "options": {
+            "A": "Tuần sau",
+            "B": "Hôm nay",
+            "C": "Sau hai tuần",
+            "D": "Khi rảnh, không rõ"
+          },
+          "correct_answer": "B",
+          "hint_text": "“I'll do it today.”"
+        },
+        {
+          "quiz_id": "Q_rb_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Susanne gợi ý thời gian nào để Mario viết báo cáo?",
+          "options": {
+            "A": "Trong ngày hôm nay bắt buộc",
+            "B": "Chỉ được viết sau khi họp xong",
+            "C": "Trong khoảng hai hoặc ba tuần tới, khi rảnh",
+            "D": "Không bao giờ cần viết"
+          },
+          "correct_answer": "C",
+          "hint_text": "“sometime in the next two or three weeks”."
+        },
+        {
+          "quiz_id": "Q_rb_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\nTheo thứ tự công việc hợp lý trong bài, *bước đầu tiên* là gì?",
+          "options": {
+            "A": "Reserve a meeting room",
+            "B": "Send an email to the customer",
+            "C": "Invite people to the meeting",
+            "D": "Write a report"
+          },
+          "correct_answer": "B",
+          "hint_text": "Gamedata Task 2 bắt đầu bằng “Send an email…”; transcript: email trước."
+        },
+        {
+          "quiz_id": "Q_rb_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\nSau khi đã *book* phòng họp, Mario cần làm gì tiếp theo?",
+          "options": {
+            "A": "Viết báo cáo dài",
+            "B": "Mời mọi người họp và gửi email thông báo",
+            "C": "Bay sang Đức",
+            "D": "Gửi email cho khách lần hai"
+          },
+          "correct_answer": "B",
+          "hint_text": "“After that, please send everyone an email about it.”"
+        },
+        {
+          "quiz_id": "Q_rb_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Cụm *“And finally”* trong hội thoại dẫn tới yêu cầu nào?",
+          "options": {
+            "A": "Gửi email khách hàng",
+            "B": "Đặt phòng họp",
+            "C": "Mời họp team",
+            "D": "Viết báo cáo ngắn về dự án mới"
+          },
+          "correct_answer": "D",
+          "hint_text": "“And finally, can you write a short report…”"
+        },
+        {
+          "quiz_id": "Q_rb_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Khi Mario nói anh có thể viết báo cáo *this week*, Susanne đáp thế nào?",
+          "options": {
+            "A": "Bắt buộc phải xong trong tuần này",
+            "B": "“There's no hurry. Take your time.”",
+            "C": "Hủy yêu cầu viết báo cáo",
+            "D": "Nhờ khách hàng viết hộ"
+          },
+          "correct_answer": "B",
+          "hint_text": "Cuối đoạn hội thoại."
+        },
+        {
+          "quiz_id": "Q_rb_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“This next task is also important” (sau lời cảm ơn) nói về việc gì?",
+          "options": {
+            "A": "Viết báo cáo",
+            "B": "Mời mọi người tới họp nhóm tiếp theo",
+            "C": "Thăm khách hàng",
+            "D": "Thuyết trình cho sếp"
+          },
+          "correct_answer": "B",
+          "hint_text": "“Can you invite everyone to the next team meeting?”"
+        },
+        {
+          "quiz_id": "Q_rb_16",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Susanne nói việc viết báo cáo về dự án mới rất gấp (very urgent).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "“It's not too urgent.”"
+        },
+        {
+          "quiz_id": "Q_rb_17",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Theo đoạn hội thoại, Mario là người phải sang Đức thăm khách hàng.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Susanne nói *she* needs to visit the customer."
+        },
+        {
+          "quiz_id": "Q_rb_18",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Email tới khách hàng cần hỏi thời điểm Susanne có thể tới thăm trong tuần tới.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "“Ask them when I can visit them next week.”"
+        },
+        {
+          "quiz_id": "Q_rb_19",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Cụm “Take your time” có nghĩa Susanne muốn báo cáo phải nộp ngay trong ngày.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Take your time ≈ không vội."
+        },
+        {
+          "quiz_id": "Q_rb_20",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Task 1 (gamedata matching) có một mục là “give a presentation”.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Nội dung tải từ Matching_MjI4NDU=.xml."
+        }
+      ]
+    },
+    {
+      "lesson_id": "L_a1_voicemail_message",
+      "lesson_name": "A voicemail message",
+      "order": 2,
+      "estimated_minutes": 30,
+      "audio_url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LE_listening_A1_A_voicemail_message.mp3",
+      "metadata": {
+        "skill": "listening",
+        "source_html": "course/listening/A voicemail message _ LearnEnglish.html",
+        "gamedata_prep": "http://gamedata.britishcouncil.org/d/Matching_MjI4MDk=.xml",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/MultipleChoice_MjI4MTA=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/ReorderingVertical_MjI4MTE=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**A voicemail message** — từ vựng trong phần chuẩn bị (British Council A1).\n\n- **colleague** — người cùng làm việc với mình (*someone you work with*).\n- **brochure** — cuốn sách nhỏ / tập tài liệu có thông tin về sản phẩm (*a small book with information about a product*).\n- **products** — những thứ một công ty làm ra và bán (*things a company makes and sells*).\n- **office** — văn phòng.\n- **price / prices** — giá.\n\n**Cụm thường gặp trong tin nhắn thoại:** *leave a message* — *call you back* — *Could you please call me when you are back in the office?* — *I look forward to hearing from you.*\n\nBản ghi lời thoại đầy đủ (*transcript*) nằm trong tab **Bài tập** — dùng nút **Hiện transcript** dưới trình phát audio."
+          }
+        ],
+        "transcript": "## Transcript\n\n**John**: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.\n\n**Marina**: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.\n\nI need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.\n\nAlso, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.\n\nThanks a lot. I look forward to hearing from you."
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_vm_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\nTheo bài *Preparation* (matching từ vựng), *colleague* có nghĩa gần nhất là?",
+          "options": {
+            "A": "Một cuốn sách nhỏ có thông tin sản phẩm (brochure)",
+            "B": "Người cùng làm việc với mình",
+            "C": "Giá (price)",
+            "D": "Văn phòng (office)"
+          },
+          "correct_answer": "B",
+          "hint_text": "Gamedata: 'someone you work with — a colleague'."
+        },
+        {
+          "quiz_id": "Q_vm_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\n*Brochure* trong bài có nghĩa là gì?",
+          "options": {
+            "A": "Giá cả",
+            "B": "Sản phẩm",
+            "C": "Ấn phẩm/tập tài liệu giới thiệu sản phẩm",
+            "D": "Đồng nghiệp"
+          },
+          "correct_answer": "C",
+          "hint_text": "‘a small book with information about a product’."
+        },
+        {
+          "quiz_id": "Q_vm_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Marina làm việc cho công ty nào?",
+          "options": {
+            "A": "Old Time Toys",
+            "B": "New Time Toys",
+            "C": "Alex Toys",
+            "D": "British Council"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘calling from Old Time Toys’."
+        },
+        {
+          "quiz_id": "Q_vm_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Ai đã cho Marina số điện thoại của John?",
+          "options": {
+            "A": "John",
+            "B": "Alex",
+            "C": "Marina",
+            "D": "Boss"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘Your colleague Alex gave me your phone number’."
+        },
+        {
+          "quiz_id": "Q_vm_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Marina muốn John làm gì khi trở lại văn phòng?",
+          "options": {
+            "A": "Gửi fax ngay",
+            "B": "Gọi lại cho cô ấy",
+            "C": "Đến cửa hàng",
+            "D": "Xóa tin nhắn"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘Could you please call me when you are back in the office?’"
+        },
+        {
+          "quiz_id": "Q_vm_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Số điện thoại Marina để lại là gì (viết liền như trong bài nghe)?",
+          "options": {
+            "A": "0208 6656721",
+            "B": "0208 6557621",
+            "C": "0208 6576621",
+            "D": "0802 6557621"
+          },
+          "correct_answer": "B",
+          "hint_text": "0-2-0-8, 6-5-5-7-6-2-1."
+        },
+        {
+          "quiz_id": "Q_vm_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Địa chỉ email của Marina (đúng theo transcript) gần nhất với:",
+          "options": {
+            "A": "marina.silva@oldtime_toys.com",
+            "B": "marina.silva@oldtime-toys.com",
+            "C": "marina@oldtoys.com",
+            "D": "silva.marina@oldtime.com"
+          },
+          "correct_answer": "B",
+          "hint_text": "OLDTIME hyphen toys dot com → oldtime-toys; dấu chấm giữa marina và silva."
+        },
+        {
+          "quiz_id": "Q_vm_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Theo nội dung audio, John làm việc tại Old Time Toys.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Marina gọi từ Old Time Toys; John chỉ nhắn hộp thư thoại cá nhân."
+        },
+        {
+          "quiz_id": "Q_vm_09",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Marina muốn thông tin về sản phẩm mới, brochure và giá.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Cô nói rõ ‘information on your new products’, brochure và prices."
+        },
+        {
+          "quiz_id": "Q_vm_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\nTrong đúng trình tự lời nhắn, việc *đầu tiên* Marina làm là gì?",
+          "options": {
+            "A": "Đọc địa chỉ email",
+            "B": "Giới thiệu bản thân",
+            "C": "Nêu số điện thoại",
+            "D": "Cảm ơn John"
+          },
+          "correct_answer": "B",
+          "hint_text": "Gamedata Task 2: ‘Marina introduces herself’ đứng đầu."
+        },
+        {
+          "quiz_id": "Q_vm_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\nNgay sau khi giới thiệu, Marina nói về điều gì?",
+          "options": {
+            "A": "Brochure và giá",
+            "B": "Cô ấy biết số John như thế nào",
+            "C": "Số điện thoại",
+            "D": "Giờ làm việc"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘how she got John's phone number’ (Alex)."
+        },
+        {
+          "quiz_id": "Q_vm_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\nTrước khi xin brochure và giá, Marina đã nói rõ nhu cầu nào?",
+          "options": {
+            "A": "Muốn mời John đi cà phê",
+            "B": "Cần thông tin về sản phẩm mới và nhờ gọi lại",
+            "C": "Muốn đổi tên công ty",
+            "D": "Hỏi John có ở văn phòng không"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nêu nhu cầu → nhờ gọi lại; sau đó mới email/brochure."
+        },
+        {
+          "quiz_id": "Q_vm_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "John nói gì về tình trạng hiện tại của anh ấy?",
+          "options": {
+            "A": "Anh ấy đang họp",
+            "B": "Anh ấy không có ở đây lúc này",
+            "C": "Anh ấy nghỉ phép dài",
+            "D": "Anh ấy từ chối mọi cuộc gọi"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘I'm not here at the moment’."
+        },
+        {
+          "quiz_id": "Q_vm_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Marina đánh chữ cái họ mình thế nào?",
+          "options": {
+            "A": "S-I-L-V-A",
+            "B": "S-I-L-V-A-H",
+            "C": "S-Y-L-V-A",
+            "D": "S-I-L-B-A"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘S-I-L-V-A’."
+        },
+        {
+          "quiz_id": "Q_vm_15",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Alex được nói là người sẽ trực tiếp cung cấp thông tin sản phẩm cho Marina.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Alex cho số John; ‘She said you can help me’ nói về John."
+        },
+        {
+          "quiz_id": "Q_vm_16",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\nTừ *products* trong phần chuẩn bị có nghĩa gần nhất với:",
+          "options": {
+            "A": "Giá",
+            "B": "Tài liệu quảng cáo",
+            "C": "Hàng hóa / sản phẩm công ty làm ra và bán",
+            "D": "Đồng nghiệp"
+          },
+          "correct_answer": "C",
+          "hint_text": "Gamedata: ‘things a company makes and sells’."
+        },
+        {
+          "quiz_id": "Q_vm_17",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Marina lần đầu gọi cho John để bán hàng trực tiếp trong cuộc gọi.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Cô để lại voicemail và nhờ gọi lại / gửi email."
+        },
+        {
+          "quiz_id": "Q_vm_18",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Marina kết thúc lời nhắn bằng thái độ nào?",
+          "options": {
+            "A": "Tức giận",
+            "B": "Hối hận",
+            "C": "Lịch sự, mong nhận phản hồi",
+            "D": "Yêu cầu gặp mặt ngay"
+          },
+          "correct_answer": "C",
+          "hint_text": "‘Thanks a lot. I look forward to hearing from you.’"
+        },
+        {
+          "quiz_id": "Q_vm_19",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Trong transcript, email dùng dấu *gạch ngang* (hyphen) trong phần ‘oldtime-toys’.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘O-L-D-T-I-M-E hyphen toys’."
+        },
+        {
+          "quiz_id": "Q_vm_20",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Marina nhắc tới *brochure* vì cô muốn nhận thêm thông tin dạng nào từ John?",
+          "options": {
+            "A": "Hóa đơn thanh toán",
+            "B": "Tài liệu giới thiệu sản phẩm",
+            "C": "Hợp đồng luật sư",
+            "D": "Lịch nghỉ phép"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘email me your new brochure’."
+        }
+      ]
+    },
+    {
+      "lesson_id": "L_a1_booking_table",
+      "lesson_name": "Booking a table",
+      "order": 3,
+      "estimated_minutes": 30,
+      "audio_url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LE_listening_A1_Booking_a_table.mp3",
+      "metadata": {
+        "skill": "listening",
+        "source_html": "course/listening/Booking a table _ LearnEnglish.html",
+        "gamedata_prep": "http://gamedata.britishcouncil.org/d/Grouping_MjI4NTA=.xml",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/MultipleChoice_MjI4NTE=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/ReorderingVertical_MjI4NTI=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**Booking a table** — cụm giao tiếp đặt bàn nhà hàng (British Council A1). Bài có **hai lượt** gọi điện (đặt lần đầu rồi gọi lại để đổi số người / giờ).\n\n- **Bắt đầu / yêu cầu:** *Can I book a table for tomorrow night, please?* — *I called earlier to book a table for four…* — *Can I make it for six instead?* — *Can I make it for six people?* — *Is it possible to change the time as well?*\n- **Nhân viên hỏi thông tin:** *How many people is it for?* — *And what time would you like?* — *What name is it?* — *What name was it?*\n- **Thời gian & xếp chỗ:** *tomorrow night* — *about eight, eight thirty maybe* — *half past seven* / *half seven* — *nine* — *eight o'clock* — *six o'clock* — *We're pretty busy…* — *a bigger table* — *nearer the kitchen* — *See you tomorrow.*\n\nBản ghi lời thoại đầy đủ (*transcript*) nằm trong tab **Bài tập** — dùng nút **Hiện transcript** dưới trình phát audio."
+          }
+        ],
+        "transcript": "## Transcript\n\n**Staff**: Hello, Gino's.\n\n**Jamie**: Hi. Can I book a table for tomorrow night, please?\n\n**Staff**: How many people is it for?\n\n**Jamie**: Four.\n\n**Staff**: And what time would you like?\n\n**Jamie**: About eight, eight thirty maybe?\n\n**Staff**: Let's see ... We're pretty busy tomorrow, so I can do half past seven or nine.\n\n**Jamie**: Oh. OK, then. Half seven, please.\n\n**Staff**: What name is it?\n\n**Jamie**: Jamie.\n\n**Staff**: J-A- ...?\n\n**Jamie**: M-I-E\n\n**Staff**: OK, so that's a table for four at half past seven tomorrow evening.\n\n**Jamie**: Great. Thanks! Bye.\n\n**Staff**: Bye.\n\n---\n\n**Staff**: Hello, Gino's.\n\n**Jamie**: Hi, I called earlier to book a table for four and I was wondering if I can make it for six instead?\n\n**Staff**: Ah, what name was it?\n\n**Jamie**: It's Jamie.\n\n**Staff**: Table for four at half past seven. So you want to change it to 6 o'clock?\n\n**Jamie**: No, sorry. Can I make it for six people?\n\n**Staff**: Oh, I see. Sorry! That shouldn't be a problem. I can move you to a bigger table but it will be nearer the kitchen. Is that OK?\n\n**Jamie**: No problem. Is it possible to change the time as well? Make it a little bit later?\n\n**Staff**: Ah ... yeah, we can. Is eight OK for you?\n\n**Jamie**: Perfect, thanks!\n\n**Staff**: Lovely. See you tomorrow, then.\n\n**Jamie**: Thanks! Bye!\n\n**Staff**: Thanks. Ciao!"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_bt_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Nhà hàng tên gì?",
+          "options": {
+            "A": "Jamie's",
+            "B": "Gino's",
+            "C": "Mario's",
+            "D": "Kitchen's"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘Hello, Gino's.’"
+        },
+        {
+          "quiz_id": "Q_bt_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Lần đầu Jamie muốn đặt bàn cho *tối nào*?",
+          "options": {
+            "A": "Tối nay",
+            "B": "Sáng mai",
+            "C": "Tối mai",
+            "D": "Trưa ngày kia"
+          },
+          "correct_answer": "C",
+          "hint_text": "‘tomorrow night’ (khớp gamedata MC)."
+        },
+        {
+          "quiz_id": "Q_bt_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Jamie muốn bàn mấy người trong lần đặt đầu tiên?",
+          "options": {
+            "A": "3 người",
+            "B": "4 người",
+            "C": "5 người",
+            "D": "6 người"
+          },
+          "correct_answer": "B",
+          "hint_text": "Jamie: ‘Four.’"
+        },
+        {
+          "quiz_id": "Q_bt_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Khi Jamie nói ‘about eight, eight thirty maybe’, ý là khoảng thời gian nào?",
+          "options": {
+            "A": "Đúng 8 giờ",
+            "B": "Đúng 8 giờ 30",
+            "C": "Khoảng giữa 8 giờ và 8 giờ 30",
+            "D": "9 giờ tối"
+          },
+          "correct_answer": "C",
+          "hint_text": "British Council gapfill / MC."
+        },
+        {
+          "quiz_id": "Q_bt_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Vì nhà hàng bận, thời gian nhân viên đề xuất cho lần đặt *đầu* là gì?",
+          "options": {
+            "A": "7:30 hoặc 9:00",
+            "B": "6:00 hoặc 8:00",
+            "C": "Chỉ 8:30",
+            "D": "Chỉ 9:30"
+          },
+          "correct_answer": "A",
+          "hint_text": "half past seven or nine."
+        },
+        {
+          "quiz_id": "Q_bt_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Jamie chọn mấy giờ cho lần đặt đầu tiên?",
+          "options": {
+            "A": "half past seven (7:30)",
+            "B": "9:00",
+            "C": "8:00",
+            "D": "6:00"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘Half seven, please.’"
+        },
+        {
+          "quiz_id": "Q_bt_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Họ đánh vần tên Jamie phần cuối như thế nào?",
+          "options": {
+            "A": "J-A-M-I-E",
+            "B": "M-I-E",
+            "C": "J-M-E",
+            "D": "J-A-Y"
+          },
+          "correct_answer": "B",
+          "hint_text": "Sau J-A-… Jamie nói M-I-E."
+        },
+        {
+          "quiz_id": "Q_bt_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Trong cuộc gọi thứ hai, Jamie thực sự muốn thay đổi điều gì?",
+          "options": {
+            "A": "Đổi từ 4 người sang 6 người",
+            "B": "Đổi từ 7:30 sang 6 giờ",
+            "C": "Hủy đặt bàn",
+            "D": "Đổi tên nhà hàng"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘six people’ không phải 6 giờ."
+        },
+        {
+          "quiz_id": "Q_bt_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Bàn lớn hơn sẽ ở đâu?",
+          "options": {
+            "A": "Gần cửa ra vào",
+            "B": "Gần bếp hơn",
+            "C": "Trong góc yên tĩnh",
+            "D": "Ngoài hiên"
+          },
+          "correct_answer": "B",
+          "hint_text": "nearer the kitchen."
+        },
+        {
+          "quiz_id": "Q_bt_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Giờ ăn mới cuối cùng Jamie đồng ý là mấy giờ?",
+          "options": {
+            "A": "6:00",
+            "B": "7:30",
+            "C": "8:00",
+            "D": "9:00"
+          },
+          "correct_answer": "C",
+          "hint_text": "‘Is eight OK for you?’ — Perfect."
+        },
+        {
+          "quiz_id": "Q_bt_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\nTheo *MultipleChoice* gốc: lần đặt *đầu tiên* được xác nhận lúc mấy giờ?",
+          "options": {
+            "A": "7.30",
+            "B": "8.30",
+            "C": "9.00",
+            "D": "6.00"
+          },
+          "correct_answer": "A",
+          "hint_text": "half past seven = 7.30."
+        },
+        {
+          "quiz_id": "Q_bt_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1\nChữ khi đánh vần tên (đúng theo bài) là:",
+          "options": {
+            "A": "Jamei",
+            "B": "Jamie",
+            "C": "Janie",
+            "D": "Jimmy"
+          },
+          "correct_answer": "B",
+          "hint_text": "Gamedata MultipleChoice."
+        },
+        {
+          "quiz_id": "Q_bt_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\nBước *đầu tiên* trong trình tự lịch sự đặt bàn (Task 2) thường là:",
+          "options": {
+            "A": "Hỏi có thể đổi giờ không",
+            "B": "Hỏi đặt bàn cho tối mai",
+            "C": "Hỏi bàn cho mấy người",
+            "D": "Xác nhận 8 giờ"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘Can I book a table for tomorrow night?’ đứng đầu gamedata."
+        },
+        {
+          "quiz_id": "Q_bt_14",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Nhân viên hiểu nhầm Jamie muốn đổi giờ sang 6 giờ (thay vì 6 người).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘So you want to change it to 6 o'clock?’ — Jamie nói không."
+        },
+        {
+          "quiz_id": "Q_bt_15",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Jamie chấp nhận ngồi bàn gần bếp.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘No problem.’"
+        },
+        {
+          "quiz_id": "Q_bt_16",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 1 (grouping / thời gian)\n7.30 trong tiếng Anh Anh thường đọc là:",
+          "options": {
+            "A": "Eight thirty",
+            "B": "Half past seven / seven thirty",
+            "C": "Nine o'clock",
+            "D": "Half eight only (không có seven)"
+          },
+          "correct_answer": "B",
+          "hint_text": "Gamedata Grouping: Seven thirty; Half past eight; …"
+        },
+        {
+          "quiz_id": "Q_bt_17",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Trong lần đầu, nhà hàng có thể cho bàn lúc 8:30.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Chỉ 7:30 hoặc 9:00 vì busy."
+        },
+        {
+          "quiz_id": "Q_bt_18",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Jamie gọi lại nhà hàng vì:",
+          "options": {
+            "A": "Muốn hủy",
+            "B": "Muốn tăng số người và có thể đổi giờ",
+            "C": "Than phiền món ăn",
+            "D": "Xin việc"
+          },
+          "correct_answer": "B",
+          "hint_text": "four → six people; later time."
+        },
+        {
+          "quiz_id": "Q_bt_19",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Staff nói họ có thể sắp bàn lớn hơn cho nhóm 6 người.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘move you to a bigger table’."
+        },
+        {
+          "quiz_id": "Q_bt_20",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Lần đặt cuối: số khách và giờ (gần nhất) là?",
+          "options": {
+            "A": "4 người, 7:30",
+            "B": "6 người, 8:00",
+            "C": "6 người, 7:30",
+            "D": "4 người, 9:00"
+          },
+          "correct_answer": "B",
+          "hint_text": "six people; eight o'clock."
+        }
+      ]
+    },
+    {
+      "lesson_id": "L_a1_business_cards",
+      "lesson_name": "Business cards",
+      "order": 4,
+      "estimated_minutes": 30,
+      "audio_url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LE_listening_A1_Business_cards.mp3",
+      "metadata": {
+        "skill": "listening",
+        "source_html": "course/listening/Business cards _ LearnEnglish.html",
+        "gamedata_prep": "http://gamedata.britishcouncil.org/d/Matching_MjI4MzY=.xml",
+        "gamedata_task1": "http://gamedata.britishcouncil.org/d/TrueOrFalse_MjI4Mzg=.xml",
+        "gamedata_task2": "http://gamedata.britishcouncil.org/d/Matching_MjI4Mzc=.xml"
+      },
+      "content": {
+        "preparation_pages": [
+          {
+            "title": "Chuẩn bị (Preparation)",
+            "body": "**Business cards** — từ vựng giới thiệu và danh thiếp (British Council A1).\n\n- **Chào & trao đổi lần đầu:** *It's nice to meet you.* — *Pleased to meet you.* — *Here's my card.*\n- **Cách xưng hô:** *Please call me Peter.*\n- **Trình độ / lĩnh vực:** *medical doctor* — *doctorate* — *electronic engineering* — *medical equipment* — *sell our equipment*\n- **Chức danh & công việc:** *project leader* — *lead programmer* — *product manager* — *sales director* — *intern* — *R&D team* — *research and development*\n- **Giới thiệu ngắn:** *I'm happy to be here today to tell you about our new project.* — *I'm the project leader on the … project.* — *My real name is … but … I use another name, Meg, when I'm working internationally.* — *I'm very happy to be joining this team for the next few months.*\n\nChi tiết lời thoại đầy đủ và mẫu *Danh thiếp* xem trong **transcript** (tab **Bài tập**).\n\nBản ghi lời thoại đầy đủ (*transcript*) nằm trong tab **Bài tập** — dùng nút **Hiện transcript** dưới trình phát audio."
+          }
+        ],
+        "transcript": "## Transcript (A–D)\n\n### A\n\n**A**: Hello, Doctor Miller. It's nice to meet you.\n\n**B**: Please call me Peter.\n\n**A**: OK. Are you a medical doctor? It must be helpful when you sell medical equipment.\n\n**B**: Actually, no. My doctorate was in electronic engineering, but it's still helpful for me when I sell our equipment.\n\n### B\n\nGood morning, everyone. I'm happy to be here today to tell you about our new project. My name is Alessandro Rossi. I'm the project leader on the Starlight programming project.\n\n### C\n\nPleased to meet you. Here's my card. My real name is Megumi Tanaka, but people who are not from my country think it's difficult to say my name, so I use another name, Meg, when I'm working internationally.\n\n### D\n\nHello, everyone. My name's Andres Mulligan. I'm very happy to be joining this team for the next few months and learning more about research and development.\n\n## Danh thiếp (đọc thêm)\n\n1. **Dr Peter Miller** — DX Medical Equipment Ltd — Sales Director  \n2. **Alessandro Rossi** — *Space10 Designs* — Lead Programmer  \n3. **Megumi Tanaka** — Global Engineering Consults — Product Manager  \n4. **Andres Mulligan Jr** — MaXtin Ltd — Intern, R&D team"
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_bc_01",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Peter Miller không phải là bác sĩ y khoa (medical doctor).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘Actually, no.’"
+        },
+        {
+          "quiz_id": "Q_bc_02",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Peter bán thiết bị dùng trong bệnh viện / cho bác sĩ (medical equipment).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Cuộc đối thoại A."
+        },
+        {
+          "quiz_id": "Q_bc_03",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Starlight là tên công ty của Alessandro.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Starlight là *programming project*."
+        },
+        {
+          "quiz_id": "Q_bc_04",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Alessandro là *manager* of the company.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Anh là *project leader*."
+        },
+        {
+          "quiz_id": "Q_bc_05",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Megumi *nghĩ* tên thật của cô *khó đọc* (theo nguyên văn: she thinks...).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Người *ngoài nước* thấy khó phát âm."
+        },
+        {
+          "quiz_id": "Q_bc_06",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Andres không phải thành viên vĩnh viễn lâu dài trong team (intern, vài tháng).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘joining … for the next few months’."
+        },
+        {
+          "quiz_id": "Q_bc_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Peter muốn người khác gọi mình là gì?",
+          "options": {
+            "A": "Doctor Miller",
+            "B": "Peter",
+            "C": "Engineer Peter",
+            "D": "Mr Equipment"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘Please call me Peter.’"
+        },
+        {
+          "quiz_id": "Q_bc_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Bằng tiến sĩ (doctorate) của Peter về lĩnh vực nào?",
+          "options": {
+            "A": "Medicine",
+            "B": "Electronic engineering",
+            "C": "Sales only",
+            "D": "Cooking"
+          },
+          "correct_answer": "B",
+          "hint_text": "Transcript đoạn A."
+        },
+        {
+          "quiz_id": "Q_bc_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Công ty trên danh thiếp của Peter là:",
+          "options": {
+            "A": "Starlight Designs",
+            "B": "DX Medical Equipment Ltd",
+            "C": "MaXtin Ltd",
+            "D": "Old Time Toys"
+          },
+          "correct_answer": "B",
+          "hint_text": "Reading text."
+        },
+        {
+          "quiz_id": "Q_bc_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Alessandro Rossi làm việc cho công ty nào (trên thẻ)?",
+          "options": {
+            "A": "Global Engineering",
+            "B": "Space10 Designs",
+            "C": "DX Medical",
+            "D": "MaXtin"
+          },
+          "correct_answer": "B",
+          "hint_text": "Card 2."
+        },
+        {
+          "quiz_id": "Q_bc_11",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Chức danh của Megumi Tanaka trên thẻ:",
+          "options": {
+            "A": "Intern",
+            "B": "Product Manager",
+            "C": "Sales Director",
+            "D": "Project leader"
+          },
+          "correct_answer": "B",
+          "hint_text": "Card 3."
+        },
+        {
+          "quiz_id": "Q_bc_12",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Khi làm việc quốc tế, Megumi thường dùng tên gọi nào?",
+          "options": {
+            "A": "Tanaka",
+            "B": "Meg",
+            "C": "Marina",
+            "D": "Alex"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘I use another name, Meg’."
+        },
+        {
+          "quiz_id": "Q_bc_13",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\nGhép câu: *I'm the project leader.* — ai nói?",
+          "options": {
+            "A": "Peter Miller",
+            "B": "Alessandro Rossi",
+            "C": "Megumi Tanaka",
+            "D": "Andres Mulligan"
+          },
+          "correct_answer": "B",
+          "hint_text": "Gamedata matching."
+        },
+        {
+          "quiz_id": "Q_bc_14",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\n*I use another name when I'm* working internationally.* — ai?",
+          "options": {
+            "A": "Peter",
+            "B": "Alessandro",
+            "C": "Megumi Tanaka",
+            "D": "Jamie"
+          },
+          "correct_answer": "C",
+          "hint_text": "Gamedata."
+        },
+        {
+          "quiz_id": "Q_bc_15",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Task 2\n*I'm happy to be joining this team for the next few months.* — ai?",
+          "options": {
+            "A": "Peter",
+            "B": "Alessandro",
+            "C": "Megumi",
+            "D": "Andres Mulligan Jr"
+          },
+          "correct_answer": "D",
+          "hint_text": "Gamedata."
+        },
+        {
+          "quiz_id": "Q_bc_16",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Andres Mulligan Jr trên danh thiếp có chức danh gì?",
+          "options": {
+            "A": "Sales Director",
+            "B": "Intern, R&D team",
+            "C": "Project leader",
+            "D": "Lead Programmer"
+          },
+          "correct_answer": "B",
+          "hint_text": "Card 4."
+        },
+        {
+          "quiz_id": "Q_bc_17",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Công ty của Andres là:",
+          "options": {
+            "A": "Space10 Designs",
+            "B": "MaXtin Ltd",
+            "C": "DX Medical",
+            "D": "Gino's"
+          },
+          "correct_answer": "B",
+          "hint_text": "Card 4."
+        },
+        {
+          "quiz_id": "Q_bc_18",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Peter nói bằng tiến sĩ về điện tử vẫn giúp ích khi bán thiết bị.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘still helpful when I sell our equipment’."
+        },
+        {
+          "quiz_id": "Q_bc_19",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Trong đoạn B, Alessandro giới thiệu điều gì?",
+          "options": {
+            "A": "Dự án lập trình mới",
+            "B": "Menu nhà hàng",
+            "C": "Luật giao thông",
+            "D": "Cách đặt bàn"
+          },
+          "correct_answer": "A",
+          "hint_text": "‘new project … Starlight programming project’."
+        },
+        {
+          "quiz_id": "Q_bc_20",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Mục đích Andres tham gia team là gì (theo audio)?",
+          "options": {
+            "A": "Bán medical equipment",
+            "B": "Học hỏi thêm về R&D",
+            "C": "Làm hộp thư thoại",
+            "D": "Đặt bàn ăn"
+          },
+          "correct_answer": "B",
+          "hint_text": "‘learning more about research and development’."
+        }
+      ]
+    }
+  ]
+}

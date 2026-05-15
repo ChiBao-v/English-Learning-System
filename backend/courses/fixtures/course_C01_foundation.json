@@ -1,0 +1,2411 @@
+{
+  "course_id": "C01",
+  "course_name": "Foundation English (Tiếng Anh Nền Tảng A1)",
+  "course_description": "Lộ trình A1: chào hỏi & giới thiệu, đại từ và to be, số & tuổi, phủ định & hỏi, quốc gia, câu hỏi Wh-, gia đình và đọc hiểu tổng hợp. Mỗi bài có tài liệu nhiều trang và 10 câu kiểm tra.",
+  "course_level": "beginner",
+  "content_mode": "text_only",
+  "expected_cohort_behavior": {
+    "typical_response_time_sec_per_item": [
+      5,
+      15
+    ],
+    "typical_accuracy_band": [
+      0.78,
+      0.95
+    ],
+    "hint_usage_rate": [
+      0.0,
+      0.12
+    ]
+  },
+  "lessons": [
+    {
+      "lesson_id": "L01_01",
+      "lesson_name": "Greetings & Introductions (Vocabulary)",
+      "order": 1,
+      "estimated_minutes": 32,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "greetings",
+        "time_est_minutes": 10,
+        "difficulty": 0.1
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Chào hỏi trang trọng",
+            "body": "### Chào hỏi trang trọng\n\nDùng khi **lần đầu gặp**, trong lớp, công sở, hoặc khi muốn **lịch sự**.\n\n| Cụm | Khi nào |\n|-----|---------|\n| **Hello** | Gần như mọi tình huống trung tính |\n| **Good morning** | **Sáng** (khoảng đến ~11h, tùy văn hóa) |\n| **Good afternoon** | **Chiều** (sau buổi trưa — gặp giáo viên lúc **2 giờ chiều** → dùng câu này) |\n| **Good evening** | **Tối** (sau giờ làm, chào buổi tối) |\n\n> **Good night** = chúc **ngủ ngon** (khi chia tay trước khi đi ngủ), **không** dùng như “chào buổi tối” khi mới gặp."
+          },
+          {
+            "title": "Trang 2 — Thân mật & tạm biệt",
+            "body": "### Chào thân mật & tạm biệt\n\n**Thân mật:** *Hi*, *Hey* — bạn bè, chat, môi trường lỏng.\n\n**Tạm biệt:**\n\n- *Goodbye* — trung tính, lịch sự nhẹ.\n- *Bye* — rất ngắn, thân mật.\n- *See you later* — **hẹn gặp lại sau** (có thể thêm *See you tomorrow*).\n- *Good night* — **Chúc ngủ ngon** (chia tay buổi đêm).\n\n### Thực hành nhanh\n\nĐọc to từng cụm **3 lần**; ghép với cử chỉ vẫy tay khi nói *Bye* / *See you later*."
+          },
+          {
+            "title": "Trang 3 — Từ vựng & câu mẫu",
+            "body": "### Từ vựng cốt lõi\n\n| Tiếng Anh | Gợi ý nghĩa |\n|-----------|-------------|\n| **name** | tên |\n| **friend** | bạn bè |\n| **teacher** | giáo viên |\n| **student** | học sinh / sinh viên |\n\n### Câu mẫu\n\n- *My name is Lan.* — *She is my **friend**.*\n- *He is a **teacher**.* — *I am a **student**.*\n\n### Gợi ý học\n\nViết **4 câu** giới thiệu: tên — bạn là gì (student) — một người là teacher — một người là friend."
+          }
+        ],
+        "reading_passage": "Anna: Good afternoon, Mr. Brown!\nMr. Brown: Good afternoon, Anna. How are you?\nAnna: I'm fine, thank you. Goodbye!\nMr. Brown: Goodbye. See you later!",
+        "reading_word_count": 25,
+        "vocabulary": [
+          {
+            "word": "Hello / Hi",
+            "vi": "Xin chào (trang trọng / thân mật)"
+          },
+          {
+            "word": "Good morning / afternoon / evening",
+            "vi": "Chào buổi sáng/chiều/tối"
+          },
+          {
+            "word": "Goodbye / Bye",
+            "vi": "Tạm biệt"
+          },
+          {
+            "word": "See you later",
+            "vi": "Hẹn gặp lại"
+          },
+          {
+            "word": "Good night",
+            "vi": "Chúc ngủ ngon"
+          },
+          {
+            "word": "name",
+            "vi": "tên"
+          },
+          {
+            "word": "friend",
+            "vi": "bạn bè"
+          },
+          {
+            "word": "teacher",
+            "vi": "giáo viên"
+          },
+          {
+            "word": "student",
+            "vi": "học sinh; sinh viên"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Good afternoon, teacher!",
+            "vietnamese": "Chào buổi chiều, thầy/cô!"
+          },
+          {
+            "english": "See you later, my friend.",
+            "vietnamese": "Hẹn gặp lại, bạn của tôi."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_01_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Gặp giáo viên lúc 2 giờ chiều, bạn nên nói:",
+          "options": {
+            "A": "Good morning",
+            "B": "Good afternoon",
+            "C": "Good night",
+            "D": "Good night, teacher"
+          },
+          "correct_answer": "B",
+          "hint_text": "Chiều → Good afternoon.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép đúng (đồng nghĩa / gần nghĩa trong chào hỏi): 1. Hello — 2. Goodbye",
+          "options": {
+            "A": "1→Hi, 2→Bye",
+            "B": "1→Bye, 2→Hi",
+            "C": "1→Good night, 2→Morning",
+            "D": "1→Teacher, 2→Student"
+          },
+          "correct_answer": "A",
+          "hint_text": "Hello ≈ Hi; Goodbye ≈ Bye.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_03",
+          "difficulty_level": 1,
+          "question_type": "fill_in_blank",
+          "question_text": "See you _____. (Hẹn gặp lại sau)",
+          "options": {
+            "A": "later",
+            "B": "before",
+            "C": "never",
+            "D": "again"
+          },
+          "correct_answer": "A",
+          "hint_text": "See you later — cố định.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Khi nào nói *Good night*?",
+          "options": {
+            "A": "Chào buổi sáng",
+            "B": "Chia tay trước khi đi ngủ / chúc ngủ ngon",
+            "C": "Gặp lúc 3 giờ chiều",
+            "D": "Khi gặp lần đầu buổi sáng"
+          },
+          "correct_answer": "B",
+          "hint_text": "Good night = chúc ngủ ngon.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_05",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Từ *teacher* nghĩa là:",
+          "options": {
+            "A": "học sinh",
+            "B": "giáo viên",
+            "C": "bạn bè",
+            "D": "tên"
+          },
+          "correct_answer": "B",
+          "hint_text": "Teacher = giáo viên.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Chọn câu **thân mật** nhất:",
+          "options": {
+            "A": "Good evening, Professor.",
+            "B": "Hey! How are you?",
+            "C": "Goodbye, sir.",
+            "D": "See you later, Mr. Smith."
+          },
+          "correct_answer": "B",
+          "hint_text": "Hey — thân mật.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am a _____. I study at school.",
+          "options": {
+            "A": "teacher",
+            "B": "student",
+            "C": "night",
+            "D": "later"
+          },
+          "correct_answer": "B",
+          "hint_text": "Study at school → student.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_08",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Tìm từ không hợp ngữ cảnh: 'Good night! Nice to meet you — at 9 a.m.!'",
+          "options": {
+            "A": "Good night",
+            "B": "Nice to meet you",
+            "C": "at 9 a.m.",
+            "D": "—"
+          },
+          "correct_answer": "A",
+          "hint_text": "9 sáng không dùng Good night.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 14,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She is my _____.",
+          "options": {
+            "A": "name",
+            "B": "friend",
+            "C": "morning",
+            "D": "goodbye"
+          },
+          "correct_answer": "B",
+          "hint_text": "My friend — bạn của tôi.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_01_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Chọn câu đúng:",
+          "options": {
+            "A": "Goodbye morning.",
+            "B": "Good morning, class.",
+            "C": "Good class, morning.",
+            "D": "Morning good."
+          },
+          "correct_answer": "B",
+          "hint_text": "Good morning, class.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_02",
+      "lesson_name": "Subject Pronouns & \"To be\" - Affirmative (Grammar)",
+      "order": 2,
+      "estimated_minutes": 35,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "to_be_affirmative",
+        "time_est_minutes": 15,
+        "difficulty": 0.15
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Đại từ nhân xưng",
+            "body": "### Đại từ nhân xưng (chủ ngữ)\n\n| Đại từ | Gợi ý |\n|--------|--------|\n| **I** | tôi |\n| **you** | bạn / các bạn |\n| **we** | chúng ta / chúng tôi |\n| **they** | họ |\n| **he** | anh ấy / ông ấy… |\n| **she** | cô ấy / bà ấy… |\n| **it** | nó (vật, động vật, sự việc) |\n\nĐại từ đứng **trước** động từ: *I am*, *She is*…"
+          },
+          {
+            "title": "Trang 2 — To be khẳng định",
+            "body": "### Động từ *to be* — **khẳng định** (hiện tại)\n\n| Chủ ngữ | Dạng | Viết tắt (một số) |\n|---------|------|-------------------|\n| **I** | **am** | *I'm* |\n| **he / she / it** | **is** | *He's, She's, It's* |\n| **you / we / they** | **are** | *You're, We're, They're* |\n\n### Cấu trúc\n\n**Chủ ngữ + be + …** (bổ ngữ có thể là danh từ / tính từ / giới từ cụm)\n\n- *I am a student.*\n- *He is a teacher.*\n- *They are friends.*"
+          },
+          {
+            "title": "Trang 3 — Viết tắt & luyện tập",
+            "body": "### Lưu ý nhanh\n\n- *I* **luôn** đi với *am* — không nói *I is*.\n- *He/She/It* với *is*; *You/We/They* với *are*.\n- Viết tắt giúp **nói nhanh**: *I'm*, *it's*, *they're* — luyện đọc to.\n\n### Bài tập gợi ý\n\nViết **6 câu**: mỗi đại từ (*I, you, he, she, we, they*) **một câu** khẳng định có *to be*."
+          }
+        ],
+        "reading_passage": "I am a student. You are my friend. He is a boy. She is a girl. It is a book. We are in class. They are happy.",
+        "reading_word_count": 27,
+        "vocabulary": [
+          {
+            "word": "I / you / we / they / he / she / it",
+            "vi": "các đại từ nhân xưng"
+          },
+          {
+            "word": "am / is / are",
+            "vi": "dạng của to be (hiện tại)"
+          }
+        ],
+        "examples": [
+          {
+            "english": "She is a teacher.",
+            "vietnamese": "Cô ấy là giáo viên."
+          },
+          {
+            "english": "We are students.",
+            "vietnamese": "Chúng tôi là học sinh."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_02_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "She _______ a teacher.",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "correct_answer": "B",
+          "hint_text": "She + is.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_02",
+          "difficulty_level": 1,
+          "question_type": "fill_in_blank",
+          "question_text": "We _______ students.",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "correct_answer": "C",
+          "hint_text": "We + are.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_03",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Tìm lỗi: 'I is a student.'",
+          "options": {
+            "A": "I",
+            "B": "is",
+            "C": "a",
+            "D": "student"
+          },
+          "correct_answer": "B",
+          "hint_text": "I am a student.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "They _______ my friends.",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "correct_answer": "C",
+          "hint_text": "They + are.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "It _______ a pen.",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "correct_answer": "B",
+          "hint_text": "It + is.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "He _______ from Vietnam.",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "correct_answer": "B",
+          "hint_text": "He + is.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_07",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Chọn câu đúng:",
+          "options": {
+            "A": "You is nice.",
+            "B": "You are nice.",
+            "C": "You am nice.",
+            "D": "You be nice."
+          },
+          "correct_answer": "B",
+          "hint_text": "You + are.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I'm = ?",
+          "options": {
+            "A": "I is",
+            "B": "I am",
+            "C": "I are",
+            "D": "I be"
+          },
+          "correct_answer": "B",
+          "hint_text": "I'm = I am.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_09",
+          "difficulty_level": 3,
+          "question_type": "error_identification",
+          "question_text": "Tìm lỗi: 'They is happy.'",
+          "options": {
+            "A": "They",
+            "B": "is",
+            "C": "happy",
+            "D": "—"
+          },
+          "correct_answer": "B",
+          "hint_text": "They are happy.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L01_02_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "You _______ very kind.",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "correct_answer": "C",
+          "hint_text": "You + are.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_03",
+      "lesson_name": "Nice to meet you (Reading)",
+      "order": 3,
+      "estimated_minutes": 30,
+      "metadata": {
+        "skill": "reading",
+        "topic": "nice_to_meet_you",
+        "time_est_minutes": 10,
+        "difficulty": 0.2
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Mục tiêu",
+            "body": "### Mục tiêu đọc\n\nÔn **từ vựng chào hỏi** và **to be khẳng định** trong một đoạn ngắn — tìm **ai là ai**, **nghề gì**, **quan hệ** thế nào."
+          },
+          {
+            "title": "Trang 2 — Cách đọc",
+            "body": "### Chiến lược\n\n1. **Đọc câu đầu** — biết chủ đề (chào + giới thiệu).\n2. Gạch **đại từ** (*I, she, we*) và **to be** (*am, is, are*).\n3. Trả lời câu hỏi chỉ dựa **chữ trong bài** — không đoán thêm."
+          },
+          {
+            "title": "Trang 3 — Từ khóa & tóm tắt",
+            "body": "### Từ khóa trong bài\n\n- *student* — *teacher* — *friends* — *Good morning* — *nice to meet you*\n\n### Sau khi đọc\n\nViết **2–3 câu** tóm tắt: David là gì, Sarah là gì, họ quan hệ gì."
+          }
+        ],
+        "reading_passage": "Hello! I am David. I am a student. She is Sarah. She is a teacher. We are friends. Good morning and nice to meet you!",
+        "reading_word_count": 25,
+        "vocabulary": [
+          {
+            "word": "student",
+            "vi": "học sinh; sinh viên"
+          },
+          {
+            "word": "teacher",
+            "vi": "giáo viên"
+          },
+          {
+            "word": "friends",
+            "vi": "bạn bè"
+          },
+          {
+            "word": "Nice to meet you",
+            "vi": "Rất vui được gặp bạn"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I am David.",
+            "vietnamese": "Tôi là David."
+          },
+          {
+            "english": "We are friends.",
+            "vietnamese": "Chúng tôi là bạn."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_03_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is David's job / role in the text?",
+          "options": {
+            "A": "Teacher",
+            "B": "Student",
+            "C": "Friend",
+            "D": "Driver"
+          },
+          "correct_answer": "B",
+          "hint_text": "I am a student.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_02",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Sarah is a student.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "She is a teacher.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Are David and Sarah friends?",
+          "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "We don't know",
+            "D": "They are brothers"
+          },
+          "correct_answer": "A",
+          "hint_text": "We are friends.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Who is a teacher?",
+          "options": {
+            "A": "David",
+            "B": "Sarah",
+            "C": "I",
+            "D": "We"
+          },
+          "correct_answer": "B",
+          "hint_text": "She is Sarah. She is a teacher.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The text says: Good morning and …",
+          "options": {
+            "A": "good night",
+            "B": "nice to meet you",
+            "C": "see you later",
+            "D": "bye bye"
+          },
+          "correct_answer": "B",
+          "hint_text": "Cuối đoạn.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_06",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "We are friends. Who does *we* refer to?",
+          "options": {
+            "A": "David and Sarah",
+            "B": "David only",
+            "C": "Sarah only",
+            "D": "The teacher"
+          },
+          "correct_answer": "A",
+          "hint_text": "We = David và Sarah.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_07",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "She _______ Sarah.",
+          "options": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "correct_answer": "B",
+          "hint_text": "She is Sarah.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_08",
+          "difficulty_level": 3,
+          "question_type": "true_false",
+          "question_text": "David is a teacher.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "David is a student.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "How many people are named in the text?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+          },
+          "correct_answer": "B",
+          "hint_text": "David và Sarah.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_03_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Best title for the text:",
+          "options": {
+            "A": "A day at school",
+            "B": "Hello — David and Sarah",
+            "C": "Good night",
+            "D": "Numbers 1–10"
+          },
+          "correct_answer": "B",
+          "hint_text": "Nội dung giới thiệu + quan hệ.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_04",
+      "lesson_name": "Numbers (1-100) & Age (Vocabulary)",
+      "order": 4,
+      "estimated_minutes": 36,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "numbers_age",
+        "time_est_minutes": 15,
+        "difficulty": 0.2
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Số 1–10",
+            "body": "### Số 1–10\n\n**One, two, three, four, five, six, seven, eight, nine, ten.**\n\nLuyện **đếm ngón tay** và **viết chữ** song song."
+          },
+          {
+            "title": "Trang 2 — 11–20 & chục",
+            "body": "### 11–20 & chục\n\n- **Eleven … twenty** — chú ý **thirteen** (không phải *threeteen*), **fifteen**, **eighteen**.\n- Chục: **thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred**.\n\n> **Fifteen** (15) khác **fifty** (50) — phát âm và chính tả."
+          },
+          {
+            "title": "Trang 3 — Tuổi (years old)",
+            "body": "### Nói tuổi\n\nCấu trúc chuẩn: **I am + [số tuổi] + years old.**\n\n- *I am twenty years old.*\n- *She is fifteen years old.*\n\nTránh: ~~*I have twenty years old.*~~ (sai thông dụng)."
+          }
+        ],
+        "reading_passage": "I am ten years old. My brother is fifteen. My parents are forty and forty-two. We are a family of four.",
+        "reading_word_count": 21,
+        "vocabulary": [
+          {
+            "word": "one - ten",
+            "vi": "một đến mười"
+          },
+          {
+            "word": "eleven - twenty",
+            "vi": "mười một đến hai mươi"
+          },
+          {
+            "word": "thirty … one hundred",
+            "vi": "ba mươi … một trăm"
+          },
+          {
+            "word": "years old",
+            "vi": "… tuổi"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I am twenty years old.",
+            "vietnamese": "Tôi 20 tuổi."
+          },
+          {
+            "english": "She is fifteen.",
+            "vietnamese": "Cô ấy 15 tuổi. (có thể bỏ years old khi rõ ngữ cảnh)"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_04_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "Số 15 viết là:",
+          "options": {
+            "A": "Fiveteen",
+            "B": "Fifteen",
+            "C": "Fifty",
+            "D": "Fivty"
+          },
+          "correct_answer": "B",
+          "hint_text": "Fifteen = 15.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "“Tôi 20 tuổi” — câu tốt nhất:",
+          "options": {
+            "A": "I am twenty years old.",
+            "B": "I have twenty years.",
+            "C": "I have twenty years old.",
+            "D": "I am twenty years."
+          },
+          "correct_answer": "A",
+          "hint_text": "I am … years old.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Ten + Twelve = ?",
+          "options": {
+            "A": "Twenty",
+            "B": "Twenty-two",
+            "C": "Twenty-one",
+            "D": "Nineteen"
+          },
+          "correct_answer": "B",
+          "hint_text": "10+12=22.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Forty nghĩa là:",
+          "options": {
+            "A": "14",
+            "B": "40",
+            "C": "4",
+            "D": "400"
+          },
+          "correct_answer": "B",
+          "hint_text": "Forty = 40.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I am _____ years old. (18)",
+          "options": {
+            "A": "eighteen",
+            "B": "eighteenth",
+            "C": "eighty",
+            "D": "eight"
+          },
+          "correct_answer": "A",
+          "hint_text": "18 = eighteen.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which is correct?",
+          "options": {
+            "A": "She have 12 years old.",
+            "B": "She is twelve years old.",
+            "C": "She is twelve year old.",
+            "D": "She are twelve."
+          },
+          "correct_answer": "B",
+          "hint_text": "She is twelve years old.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Thirteen = ?",
+          "options": {
+            "A": "30",
+            "B": "13",
+            "C": "3",
+            "D": "33"
+          },
+          "correct_answer": "B",
+          "hint_text": "Thirteen = 13.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_08",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "One hundred = ?",
+          "options": {
+            "A": "10",
+            "B": "100",
+            "C": "1000",
+            "D": "1"
+          },
+          "correct_answer": "B",
+          "hint_text": "One hundred = 100.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_09",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Tìm lỗi: 'I am 20 years olds.'",
+          "options": {
+            "A": "I am",
+            "B": "20",
+            "C": "years olds",
+            "D": "—"
+          },
+          "correct_answer": "C",
+          "hint_text": "years old (không có s).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L01_04_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Twenty + Five = _____",
+          "options": {
+            "A": "twenty-five",
+            "B": "fifty-two",
+            "C": "thirty",
+            "D": "fourteen"
+          },
+          "correct_answer": "A",
+          "hint_text": "25 = twenty-five.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_05",
+      "lesson_name": "\"To be\" - Negative & Interrogative (Grammar)",
+      "order": 5,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "to_be_negative_question",
+        "time_est_minutes": 20,
+        "difficulty": 0.25
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Phủ định",
+            "body": "### Phủ định với *to be*\n\nThêm **not** sau *am/is/are* (hoặc dạng rút):\n\n- *I am not* / *I'm not*\n- *He/She/It is not* — *isn't*\n- *You/We/They are not* — *aren't*\n\nVí dụ: *They aren't teachers.* — *I'm not tired.*"
+          },
+          {
+            "title": "Trang 2 — Câu hỏi Yes/No",
+            "body": "### Câu hỏi Yes/No\n\n**Đảo to be lên đầu câu:**\n\n- *Am I late?*\n- *Is he your brother?*\n- *Are you ready?*\n\nTrả lời ngắn: *Yes, I am.* / *No, he isn't.* / *No, they aren't.*"
+          },
+          {
+            "title": "Trang 3 — Luyện tập",
+            "body": "### Lưu ý\n\n- *Are you…?* với *you* = bạn **một** hoặc **nhiều** người.\n- Phủ định + danh từ: *She is not a doctor.*\n\n### Luyện\n\nViết **4 câu**: 2 phủ định, 2 câu hỏi Yes/No."
+          }
+        ],
+        "reading_passage": "Are you a student? Yes, I am. Is he a teacher? No, he isn't. We are not late. They aren't doctors.",
+        "reading_word_count": 21,
+        "vocabulary": [
+          {
+            "word": "not / isn't / aren't",
+            "vi": "phủ định với to be"
+          },
+          {
+            "word": "Am / Is / Are ...?",
+            "vi": "câu hỏi Yes/No"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I am not a teacher.",
+            "vietnamese": "Tôi không phải giáo viên."
+          },
+          {
+            "english": "Are you from Vietnam?",
+            "vietnamese": "Bạn có phải từ Việt Nam không?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_05_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "They _______ teachers. They are students.",
+          "options": {
+            "A": "isn't",
+            "B": "aren't",
+            "C": "am not",
+            "D": "not are"
+          },
+          "correct_answer": "B",
+          "hint_text": "They aren't teachers.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_02",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which question is correct?",
+          "options": {
+            "A": "You are a student?",
+            "B": "Are you a student?",
+            "C": "Is you a student?",
+            "D": "Are a you student?"
+          },
+          "correct_answer": "B",
+          "hint_text": "Are you a student?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Short negative answer: Is he 25 years old?",
+          "options": {
+            "A": "No, he isn't.",
+            "B": "No, he not is.",
+            "C": "No, he aren't.",
+            "D": "No, he am not."
+          },
+          "correct_answer": "A",
+          "hint_text": "No, he isn't.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_04",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I _______ ready yet. (phủ định)",
+          "options": {
+            "A": "am not",
+            "B": "isn't",
+            "C": "aren't",
+            "D": "not"
+          },
+          "correct_answer": "A",
+          "hint_text": "I am not.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She _______ my sister.",
+          "options": {
+            "A": "is not",
+            "B": "are not",
+            "C": "am not",
+            "D": "be not"
+          },
+          "correct_answer": "A",
+          "hint_text": "She is not / isn't.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_06",
+          "difficulty_level": 3,
+          "question_type": "error_identification",
+          "question_text": "Tìm lỗi: 'Are she your friend?'",
+          "options": {
+            "A": "Are",
+            "B": "she",
+            "C": "your friend",
+            "D": "—"
+          },
+          "correct_answer": "A",
+          "hint_text": "Is she your friend?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "We _______ at home now. (phủ định)",
+          "options": {
+            "A": "isn't",
+            "B": "aren't",
+            "C": "am not",
+            "D": "not are"
+          },
+          "correct_answer": "B",
+          "hint_text": "We aren't.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "I'm not means I am not.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "I'm not = I am not.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "_____ she at home now? (Yes/No question)",
+          "options": {
+            "A": "Is",
+            "B": "Are",
+            "C": "Am",
+            "D": "Do"
+          },
+          "correct_answer": "A",
+          "hint_text": "She → Is she…?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_05_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "_______ we late?",
+          "options": {
+            "A": "Is",
+            "B": "Are",
+            "C": "Am",
+            "D": "Be"
+          },
+          "correct_answer": "B",
+          "hint_text": "We → Are we…?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_06",
+      "lesson_name": "A Personal Profile (Reading)",
+      "order": 6,
+      "estimated_minutes": 34,
+      "metadata": {
+        "skill": "reading",
+        "topic": "personal_profile",
+        "time_est_minutes": 12,
+        "difficulty": 0.25
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Đọc profile",
+            "body": "### Đọc profile\n\nProfile gồm **tên**, **tuổi**, **nghề** và đôi khi đoạn **About** — đọc từng dòng và ghi chú **số** và **to be** (khẳng định / phủ định / hỏi)."
+          },
+          {
+            "title": "Trang 2 — Câu hỏi từ dữ liệu",
+            "body": "### Câu hỏi thường gặp từ profile\n\n- Bao nhiêu tuổi? — tìm *Age:* hoặc *… years old*.\n- Nghề? — *Job:* hoặc *I am a …*\n- Có phải giáo viên không? — tìm *I am not a teacher*."
+          },
+          {
+            "title": "Trang 3 — Viết profile của bạn",
+            "body": "### Sau khi đọc\n\nViết **profile mini** của bạn (4–5 dòng) theo mẫu Emma — dùng *I am*, *I am not*, *Are you …?*."
+          }
+        ],
+        "reading_passage": "User Profile\nName: Emma Smith\nAge: 22\nJob: Student\n\nAbout: \"Hi, I'm Emma. I am not a teacher. I am 22 years old. Are you a student too? Nice to meet you!\"",
+        "reading_word_count": 32,
+        "vocabulary": [
+          {
+            "word": "profile",
+            "vi": "hồ sơ / tiểu sử ngắn"
+          },
+          {
+            "word": "name / age / job",
+            "vi": "tên / tuổi / nghề"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I am not a teacher.",
+            "vietnamese": "Tôi không phải giáo viên."
+          },
+          {
+            "english": "Are you a student too?",
+            "vietnamese": "Bạn cũng là học sinh/sinh viên à?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_06_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Is Emma a teacher?",
+          "options": {
+            "A": "Yes, she is.",
+            "B": "No, she isn't.",
+            "C": "Yes, she are.",
+            "D": "No, she not is."
+          },
+          "correct_answer": "B",
+          "hint_text": "I am not a teacher.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_02",
+          "difficulty_level": 1,
+          "question_type": "fill_in_blank",
+          "question_text": "Emma is _______ years old.",
+          "options": {
+            "A": "20",
+            "B": "22",
+            "C": "12",
+            "D": "32"
+          },
+          "correct_answer": "B",
+          "hint_text": "Age: 22.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_03",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Emma is a student.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "Job: Student.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is Emma's family name (surname)?",
+          "options": {
+            "A": "Emma",
+            "B": "Smith",
+            "C": "Student",
+            "D": "Teacher"
+          },
+          "correct_answer": "B",
+          "hint_text": "Emma Smith → Smith.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "The text asks: Are you a student too? Who is *you*?",
+          "options": {
+            "A": "The reader",
+            "B": "Emma",
+            "C": "The teacher",
+            "D": "Smith"
+          },
+          "correct_answer": "A",
+          "hint_text": "Lời hỏi người đọc.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_06",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Emma says she is a teacher.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "I am not a teacher.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "How old is Emma?",
+          "options": {
+            "A": "twelve",
+            "B": "twenty-two",
+            "C": "thirty",
+            "D": "twenty"
+          },
+          "correct_answer": "B",
+          "hint_text": "22 = twenty-two.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_08",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Nice to meet you! appears when Emma is:",
+          "options": {
+            "A": "angry",
+            "B": "introducing / closing politely",
+            "C": "sleeping",
+            "D": "ordering food"
+          },
+          "correct_answer": "B",
+          "hint_text": "Chào / kết thúc lịch sự.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "I _______ a teacher. (phủ định — Emma)",
+          "options": {
+            "A": "am not",
+            "B": "is not",
+            "C": "are not",
+            "D": "not am"
+          },
+          "correct_answer": "A",
+          "hint_text": "I am not a teacher.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_06_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Job: Student means Emma is:",
+          "options": {
+            "A": "a teacher",
+            "B": "a student",
+            "C": "retired",
+            "D": "a driver"
+          },
+          "correct_answer": "B",
+          "hint_text": "Job: Student.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_07",
+      "lesson_name": "Countries & Nationalities (Vocabulary)",
+      "order": 7,
+      "estimated_minutes": 36,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "countries",
+        "time_est_minutes": 15,
+        "difficulty": 0.3
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Bảng cặp từ",
+            "body": "### Quốc gia & quốc tịch (cặp hay gặp)\n\n| Quốc gia | Quốc tịch (tính từ / danh từ chỉ người) |\n|----------|----------------------------------------|\n| Vietnam | **Vietnamese** |\n| the UK | **British** |\n| the USA | **American** |\n| Japan | **Japanese** |\n| China | **Chinese** |\n\n> **Japanese** vừa là tính từ *Nhật Bản*, vừa chỉ *người Nhật* (tùy câu)."
+          },
+          {
+            "title": "Trang 2 — from / I am",
+            "body": "### Cách nói xuất xứ\n\n- *I am from **Vietnam**.* (from + **tên nước**)\n- *I am **Vietnamese**.* (I am + **quốc tịch**)\n\nCả hai đều phổ biến ở trình độ nền tảng."
+          },
+          {
+            "title": "Trang 3 — Lỗi thường gặp",
+            "body": "### Lỗi thường gặp\n\n- ~~*I am from Vietnamese.*~~ → *from Vietnam* **hoặc** *I am Vietnamese.*\n- Nhớ *the* với *the USA*, *the UK* (thói quen cố định).\n\n### Luyện\n\nViết **3 câu** về bản thân: from + nước; I am + quốc tịch; 1 câu hỏi bạn."
+          }
+        ],
+        "reading_passage": "I am from Vietnam. I am Vietnamese. She is from Japan. She is Japanese. He is from the USA. He is American.",
+        "reading_word_count": 22,
+        "vocabulary": [
+          {
+            "word": "Vietnam / Vietnamese",
+            "vi": "Việt Nam / người Việt, tiếng Việt"
+          },
+          {
+            "word": "the USA / American",
+            "vi": "Hoa Kỳ / người Mỹ"
+          },
+          {
+            "word": "the UK / British",
+            "vi": "Anh / người Anh"
+          },
+          {
+            "word": "Japan / Japanese",
+            "vi": "Nhật Bản / người Nhật"
+          },
+          {
+            "word": "China / Chinese",
+            "vi": "Trung Quốc / người Trung"
+          }
+        ],
+        "examples": [
+          {
+            "english": "I am from Vietnam.",
+            "vietnamese": "Tôi đến từ Việt Nam."
+          },
+          {
+            "english": "She is Japanese.",
+            "vietnamese": "Cô ấy là người Nhật."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_07_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "I am from Japan. I am _______.",
+          "options": {
+            "A": "Japanese",
+            "B": "Japan",
+            "C": "Japanian",
+            "D": "Japans"
+          },
+          "correct_answer": "A",
+          "hint_text": "Quốc tịch: Japanese.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_02",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "She is from the USA. She is _______.",
+          "options": {
+            "A": "USA",
+            "B": "American",
+            "C": "America",
+            "D": "USAmerican"
+          },
+          "correct_answer": "B",
+          "hint_text": "American.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_03",
+          "difficulty_level": 3,
+          "question_type": "error_identification",
+          "question_text": "Tìm lỗi: 'I am from Vietnamese.'",
+          "options": {
+            "A": "I am",
+            "B": "from",
+            "C": "Vietnamese",
+            "D": "—"
+          },
+          "correct_answer": "C",
+          "hint_text": "from Vietnam hoặc I am Vietnamese.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "He is from the UK. He is _______.",
+          "options": {
+            "A": "UKish",
+            "B": "British",
+            "C": "England",
+            "D": "Englishman only"
+          },
+          "correct_answer": "B",
+          "hint_text": "British.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "We are from China. We are _______.",
+          "options": {
+            "A": "Chineses",
+            "B": "Chinese",
+            "C": "China",
+            "D": "Chinish"
+          },
+          "correct_answer": "B",
+          "hint_text": "Chinese.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "They are _______. They come from Vietnam.",
+          "options": {
+            "A": "Vietnam",
+            "B": "Vietnamese",
+            "C": "Vietnamian",
+            "D": "Vietnameses"
+          },
+          "correct_answer": "B",
+          "hint_text": "Vietnamese.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_07",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Which is correct?",
+          "options": {
+            "A": "I am from the China.",
+            "B": "I am from China.",
+            "C": "I am from a China.",
+            "D": "I from China."
+          },
+          "correct_answer": "B",
+          "hint_text": "from China (thường không cần the).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_08",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "American can describe a person from the USA.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "A",
+          "hint_text": "American — người Mỹ.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Choose the best sentence:",
+          "options": {
+            "A": "I am Vietnam.",
+            "B": "I am from Vietnam.",
+            "C": "I am come from Vietnam.",
+            "D": "I from Vietnamese."
+          },
+          "correct_answer": "B",
+          "hint_text": "I am from Vietnam.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_07_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Nationality for the UK (most common adjective in course):",
+          "options": {
+            "A": "English",
+            "B": "British",
+            "C": "UKese",
+            "D": "England"
+          },
+          "correct_answer": "B",
+          "hint_text": "British (đáp án theo bài).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_08",
+      "lesson_name": "Question Words - What, Where, Who (Grammar)",
+      "order": 8,
+      "estimated_minutes": 36,
+      "metadata": {
+        "skill": "grammar",
+        "topic": "wh_questions",
+        "time_est_minutes": 15,
+        "difficulty": 0.35
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — What",
+            "body": "### What — cái gì / tên gì\n\n- *What is your **name**?*\n- *What is this?*\n\n**What** hỏi **nội dung / tên / vật**."
+          },
+          {
+            "title": "Trang 2 — Where",
+            "body": "### Where — ở đâu / từ đâu\n\n- *Where are you **from**?*\n- *Where is my bag?*\n\n**Where** hỏi **địa điểm / nguồn gốc**."
+          },
+          {
+            "title": "Trang 3 — Who & luyện",
+            "body": "### Who — ai\n\n- *Who is he?* — *He is my teacher.*\n\n### Cấu trúc gợi ý\n\n**Wh- + am/is/are + chủ ngữ + …?** (ở trình độ A1, nhiều mẫu cố định)\n\n### Luyện\n\nĐặt **6 câu** (2 What, 2 Where, 2 Who) về lớp học của bạn."
+          }
+        ],
+        "reading_passage": "What is your name? My name is Linh. Where are you from? I am from Vietnam. Who is he? He is our teacher.",
+        "reading_word_count": 23,
+        "vocabulary": [
+          {
+            "word": "What",
+            "vi": "gì (cái gì, tên gì)"
+          },
+          {
+            "word": "Where",
+            "vi": "ở đâu / đâu / từ đâu"
+          },
+          {
+            "word": "Who",
+            "vi": "ai"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Where are you from?",
+            "vietnamese": "Bạn đến từ đâu?"
+          },
+          {
+            "english": "Who is she?",
+            "vietnamese": "Cô ấy là ai?"
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_08_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "_______ are you from? — I am from Vietnam.",
+          "options": {
+            "A": "What",
+            "B": "Where",
+            "C": "Who",
+            "D": "How"
+          },
+          "correct_answer": "B",
+          "hint_text": "Where — nơi chốn / nguồn gốc.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_02",
+          "difficulty_level": 1,
+          "question_type": "fill_in_blank",
+          "question_text": "_______ is your name?",
+          "options": {
+            "A": "What",
+            "B": "Where",
+            "C": "Who",
+            "D": "When"
+          },
+          "correct_answer": "A",
+          "hint_text": "What is your name?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Ghép đúng: 1. Who is she? 2. Where is she from?",
+          "options": {
+            "A": "1→She is my teacher. | 2→She is from the UK.",
+            "B": "1→She is from the UK. | 2→She is my teacher.",
+            "C": "1→My name is Ann. | 2→I am fine.",
+            "D": "1→I am 20. | 2→I am a student."
+          },
+          "correct_answer": "A",
+          "hint_text": "Who → người; Where from → nơi.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "_______ is that man?",
+          "options": {
+            "A": "What",
+            "B": "Where",
+            "C": "Who",
+            "D": "How"
+          },
+          "correct_answer": "C",
+          "hint_text": "Who is that man?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What is your name? — _______",
+          "options": {
+            "A": "I am from Hanoi.",
+            "B": "I am Lan.",
+            "C": "I am fine.",
+            "D": "I am a student from."
+          },
+          "correct_answer": "B",
+          "hint_text": "Trả lời tên.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_06",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "_______ is my book? — On the desk.",
+          "options": {
+            "A": "What",
+            "B": "Where",
+            "C": "Who",
+            "D": "Why"
+          },
+          "correct_answer": "B",
+          "hint_text": "Where — vị trí.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_07",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Which question asks about a person (identity)?",
+          "options": {
+            "A": "What is your phone?",
+            "B": "Who is he?",
+            "C": "Where is Tuesday?",
+            "D": "What color is time?"
+          },
+          "correct_answer": "B",
+          "hint_text": "Who — ai.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_08",
+          "difficulty_level": 2,
+          "question_type": "error_identification",
+          "question_text": "Tìm lỗi: 'Where is you from?'",
+          "options": {
+            "A": "Where",
+            "B": "is",
+            "C": "you",
+            "D": "from"
+          },
+          "correct_answer": "B",
+          "hint_text": "Where **are** you from?",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": true
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_09",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Who are you? — (học mẫu đáp lịch sự) — Often answered with:",
+          "options": {
+            "A": "I am from Vietnam.",
+            "B": "I'm Linh, nice to meet you.",
+            "C": "I am 20 years old.",
+            "D": "I am on the table."
+          },
+          "correct_answer": "B",
+          "hint_text": "Giới thiệu tên + lịch sự.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_08_10",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "_______ are those people? — They are my parents.",
+          "options": {
+            "A": "What",
+            "B": "Where",
+            "C": "Who",
+            "D": "When"
+          },
+          "correct_answer": "C",
+          "hint_text": "Who — hỏi về người.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_09",
+      "lesson_name": "Family Members (Vocabulary)",
+      "order": 9,
+      "estimated_minutes": 30,
+      "metadata": {
+        "skill": "vocabulary",
+        "topic": "family",
+        "time_est_minutes": 12,
+        "difficulty": 0.35
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Gia đình cốt lõi",
+            "body": "### Gia đình cốt lõi\n\n- **Father** / **Dad** — bố\n- **Mother** / **Mom** — mẹ\n- **Brother** — anh/em trai\n- **Sister** — chị/em gái"
+          },
+          {
+            "title": "Trang 2 — Mở rộng & parents",
+            "body": "### Gia đình mở rộng\n\n- **Grandfather** / **Grandmother** — ông / bà\n- **Uncle** — chú / bác / cậu (tùy văn hóa)\n- **Aunt** — cô / dì / thím…\n\n### Từ tổng\n\n- **Family** — gia đình\n- **Parents** — **bố mẹ** (cha mẹ)"
+          },
+          {
+            "title": "Trang 3 — Câu mẫu & bài tập",
+            "body": "### Câu mẫu\n\n- *This is my **mother**.*\n- *My **parents** are kind.*\n- *I have one **sister**.*\n\n### Bài tập\n\nVẽ **cây gia đình** đơn giản và ghi **10 từ** tiếng Anh."
+          }
+        ],
+        "reading_passage": "My father is Tom and my mother is Sue. My brother is Tim. My sister is Anna. My uncle is Jack. We are a happy family.",
+        "reading_word_count": 26,
+        "vocabulary": [
+          {
+            "word": "father / mother / parents",
+            "vi": "bố / mẹ / bố mẹ"
+          },
+          {
+            "word": "brother / sister",
+            "vi": "anh/em trai / chị/em gái"
+          },
+          {
+            "word": "grandfather / grandmother",
+            "vi": "ông / bà"
+          },
+          {
+            "word": "uncle / aunt",
+            "vi": "chú bác / cô dì"
+          },
+          {
+            "word": "family",
+            "vi": "gia đình"
+          }
+        ],
+        "examples": [
+          {
+            "english": "My mother and my father are my parents.",
+            "vietnamese": "Mẹ và bố tôi là cha mẹ tôi."
+          },
+          {
+            "english": "She is my sister.",
+            "vietnamese": "Cô ấy là chị/em gái tôi."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_09_01",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "My mother and my father are my _______.",
+          "options": {
+            "A": "brothers",
+            "B": "parents",
+            "C": "sisters",
+            "D": "uncles"
+          },
+          "correct_answer": "B",
+          "hint_text": "Parents = bố mẹ.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_02",
+          "difficulty_level": 1,
+          "question_type": "multiple_choice",
+          "question_text": "“Chị/em gái” trong tiếng Anh là:",
+          "options": {
+            "A": "Brother",
+            "B": "Sister",
+            "C": "Aunt",
+            "D": "Mom"
+          },
+          "correct_answer": "B",
+          "hint_text": "Sister.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "My father's brother is my _______.",
+          "options": {
+            "A": "grandfather",
+            "B": "uncle",
+            "C": "cousin",
+            "D": "brother"
+          },
+          "correct_answer": "B",
+          "hint_text": "Uncle — chú/bác (cha của bạn).",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Parents means:",
+          "options": {
+            "A": "children",
+            "B": "mother and father",
+            "C": "only mother",
+            "D": "cousins"
+          },
+          "correct_answer": "B",
+          "hint_text": "Parents.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 8,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_05",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "My _____ is sixty years old. (ông)",
+          "options": {
+            "A": "uncle",
+            "B": "grandfather",
+            "C": "brother",
+            "D": "sister"
+          },
+          "correct_answer": "B",
+          "hint_text": "Grandfather.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "She is my mother's sister. She is my _______.",
+          "options": {
+            "A": "uncle",
+            "B": "aunt",
+            "C": "brother",
+            "D": "dad"
+          },
+          "correct_answer": "B",
+          "hint_text": "Aunt.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_07",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Brother can mean only a younger brother.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Brother = anh hoặc em trai.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_08",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "We use ___ for both formal and informal 'father' in family context:",
+          "options": {
+            "A": "teacher",
+            "B": "father / dad",
+            "C": "student",
+            "D": "family"
+          },
+          "correct_answer": "B",
+          "hint_text": "father / dad.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_09",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "My parents' daughter (not me, I'm a boy) could be my:",
+          "options": {
+            "A": "uncle",
+            "B": "sister",
+            "C": "father",
+            "D": "grandfather"
+          },
+          "correct_answer": "B",
+          "hint_text": "Sister.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_09_10",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "This is my _____. He is my dad's father.",
+          "options": {
+            "A": "brother",
+            "B": "grandfather",
+            "C": "uncle",
+            "D": "cousin"
+          },
+          "correct_answer": "B",
+          "hint_text": "Dad's father = grandfather.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "L01_10",
+      "lesson_name": "My Family (Reading)",
+      "order": 10,
+      "estimated_minutes": 40,
+      "metadata": {
+        "skill": "reading",
+        "topic": "my_family",
+        "time_est_minutes": 15,
+        "difficulty": 0.4
+      },
+      "content": {
+        "theory": "",
+        "theory_pages": [
+          {
+            "title": "Trang 1 — Tổng hợp kiến thức",
+            "body": "### Đọc tổng hợp\n\nĐoạn kết hợp: **chào/giới thiệu**, **tuổi**, **quốc gia & quốc tịch**, **gia đình**, **câu hỏi Who/Where**, **to be**."
+          },
+          {
+            "title": "Trang 2 — Chiến lược đọc",
+            "body": "### Chiến lược\n\n1. Tìm **tên** và **tuổi** của Alex.\n2. Bố: tên + tuổi; mẹ: **từ đâu** → quốc tịch.\n3. *I have one sister* — anh/chị/em.\n\n### Từ khóa\n\n*from the USA / American / from the UK / British / father / mother / sister*"
+          },
+          {
+            "title": "Trang 3 — Viết về gia đình bạn",
+            "body": "### Sau khi đọc\n\nViết **đoạn 5–7 câu** về gia đình bạn (tuổi, nghề đơn giản, quốc tịch) — dùng *I am*, *My … is*, *We are*."
+          }
+        ],
+        "reading_passage": "Hi, my name is Alex. I am 15 years old and I am from the USA. I am American. This is my family. Who is he? He is my father, John. He is 40 years old. Where is my mother from? She is from the UK, so she is British. I have one sister. We are a happy family.",
+        "reading_word_count": 59,
+        "vocabulary": [
+          {
+            "word": "family / father / mother / sister",
+            "vi": "gia đình / bố / mẹ / chị em gái"
+          },
+          {
+            "word": "from the USA / American",
+            "vi": "từ Mỹ / người Mỹ"
+          },
+          {
+            "word": "from the UK / British",
+            "vi": "từ Anh / người Anh"
+          }
+        ],
+        "examples": [
+          {
+            "english": "Where is my mother from?",
+            "vietnamese": "Mẹ tôi đến từ đâu?"
+          },
+          {
+            "english": "We are a happy family.",
+            "vietnamese": "Chúng tôi là một gia đình hạnh phúc."
+          }
+        ]
+      },
+      "quizzes": [
+        {
+          "quiz_id": "Q_L01_10_01",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where is Alex from?",
+          "options": {
+            "A": "The USA",
+            "B": "The UK",
+            "C": "Vietnam",
+            "D": "Japan"
+          },
+          "correct_answer": "A",
+          "hint_text": "from the USA.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_02",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Alex's mother is American.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "Mother is from the UK / British.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 11,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_03",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "How old is John (the father)?",
+          "options": {
+            "A": "15",
+            "B": "40",
+            "C": "22",
+            "D": "50"
+          },
+          "correct_answer": "B",
+          "hint_text": "He is 40 years old.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_04",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "What nationality is Alex?",
+          "options": {
+            "A": "British",
+            "B": "American",
+            "C": "Japanese",
+            "D": "Vietnamese"
+          },
+          "correct_answer": "B",
+          "hint_text": "I am American.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_05",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Who is John?",
+          "options": {
+            "A": "Alex's mother",
+            "B": "Alex's father",
+            "C": "Alex's sister",
+            "D": "Alex's teacher"
+          },
+          "correct_answer": "B",
+          "hint_text": "He is my father, John.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_06",
+          "difficulty_level": 2,
+          "question_type": "multiple_choice",
+          "question_text": "Where is Alex's mother from?",
+          "options": {
+            "A": "The USA",
+            "B": "The UK",
+            "C": "China",
+            "D": "Japan"
+          },
+          "correct_answer": "B",
+          "hint_text": "She is from the UK.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 10,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_07",
+          "difficulty_level": 2,
+          "question_type": "true_false",
+          "question_text": "Alex has two sisters.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "correct_answer": "B",
+          "hint_text": "I have one sister.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_08",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "She is British because:",
+          "options": {
+            "A": "She is 40",
+            "B": "She is from the UK",
+            "C": "She is Alex's father",
+            "D": "She is 15"
+          },
+          "correct_answer": "B",
+          "hint_text": "from the UK → British.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 12,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_09",
+          "difficulty_level": 2,
+          "question_type": "fill_in_blank",
+          "question_text": "Alex is _______ years old.",
+          "options": {
+            "A": "40",
+            "B": "15",
+            "C": "22",
+            "D": "50"
+          },
+          "correct_answer": "B",
+          "hint_text": "I am 15 years old.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 9,
+            "likely_to_use_hint": false
+          }
+        },
+        {
+          "quiz_id": "Q_L01_10_10",
+          "difficulty_level": 3,
+          "question_type": "multiple_choice",
+          "question_text": "Best summary:",
+          "options": {
+            "A": "Alex is a teacher in Vietnam.",
+            "B": "Alex introduces family: US background, parents' ages/origin, one sister.",
+            "C": "Alex has no family.",
+            "D": "Alex is British and his mom is American."
+          },
+          "correct_answer": "B",
+          "hint_text": "Tóm tắt đúng đoạn.",
+          "expected_behavior_simulation": {
+            "avg_response_time_sec": 13,
+            "likely_to_use_hint": false
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+services:
+  db:
+    image: postgres:15
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: toeic_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@example.com
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "5050:80"
+    depends_on:
+      - db
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  mlflow:
+    build:
+      context: ./mlflow
+    restart: unless-stopped
+    environment:
+      MLFLOW_SERVER_ALLOWED_HOSTS: "*"
+    ports:
+      - "5000:5000"
+    volumes:
+      - mlflow_data:/mlflow
+
+  backend:
+    build:
+      context: ./backend
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+      - mlflow
+    environment:
+      DEBUG: "True"
+      SECRET_KEY: "change-me"
+      ALLOWED_HOSTS: "127.0.0.1,localhost"
+      DATABASE_URL: "postgresql://postgres:postgres@db:5432/toeic_db"
+      CORS_ALLOWED_ORIGINS: "http://localhost:3000,http://127.0.0.1:3000"
+      REDIS_URL: "redis://redis:6379/0"
+      MLFLOW_TRACKING_URI: "http://mlflow:5000"
+      DJANGO_SUPERUSER_EMAIL: "admin@example.com"
+      DJANGO_SUPERUSER_USERNAME: "admin"
+      DJANGO_SUPERUSER_PASSWORD: "admin123"
+    command: >
+      sh -c "
+      python manage.py migrate --noinput &&
+      python manage.py collectstatic --noinput &&
+      python manage.py ensure_default_admin
+      --email $$DJANGO_SUPERUSER_EMAIL
+      --username $$DJANGO_SUPERUSER_USERNAME
+      --password $$DJANGO_SUPERUSER_PASSWORD &&
+      python manage.py seed_skill_cefr_courses &&
+      python manage.py import_course_json --path courses/fixtures/course_listening_a1.json --purge-first &&
+      python manage.py import_course_json --path courses/fixtures/course_reading_a1.json &&
+      python manage.py import_course_json --path courses/fixtures/course_grammar_a1.json &&
+      python manage.py import_course_json --path courses/fixtures/course_vocabulary_a1.json &&
+      python manage.py import_course_json --path courses/fixtures/course_speaking_a1.json &&
+      python manage.py import_course_json --path courses/fixtures/course_writing_a1.json &&
+      python manage.py seed_demo_accounts &&
+      python manage.py seed_fake_users --count 500 &&
+      (python manage.py train_level_model || true) &&
+      gunicorn toeic_project.wsgi:application --bind 0.0.0.0:8000 --workers 3
+      "
+    ports:
+      - "8000:8000"
+    volumes:
+      - ml_artifacts_data:/app/ml_artifacts
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_BASE_URL: "/api/v1"
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "3000:80"
+
+volumes:
+  postgres_data:
+  pgadmin_data:
+  redis_data:
+  mlflow_data:
+  ml_artifacts_data:

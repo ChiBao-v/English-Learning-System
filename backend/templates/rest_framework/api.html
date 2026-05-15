@@ -1,0 +1,33 @@
+{% extends "rest_framework/base.html" %}
+
+{% comment %}
+Chỉ override branding + style. KHÔNG override block content để mọi trang
+browsable API (/courses/, /lessons/, ...) vẫn render dữ liệu thật.
+{% endcomment %}
+
+{% block branding %}
+<a class="navbar-brand" href="/api/v1/">🎓 TOEIC Learning System API</a>
+{% endblock %}
+
+{% block style %}
+    {{ block.super }}
+    <style>
+        .navbar.navbar-static-top,
+        .navbar-inverse {
+            background: linear-gradient(135deg, #1f77b4 0%, #17539e 100%);
+            border: none;
+        }
+        .navbar .navbar-brand,
+        .navbar-inverse .navbar-brand {
+            color: #fff;
+            font-weight: 600;
+        }
+        .navbar .navbar-nav > li > a,
+        .navbar-inverse .navbar-nav > li > a {
+            color: rgba(255, 255, 255, 0.9);
+        }
+        .navbar .navbar-nav > li > a:hover {
+            color: #fff;
+        }
+    </style>
+{% endblock %}
