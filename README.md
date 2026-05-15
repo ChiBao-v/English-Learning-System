@@ -2,7 +2,7 @@
 ## Ứng dụng Phân tích Hành vi Học tập Real-time để Cá nhân hóa Lộ trình Học
 
 **Môn học:** Công nghệ Mới Trong Phát triển Ứng dụng    
-** Sinh viên thực hiện:**
+**Sinh viên thực hiện:**
 | Họ và tên | MSSV |
 |---|---|
 | Nguyễn Phạm Chí Bảo | 22678881 |
