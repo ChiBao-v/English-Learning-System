@@ -1,9 +1,13 @@
 # TÀI LIỆU LÝ THUYẾT HỆ THỐNG
 ## Ứng dụng Phân tích Hành vi Học tập Real-time để Cá nhân hóa Lộ trình Học
 
-**Môn học:** Công nghệ Mới  
-**Sinh viên thực hiện:** [Tên sinh viên]  
-**MSSV:** [Mã số sinh viên]  
+**Môn học:** Công nghệ Mới Trong Phát triển Ứng dụng    
+** Sinh viên thực hiện:**
+| Họ và tên | MSSV |
+|---|---|
+| Nguyễn Phạm Chí Bảo | 22678881 |
+| Phạm Hoàng Phát | 22703861 |
+  
 **Ngành:** Khoa học Dữ liệu  
 
 > **Đồng bộ mã nguồn:** Các mục **§3 (Hiện thực)**, **§2.9 (ML)** và **§2.10 (Test)** đã được rà soát theo repo `final_project` (Docker Compose thực tế, API `/api/v1/`, `pytest`, CI GitHub Actions, Axios + Chart.js trên frontend).
