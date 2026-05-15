@@ -10,10 +10,6 @@
   
 **Ngành:** Khoa học Dữ liệu  
 
-> **Đồng bộ mã nguồn:** Các mục **§3 (Hiện thực)**, **§2.9 (ML)** và **§2.10 (Test)** đã được rà soát theo repo `final_project` (Docker Compose thực tế, API `/api/v1/`, `pytest`, CI GitHub Actions, Axios + Chart.js trên frontend).
-
----
-
 ## MỤC LỤC
 
 1. [Giới thiệu và Mô tả Bài toán](#1-giới-thiệu-và-mô-tả-bài-toán)
